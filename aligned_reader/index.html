@@ -216,8 +216,10 @@
     const seekBar = document.getElementById('seekBar');
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
+    const progressStorageKey = `aligned-reader:${manifest.title}:latest-position`;
     let currentIndex = 0;
     let currentParagraphId = null;
+    let pendingSeekLocalTime = null;
 
     function formatTime(seconds) {
       seconds = Math.max(0, Math.floor(seconds || 0));
@@ -244,7 +246,61 @@
       return chapter.audioStart || 0;
     }
 
-    function loadChapter(index, autoplay = false, seek = true) {
+    function seekAudioToLocalTime(chapter, localTime) {
+      const targetTime = chapterAudioStart(chapter) + localTime;
+      if (audio.readyState < 1 || Math.abs((audio.currentTime || 0) - targetTime) > 0.25) {
+        pendingSeekLocalTime = localTime;
+      }
+      const seekAudio = () => {
+        audio.currentTime = targetTime;
+      };
+      if (audio.readyState < 1) {
+        audio.addEventListener('loadedmetadata', seekAudio, { once: true });
+      } else {
+        seekAudio();
+      }
+    }
+
+    function findParagraphAt(chapter, localTime) {
+      return chapter.paragraphs.find((item) => localTime >= item.localBegin && localTime < item.localEnd) || null;
+    }
+
+    function saveProgress(paragraph) {
+      if (!paragraph) return;
+      try {
+        localStorage.setItem(progressStorageKey, JSON.stringify({
+          chapterIndex: currentIndex,
+          paragraphId: paragraph.id,
+          localTime: paragraph.localBegin,
+          updatedAt: Date.now()
+        }));
+      } catch {
+        // Storage may be unavailable; the reader still works without persistence.
+      }
+    }
+
+    function readSavedProgress() {
+      try {
+        const raw = localStorage.getItem(progressStorageKey);
+        if (!raw) return null;
+        const saved = JSON.parse(raw);
+        const chapterIndex = Number(saved.chapterIndex);
+        if (!Number.isInteger(chapterIndex) || chapterIndex < 0 || chapterIndex >= manifest.chapters.length) {
+          return null;
+        }
+        const chapter = manifest.chapters[chapterIndex];
+        const paragraph = chapter.paragraphs.find((item) => item.id === saved.paragraphId);
+        if (!paragraph) return null;
+        return {
+          chapterIndex,
+          localTime: paragraph.localBegin
+        };
+      } catch {
+        return null;
+      }
+    }
+
+    function loadChapter(index, autoplay = false, seek = true, startLocalTime = null) {
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
       currentParagraphId = null;
@@ -262,7 +318,8 @@
           node.id = paragraph.id;
           node.textContent = paragraph.text;
           node.addEventListener('click', () => {
-            audio.currentTime = paragraph.localBegin;
+            updateHighlight(paragraph.localBegin);
+            seekAudioToLocalTime(chapter, paragraph.localBegin);
             audio.play();
           });
           reader.appendChild(node);
@@ -274,11 +331,15 @@
         reader.appendChild(node);
       }
       renderNav();
+      const safeStartLocalTime = Number.isFinite(startLocalTime) ? startLocalTime : 0;
+      if (seek) {
+        if (chapter.paragraphs.length) {
+          updateHighlight(safeStartLocalTime);
+        }
+        seekAudioToLocalTime(chapter, safeStartLocalTime);
+      }
       updateTimes();
       const startPlayback = () => {
-        if (seek) {
-          audio.currentTime = chapterAudioStart(chapter);
-        }
         if (autoplay) {
           audio.play();
         }
@@ -294,10 +355,11 @@
       const chapter = manifest.chapters[currentIndex];
       const audioClock = audio.currentTime || 0;
       const local = Math.max(0, audioClock - chapterAudioStart(chapter));
-      timeLabel.textContent = `${formatTime(chapter.start + local)} / ${formatTime(manifest.duration)}`;
-      chapterTime.textContent = `${formatTime(local)} / ${formatTime(chapter.duration)}`;
-      seekBar.value = chapter.duration ? String(Math.round((local / chapter.duration) * 1000)) : '0';
-      updateHighlight(audioClock);
+      const displayLocal = pendingSeekLocalTime ?? local;
+      timeLabel.textContent = `${formatTime(chapter.start + displayLocal)} / ${formatTime(manifest.duration)}`;
+      chapterTime.textContent = `${formatTime(displayLocal)} / ${formatTime(chapter.duration)}`;
+      seekBar.value = chapter.duration ? String(Math.round((displayLocal / chapter.duration) * 1000)) : '0';
+      updateHighlight(displayLocal);
       const nextChapter = manifest.chapters[currentIndex + 1];
       if (!audio.paused && nextChapter && nextChapter.audio === chapter.audio && local >= chapter.duration - 0.15) {
         loadChapter(currentIndex + 1, true, false);
@@ -306,7 +368,7 @@
 
     function updateHighlight(local) {
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
+      const paragraph = findParagraphAt(chapter, local);
       const nextId = paragraph ? paragraph.id : null;
       if (nextId === currentParagraphId) return;
       if (currentParagraphId) {
@@ -317,6 +379,7 @@
         const node = document.getElementById(currentParagraphId);
         node?.classList.add('active');
         node?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        saveProgress(paragraph);
       }
     }
 
@@ -331,10 +394,20 @@
     nextButton.addEventListener('click', () => loadChapter(currentIndex + 1, !audio.paused));
     seekBar.addEventListener('input', () => {
       const chapter = manifest.chapters[currentIndex];
-      audio.currentTime = chapterAudioStart(chapter) + (Number(seekBar.value) / 1000) * chapter.duration;
+      const local = (Number(seekBar.value) / 1000) * chapter.duration;
+      updateHighlight(local);
+      seekAudioToLocalTime(chapter, local);
     });
     audio.addEventListener('play', () => playButton.textContent = 'Pause');
     audio.addEventListener('pause', () => playButton.textContent = 'Play');
+    audio.addEventListener('seeked', () => {
+      const chapter = manifest.chapters[currentIndex];
+      const local = Math.max(0, (audio.currentTime || 0) - chapterAudioStart(chapter));
+      if (pendingSeekLocalTime !== null && Math.abs(local - pendingSeekLocalTime) <= 0.25) {
+        pendingSeekLocalTime = null;
+      }
+      updateTimes();
+    });
     audio.addEventListener('timeupdate', updateTimes);
     audio.addEventListener('loadedmetadata', updateTimes);
     audio.addEventListener('ended', () => {
@@ -343,7 +416,12 @@
       }
     });
 
-    loadChapter(0, false);
+    const savedProgress = readSavedProgress();
+    if (savedProgress) {
+      loadChapter(savedProgress.chapterIndex, false, true, savedProgress.localTime);
+    } else {
+      loadChapter(0, false);
+    }
   </script>
 </body>
 </html>
