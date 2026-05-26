@@ -13,48 +13,148 @@
   {
    "begin": "10.160",
    "children": [],
-   "end": "49.160",
+   "end": "35.360",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense."
+    "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+   ]
+  },
+  {
+   "begin": "35.360",
+   "children": [],
+   "end": "49.160",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense."
    ]
   },
   {
    "begin": "49.160",
    "children": [],
-   "end": "77.280",
-   "id": "f000003",
+   "end": "53.880",
+   "id": "f000004",
    "language": "eng",
    "lines": [
-    "Mr. Dursley was the director of a firm called Grunnings, which made drills. He was a big, beefy man with hardly any neck, although he did have a very large mustache. Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors. The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere."
+    "Mr. Dursley was the director of a firm called Grunnings, which made drills."
+   ]
+  },
+  {
+   "begin": "53.880",
+   "children": [],
+   "end": "59.360",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "He was a big, beefy man with hardly any neck, although he did have a very large mustache."
+   ]
+  },
+  {
+   "begin": "59.360",
+   "children": [],
+   "end": "70.280",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors."
+   ]
+  },
+  {
+   "begin": "70.280",
+   "children": [],
+   "end": "77.280",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere."
    ]
   },
   {
    "begin": "77.280",
    "children": [],
-   "end": "121.240",
-   "id": "f000004",
+   "end": "85.640",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. They didn't think they could bear it if anyone found out about the Potters. Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several years; in fact, Mrs. Dursley pretended she didn't have a sister, because her sister and her good-for-nothing husband were as unDursleyish as it was possible to be. The Dursleys shuddered to think what the neighbors would say if the Potters arrived in the street. The Dursleys knew that the Potters had a small son, too, but they had never even seen him. This boy was another good reason for keeping the Potters away; they didn't want Dudley mixing with a child like that."
+    "The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it."
+   ]
+  },
+  {
+   "begin": "85.640",
+   "children": [],
+   "end": "89.560",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "They didn't think they could bear it if anyone found out about the Potters."
+   ]
+  },
+  {
+   "begin": "89.560",
+   "children": [],
+   "end": "103.440",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several years; in fact, Mrs. Dursley pretended she didn't have a sister, because her sister and her good-for-nothing husband were as unDursleyish as it was possible to be."
+   ]
+  },
+  {
+   "begin": "103.440",
+   "children": [],
+   "end": "108.400",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "The Dursleys shuddered to think what the neighbors would say if the Potters arrived in the street."
+   ]
+  },
+  {
+   "begin": "108.400",
+   "children": [],
+   "end": "113.840",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "The Dursleys knew that the Potters had a small son, too, but they had never even seen him."
+   ]
+  },
+  {
+   "begin": "113.840",
+   "children": [],
+   "end": "121.240",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "This boy was another good reason for keeping the Potters away; they didn't want Dudley mixing with a child like that."
    ]
   },
   {
    "begin": "121.240",
    "children": [],
-   "end": "141.920",
-   "id": "f000005",
+   "end": "132.720",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr. Dursley hummed as he picked out his most boring tie for work, and Mrs. Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair."
+    "When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country."
    ]
   },
   {
-   "begin": "141.920",
+   "begin": "132.720",
+   "children": [],
+   "end": "141.960",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley hummed as he picked out his most boring tie for work, and Mrs. Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair."
+   ]
+  },
+  {
+   "begin": "141.960",
    "children": [],
    "end": "147.400",
-   "id": "f000006",
+   "id": "f000016",
    "language": "eng",
    "lines": [
     "None of them noticed a large, tawny owl flutter past the window."
@@ -63,68 +163,428 @@
   {
    "begin": "147.400",
    "children": [],
-   "end": "167.440",
-   "id": "f000007",
+   "end": "158.680",
+   "id": "f000017",
    "language": "eng",
    "lines": [
-    "At half past eight, Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls. \"Little tyke,\" chortled Mr. Dursley as he left the house. He got into his car and backed out of number four's drive."
+    "At half past eight, Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls."
    ]
   },
   {
-   "begin": "167.440",
+   "begin": "158.680",
    "children": [],
-   "end": "188.520",
-   "id": "f000008",
+   "end": "164.720",
+   "id": "f000018",
    "language": "eng",
    "lines": [
-    "It was on the corner of the street that he noticed the first sign of something peculiar - a cat reading a map. For a second, Mr. Dursley didn't realize what he had seen - then he jerked his head around to look again. There was a tabby cat standing on the corner of Privet Drive, but there wasn't a map in sight. What could"
+    "\"Little tyke,\" chortled Mr. Dursley as he left the house."
    ]
   },
   {
-   "begin": "188.520",
+   "begin": "164.720",
+   "children": [],
+   "end": "168.960",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "He got into his car and backed out of number four's drive."
+   ]
+  },
+  {
+   "begin": "168.960",
+   "children": [],
+   "end": "176.040",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "It was on the corner of the street that he noticed the first sign of something peculiar - a cat reading a map."
+   ]
+  },
+  {
+   "begin": "176.040",
+   "children": [],
+   "end": "182.720",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "For a second, Mr. Dursley didn't realize what he had seen - then he jerked his head around to look again."
+   ]
+  },
+  {
+   "begin": "182.720",
+   "children": [],
+   "end": "188.280",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "There was a tabby cat standing on the corner of Privet Drive, but there wasn't a map in sight."
+   ]
+  },
+  {
+   "begin": "188.280",
+   "children": [],
+   "end": "188.640",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "What could"
+   ]
+  },
+  {
+   "begin": "188.640",
+   "children": [],
+   "end": "190.120",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "he have been thinking of?"
+   ]
+  },
+  {
+   "begin": "190.120",
+   "children": [],
+   "end": "192.400",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "It must have been a trick of the light."
+   ]
+  },
+  {
+   "begin": "192.400",
+   "children": [],
+   "end": "195.360",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley blinked and stared at the cat."
+   ]
+  },
+  {
+   "begin": "195.360",
+   "children": [],
+   "end": "197.120",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "It stared back."
+   ]
+  },
+  {
+   "begin": "197.120",
+   "children": [],
+   "end": "200.960",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "As Mr. Dursley drove around the corner and up the road, he watched the cat in his mirror."
+   ]
+  },
+  {
+   "begin": "200.960",
+   "children": [],
+   "end": "211.400",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "It was now reading the sign that said Privet Drive - no, looking at the sign; cats couldn't read maps or signs."
+   ]
+  },
+  {
+   "begin": "211.400",
+   "children": [],
+   "end": "214.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley gave himself a little shake and put the cat out of his mind."
+   ]
+  },
+  {
+   "begin": "214.840",
    "children": [],
    "end": "221.400",
-   "id": "f000009",
+   "id": "f000031",
    "language": "eng",
    "lines": [
-    "he have been thinking of? It must have been a trick of the light. Mr. Dursley blinked and stared at the cat. It stared back. As Mr. Dursley drove around the corner and up the road, he watched the cat in his mirror. It was now reading the sign that said Privet Drive - no, looking at the sign; cats couldn't read maps or signs. Mr. Dursley gave himself a little shake and put the cat out of his mind. As he drove toward town he thought of nothing except a large order of drills he was hoping to get that day."
+    "As he drove toward town he thought of nothing except a large order of drills he was hoping to get that day."
    ]
   },
   {
    "begin": "221.400",
    "children": [],
-   "end": "285.520",
-   "id": "f000010",
+   "end": "226.600",
+   "id": "f000032",
    "language": "eng",
    "lines": [
-    "But on the edge of town, drills were driven out of his mind by something else. As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in cloaks. Mr. Dursley couldn't bear people who dressed in funny clothes - the getups you saw on young people! He supposed this was some stupid new fashion. He drummed his fingers on the steering wheel and his eyes fell on a huddle of these weirdos standing quite close by. They were whispering excitedly together. Mr. Dursley was enraged to see that a couple of them weren't young at all; why, that man had to be older than he was, and wearing an emerald-green cloak! The nerve of him! But then it struck Mr. Dursley that this was probably some silly stunt - these people were obviously collecting for something . . . yes, that would be it. The traffic moved on and a few minutes later, Mr. Dursley arrived in the Grunnings parking lot, his mind back on drills."
+    "But on the edge of town, drills were driven out of his mind by something else."
+   ]
+  },
+  {
+   "begin": "226.600",
+   "children": [],
+   "end": "233.200",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about."
+   ]
+  },
+  {
+   "begin": "233.200",
+   "children": [],
+   "end": "236.200",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "People in cloaks."
+   ]
+  },
+  {
+   "begin": "236.200",
+   "children": [],
+   "end": "242.720",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley couldn't bear people who dressed in funny clothes - the getups you saw on young people!"
+   ]
+  },
+  {
+   "begin": "242.720",
+   "children": [],
+   "end": "245.000",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "He supposed this was some stupid new fashion."
+   ]
+  },
+  {
+   "begin": "245.000",
+   "children": [],
+   "end": "251.920",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "He drummed his fingers on the steering wheel and his eyes fell on a huddle of these weirdos standing quite close by."
+   ]
+  },
+  {
+   "begin": "251.920",
+   "children": [],
+   "end": "254.560",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "They were whispering excitedly together."
+   ]
+  },
+  {
+   "begin": "254.560",
+   "children": [],
+   "end": "265.440",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley was enraged to see that a couple of them weren't young at all; why, that man had to be older than he was, and wearing an emerald-green cloak!"
+   ]
+  },
+  {
+   "begin": "265.440",
+   "children": [],
+   "end": "267.640",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "The nerve of him!"
+   ]
+  },
+  {
+   "begin": "267.640",
+   "children": [],
+   "end": "275.000",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "But then it struck Mr. Dursley that this was probably some silly stunt - these people were obviously collecting for something ."
+   ]
+  },
+  {
+   "begin": "275.000",
+   "children": [],
+   "end": "275.000",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "275.000",
+   "children": [],
+   "end": "275.000",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "275.000",
+   "children": [],
+   "end": "276.800",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "yes, that would be it."
+   ]
+  },
+  {
+   "begin": "276.800",
+   "children": [],
+   "end": "285.520",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "The traffic moved on and a few minutes later, Mr. Dursley arrived in the Grunnings parking lot, his mind back on drills."
    ]
   },
   {
    "begin": "285.520",
    "children": [],
-   "end": "328.800",
-   "id": "f000011",
+   "end": "289.640",
+   "id": "f000046",
    "language": "eng",
    "lines": [
-    "Mr. Dursley always sat with his back to the window in his office on the ninth floor. If he hadn't, he might have found it harder to concentrate on drills that morning. He didn't see the owls swooping past in broad daylight, though people down in the street did; they pointed and gazed open-mouthed as owl after owl sped overhead. Most of them had never seen an owl even at nighttime. Mr. Dursley, however, had a perfectly normal, owl-free morning. He yelled at five different people. He made several important telephone calls and shouted a bit more. He was in a very good mood until lunchtime, when he thought he'd stretch his legs and walk across the road to buy himself a bun from the bakery."
+    "Mr. Dursley always sat with his back to the window in his office on the ninth floor."
+   ]
+  },
+  {
+   "begin": "289.640",
+   "children": [],
+   "end": "294.400",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "If he hadn't, he might have found it harder to concentrate on drills that morning."
+   ]
+  },
+  {
+   "begin": "294.400",
+   "children": [],
+   "end": "305.720",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "He didn't see the owls swooping past in broad daylight, though people down in the street did; they pointed and gazed open-mouthed as owl after owl sped overhead."
+   ]
+  },
+  {
+   "begin": "305.720",
+   "children": [],
+   "end": "309.080",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Most of them had never seen an owl even at nighttime."
+   ]
+  },
+  {
+   "begin": "309.080",
+   "children": [],
+   "end": "314.000",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley, however, had a perfectly normal, owl-free morning."
+   ]
+  },
+  {
+   "begin": "314.000",
+   "children": [],
+   "end": "315.640",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "He yelled at five different people."
+   ]
+  },
+  {
+   "begin": "315.640",
+   "children": [],
+   "end": "319.720",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "He made several important telephone calls and shouted a bit more."
+   ]
+  },
+  {
+   "begin": "319.720",
+   "children": [],
+   "end": "328.800",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "He was in a very good mood until lunchtime, when he thought he'd stretch his legs and walk across the road to buy himself a bun from the bakery."
    ]
   },
   {
    "begin": "328.800",
    "children": [],
-   "end": "349.920",
-   "id": "f000012",
+   "end": "332.800",
+   "id": "f000054",
    "language": "eng",
    "lines": [
-    "He'd forgotten all about the people in cloaks until he passed a group of them next to the baker's. He eyed them angrily as he passed. He didn't know why, but they made him uneasy. This bunch were whispering excitedly, too, and he couldn't see a single collecting tin. It was on his way back past them, clutching a large doughnut in a bag, that he caught a few words of what they were saying."
+    "He'd forgotten all about the people in cloaks until he passed a group of them next to the baker's."
+   ]
+  },
+  {
+   "begin": "332.800",
+   "children": [],
+   "end": "335.320",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "He eyed them angrily as he passed."
+   ]
+  },
+  {
+   "begin": "335.320",
+   "children": [],
+   "end": "337.840",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "He didn't know why, but they made him uneasy."
+   ]
+  },
+  {
+   "begin": "337.840",
+   "children": [],
+   "end": "343.800",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "This bunch were whispering excitedly, too, and he couldn't see a single collecting tin."
+   ]
+  },
+  {
+   "begin": "343.800",
+   "children": [],
+   "end": "349.920",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "It was on his way back past them, clutching a large doughnut in a bag, that he caught a few words of what they were saying."
    ]
   },
   {
    "begin": "349.920",
    "children": [],
    "end": "353.520",
-   "id": "f000013",
+   "id": "f000059",
    "language": "eng",
    "lines": [
     "\"The Potters, that's right, that's what I heard - \""
@@ -134,7 +594,7 @@
    "begin": "353.520",
    "children": [],
    "end": "356.760",
-   "id": "f000014",
+   "id": "f000060",
    "language": "eng",
    "lines": [
     "\" - yes, their son, Harry - \""
@@ -143,38 +603,228 @@
   {
    "begin": "356.760",
    "children": [],
-   "end": "361.560",
-   "id": "f000015",
+   "end": "358.960",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "Mr. Dursley stopped dead. Fear flooded him. He looked back at the whisperers as"
+    "Mr. Dursley stopped dead."
    ]
   },
   {
-   "begin": "361.560",
+   "begin": "358.960",
    "children": [],
-   "end": "365.880",
-   "id": "f000016",
+   "end": "360.160",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Fear flooded him."
+   ]
+  },
+  {
+   "begin": "360.160",
+   "children": [],
+   "end": "361.520",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "He looked back at the whisperers as"
+   ]
+  },
+  {
+   "begin": "361.520",
+   "children": [],
+   "end": "364.720",
+   "id": "f000064",
    "language": "eng",
    "lines": [
     "if he wanted to say something to them, but thought better of it."
    ]
   },
   {
-   "begin": "365.880",
+   "begin": "364.720",
    "children": [],
-   "end": "410.320",
-   "id": "f000017",
+   "end": "375.000",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "He dashed back across the road, hurried up to his office, snapped at his secretary not to disturb him, seized his telephone, and had almost finished dialing his home number when he changed his mind. He put the receiver back down and stroked his mustache, thinking . . . no, he was being stupid. Potter wasn't such an unusual name. He was sure there were lots of people called Potter who had a son called Harry. Come to think of it, he wasn't even sure his nephew was called Harry. He'd never even seen the boy. It might have been Harvey. Or Harold. There was no point in worrying Mrs. Dursley; she always got so upset at any mention of her sister. He didn't blame her - if he'd had a sister like that . . . but all the same, those people in cloaks . . ."
+    "He dashed back across the road, hurried up to his office, snapped at his secretary not to disturb him, seized his telephone, and had almost finished dialing his home number when he changed his mind."
    ]
   },
   {
-   "begin": "410.320",
+   "begin": "375.000",
+   "children": [],
+   "end": "378.240",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "He put the receiver back down and stroked his mustache, thinking ."
+   ]
+  },
+  {
+   "begin": "378.240",
+   "children": [],
+   "end": "378.960",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "378.960",
+   "children": [],
+   "end": "378.960",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "378.960",
+   "children": [],
+   "end": "381.400",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "no, he was being stupid."
+   ]
+  },
+  {
+   "begin": "381.400",
+   "children": [],
+   "end": "384.440",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Potter wasn't such an unusual name."
+   ]
+  },
+  {
+   "begin": "384.440",
+   "children": [],
+   "end": "388.200",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "He was sure there were lots of people called Potter who had a son called Harry."
+   ]
+  },
+  {
+   "begin": "388.200",
+   "children": [],
+   "end": "392.240",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "Come to think of it, he wasn't even sure his nephew was called Harry."
+   ]
+  },
+  {
+   "begin": "392.240",
+   "children": [],
+   "end": "394.200",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "He'd never even seen the boy."
+   ]
+  },
+  {
+   "begin": "394.200",
+   "children": [],
+   "end": "395.560",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "It might have been Harvey."
+   ]
+  },
+  {
+   "begin": "395.560",
+   "children": [],
+   "end": "396.840",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Or Harold."
+   ]
+  },
+  {
+   "begin": "396.840",
+   "children": [],
+   "end": "401.440",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "There was no point in worrying Mrs. Dursley; she always got so upset at any mention of her sister."
+   ]
+  },
+  {
+   "begin": "401.440",
+   "children": [],
+   "end": "404.800",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "He didn't blame her - if he'd had a sister like that ."
+   ]
+  },
+  {
+   "begin": "404.800",
+   "children": [],
+   "end": "404.800",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "404.800",
+   "children": [],
+   "end": "404.800",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "404.800",
+   "children": [],
+   "end": "408.920",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "but all the same, those people in cloaks ."
+   ]
+  },
+  {
+   "begin": "408.920",
+   "children": [],
+   "end": "408.920",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "408.920",
+   "children": [],
+   "end": "408.920",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "408.920",
    "children": [],
    "end": "419.200",
-   "id": "f000018",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "He found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock, he was still so worried that he walked straight into someone just outside the door."
@@ -183,188 +833,848 @@
   {
    "begin": "419.200",
    "children": [],
-   "end": "452.560",
-   "id": "f000019",
+   "end": "424.200",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "\"Sorry,\" he grunted, as the tiny old man stumbled and almost fell. It was a few seconds before Mr. Dursley realized that the man was wearing a violet cloak. He didn't seem at all upset at being almost knocked to the ground. On the contrary, his face split into a wide smile and he said in a squeaky voice that made passersby stare, \"Don't be sorry, my dear sir, for nothing could upset me today! Rejoice, for You-Know-Who has gone at last! Even Muggles like yourself should be celebrating, this happy, happy day!\""
+    "\"Sorry,\" he grunted, as the tiny old man stumbled and almost fell."
+   ]
+  },
+  {
+   "begin": "424.200",
+   "children": [],
+   "end": "429.320",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "It was a few seconds before Mr. Dursley realized that the man was wearing a violet cloak."
+   ]
+  },
+  {
+   "begin": "429.320",
+   "children": [],
+   "end": "433.440",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "He didn't seem at all upset at being almost knocked to the ground."
+   ]
+  },
+  {
+   "begin": "433.440",
+   "children": [],
+   "end": "443.680",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "On the contrary, his face split into a wide smile and he said in a squeaky voice that made passersby stare, \"Don't be sorry, my dear sir, for nothing could upset me today!"
+   ]
+  },
+  {
+   "begin": "443.680",
+   "children": [],
+   "end": "447.640",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Rejoice, for You-Know-Who has gone at last!"
+   ]
+  },
+  {
+   "begin": "447.640",
+   "children": [],
+   "end": "452.560",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "Even Muggles like yourself should be celebrating, this happy, happy day!\""
    ]
   },
   {
    "begin": "452.560",
    "children": [],
-   "end": "457.000",
-   "id": "f000020",
+   "end": "455.600",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "And the old man hugged Mr. Dursley around the middle and walked off."
    ]
   },
   {
-   "begin": "457.000",
+   "begin": "455.600",
    "children": [],
-   "end": "477.920",
-   "id": "f000021",
+   "end": "459.880",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "Mr. Dursley stood rooted to the spot. He had been hugged by a complete stranger. He also thought he had been called a Muggle, whatever that was. He was rattled. He hurried to his car and set off for home, hoping he was imagining things, which he had never hoped before, because he didn't approve of imagination."
+    "Mr. Dursley stood rooted to the spot."
    ]
   },
   {
-   "begin": "477.920",
+   "begin": "459.880",
    "children": [],
-   "end": "491.840",
-   "id": "f000022",
+   "end": "463.000",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "As he pulled into the driveway of number four, the first thing he saw - and it didn't improve his mood - was the tabby cat he'd spotted that morning. It was now sitting on his garden wall. He was sure it was the same one; it had the same markings around its eyes."
+    "He had been hugged by a complete stranger."
+   ]
+  },
+  {
+   "begin": "463.000",
+   "children": [],
+   "end": "466.720",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "He also thought he had been called a Muggle, whatever that was."
+   ]
+  },
+  {
+   "begin": "466.720",
+   "children": [],
+   "end": "468.920",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "He was rattled."
+   ]
+  },
+  {
+   "begin": "468.920",
+   "children": [],
+   "end": "477.880",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "He hurried to his car and set off for home, hoping he was imagining things, which he had never hoped before, because he didn't approve of imagination."
+   ]
+  },
+  {
+   "begin": "477.880",
+   "children": [],
+   "end": "485.840",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "As he pulled into the driveway of number four, the first thing he saw - and it didn't improve his mood - was the tabby cat he'd spotted that morning."
+   ]
+  },
+  {
+   "begin": "485.840",
+   "children": [],
+   "end": "487.720",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "It was now sitting on his garden wall."
+   ]
+  },
+  {
+   "begin": "487.720",
+   "children": [],
+   "end": "491.840",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "He was sure it was the same one; it had the same markings around its eyes."
    ]
   },
   {
    "begin": "491.840",
    "children": [],
-   "end": "496.240",
-   "id": "f000023",
+   "end": "493.200",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"Shoo!\" said Mr. Dursley loudly."
+    "\"Shoo!\""
    ]
   },
   {
-   "begin": "496.240",
+   "begin": "493.200",
    "children": [],
-   "end": "510.360",
-   "id": "f000024",
+   "end": "495.280",
+   "id": "f000100",
    "language": "eng",
    "lines": [
-    "The cat didn't move. It just gave him a stern look. Was this normal cat behavior? Mr. Dursley wondered. Trying to pull himself together, he let himself into the house. He was still determined not to mention anything to his wife."
+    "said Mr. Dursley loudly."
+   ]
+  },
+  {
+   "begin": "495.280",
+   "children": [],
+   "end": "497.360",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "The cat didn't move."
+   ]
+  },
+  {
+   "begin": "497.360",
+   "children": [],
+   "end": "498.880",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "It just gave him a stern look."
+   ]
+  },
+  {
+   "begin": "498.880",
+   "children": [],
+   "end": "501.480",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "Was this normal cat behavior?"
+   ]
+  },
+  {
+   "begin": "501.480",
+   "children": [],
+   "end": "502.600",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley wondered."
+   ]
+  },
+  {
+   "begin": "502.600",
+   "children": [],
+   "end": "506.120",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Trying to pull himself together, he let himself into the house."
+   ]
+  },
+  {
+   "begin": "506.120",
+   "children": [],
+   "end": "510.360",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "He was still determined not to mention anything to his wife."
    ]
   },
   {
    "begin": "510.360",
    "children": [],
-   "end": "530.240",
-   "id": "f000025",
+   "end": "513.120",
+   "id": "f000107",
    "language": "eng",
    "lines": [
-    "Mrs. Dursley had had a nice, normal day. She told him over dinner all about Mrs. Next Door's problems with her daughter and how Dudley had learned a new word (\"Won't!\"). Mr. Dursley tried to act normally. When Dudley had been put to bed, he went into the living room in time to catch the last report on the evening news:"
+    "Mrs. Dursley had had a nice, normal day."
+   ]
+  },
+  {
+   "begin": "513.120",
+   "children": [],
+   "end": "522.000",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "She told him over dinner all about Mrs. Next Door's problems with her daughter and how Dudley had learned a new word (\"Won't!\")."
+   ]
+  },
+  {
+   "begin": "522.000",
+   "children": [],
+   "end": "524.000",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley tried to act normally."
+   ]
+  },
+  {
+   "begin": "524.000",
+   "children": [],
+   "end": "530.240",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "When Dudley had been put to bed, he went into the living room in time to catch the last report on the evening news:"
    ]
   },
   {
    "begin": "530.240",
    "children": [],
-   "end": "564.840",
-   "id": "f000026",
+   "end": "537.600",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "\"And finally, bird-watchers everywhere have reported that the nation's owls have been behaving very unusually today. Although owls normally hunt at night and are hardly ever seen in daylight, there have been hundreds of sightings of these birds flying in every direction since sunrise. Experts are unable to explain why the owls have suddenly changed their sleeping pattern.\" The newscaster allowed himself a grin. \"Most mysterious. And now, over to Jim McGuffin with the weather. Going to be any more showers of owls tonight, Jim?\""
+    "\"And finally, bird-watchers everywhere have reported that the nation's owls have been behaving very unusually today."
+   ]
+  },
+  {
+   "begin": "537.600",
+   "children": [],
+   "end": "547.720",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Although owls normally hunt at night and are hardly ever seen in daylight, there have been hundreds of sightings of these birds flying in every direction since sunrise."
+   ]
+  },
+  {
+   "begin": "547.720",
+   "children": [],
+   "end": "552.920",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Experts are unable to explain why the owls have suddenly changed their sleeping pattern.\""
+   ]
+  },
+  {
+   "begin": "552.920",
+   "children": [],
+   "end": "555.880",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "The newscaster allowed himself a grin."
+   ]
+  },
+  {
+   "begin": "555.880",
+   "children": [],
+   "end": "558.360",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "\"Most mysterious."
+   ]
+  },
+  {
+   "begin": "558.360",
+   "children": [],
+   "end": "561.320",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "And now, over to Jim McGuffin with the weather."
+   ]
+  },
+  {
+   "begin": "561.320",
+   "children": [],
+   "end": "564.840",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Going to be any more showers of owls tonight, Jim?\""
    ]
   },
   {
    "begin": "564.840",
    "children": [],
-   "end": "593.920",
-   "id": "f000027",
+   "end": "572.240",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "\"Well, Ted,\" said the weatherman, \"I don't know about that, but it's not only the owls that have been acting oddly today. Viewers as far apart as Kent, Yorkshire, and Dundee have been phoning in to tell me that instead of the rain I promised yesterday, they've had a downpour of shooting stars! Perhaps people have been celebrating Bonfire Night early - it's not until next week, folks! But I can promise a wet night tonight.\""
+    "\"Well, Ted,\" said the weatherman, \"I don't know about that, but it's not only the owls that have been acting oddly today."
    ]
   },
   {
-   "begin": "593.920",
+   "begin": "572.240",
    "children": [],
-   "end": "607.800",
-   "id": "f000028",
+   "end": "583.320",
+   "id": "f000119",
    "language": "eng",
    "lines": [
-    "Mr. Dursley sat frozen in his armchair. Shooting stars all over Britain? Owls flying by daylight? Mysterious people in cloaks all over the place? And a whisper, a whisper about the Potters . . ."
+    "Viewers as far apart as Kent, Yorkshire, and Dundee have been phoning in to tell me that instead of the rain I promised yesterday, they've had a downpour of shooting stars!"
    ]
   },
   {
-   "begin": "607.800",
+   "begin": "583.320",
    "children": [],
-   "end": "622.240",
-   "id": "f000029",
+   "end": "589.880",
+   "id": "f000120",
    "language": "eng",
    "lines": [
-    "Mrs. Dursley came into the living room carrying two cups of tea. It was no good. He'd have to say something to her. He cleared his throat nervously. \"Er - Petunia, dear - you haven't heard from your sister lately, have you?\""
+    "Perhaps people have been celebrating Bonfire Night early - it's not until next week, folks!"
    ]
   },
   {
-   "begin": "622.240",
+   "begin": "589.880",
+   "children": [],
+   "end": "592.600",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "But I can promise a wet night tonight.\""
+   ]
+  },
+  {
+   "begin": "592.600",
+   "children": [],
+   "end": "596.680",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley sat frozen in his armchair."
+   ]
+  },
+  {
+   "begin": "596.680",
+   "children": [],
+   "end": "598.680",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Shooting stars all over Britain?"
+   ]
+  },
+  {
+   "begin": "598.680",
+   "children": [],
+   "end": "600.840",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Owls flying by daylight?"
+   ]
+  },
+  {
+   "begin": "600.840",
+   "children": [],
+   "end": "603.200",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "Mysterious people in cloaks all over the place?"
+   ]
+  },
+  {
+   "begin": "603.200",
+   "children": [],
+   "end": "606.440",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "And a whisper, a whisper about the Potters ."
+   ]
+  },
+  {
+   "begin": "606.440",
+   "children": [],
+   "end": "606.440",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "606.440",
+   "children": [],
+   "end": "606.440",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "606.440",
+   "children": [],
+   "end": "611.200",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Mrs. Dursley came into the living room carrying two cups of tea."
+   ]
+  },
+  {
+   "begin": "611.200",
+   "children": [],
+   "end": "612.440",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "It was no good."
+   ]
+  },
+  {
+   "begin": "612.440",
+   "children": [],
+   "end": "614.320",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "He'd have to say something to her."
+   ]
+  },
+  {
+   "begin": "614.320",
+   "children": [],
+   "end": "616.160",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "He cleared his throat nervously."
+   ]
+  },
+  {
+   "begin": "616.160",
+   "children": [],
+   "end": "621.240",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "\"Er - Petunia, dear - you haven't heard from your sister lately, have you?\""
+   ]
+  },
+  {
+   "begin": "621.240",
+   "children": [],
+   "end": "624.960",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "As he had expected, Mrs. Dursley looked shocked and angry."
+   ]
+  },
+  {
+   "begin": "624.960",
    "children": [],
    "end": "628.280",
-   "id": "f000030",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "As he had expected, Mrs. Dursley looked shocked and angry. After all, they normally pretended she didn't have a sister."
+    "After all, they normally pretended she didn't have a sister."
    ]
   },
   {
    "begin": "628.280",
    "children": [],
-   "end": "630.960",
-   "id": "f000031",
+   "end": "630.480",
+   "id": "f000136",
    "language": "eng",
    "lines": [
-    "\"No,\" she said sharply. \"Why?\""
+    "\"No,\" she said sharply."
+   ]
+  },
+  {
+   "begin": "630.480",
+   "children": [],
+   "end": "630.960",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "\"Why?\""
    ]
   },
   {
    "begin": "630.960",
    "children": [],
-   "end": "641.360",
-   "id": "f000032",
+   "end": "634.880",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "\"Funny stuff on the news,\" Mr. Dursley mumbled. \"Owls . . . shooting stars . . . and there were a lot of funny-looking people in town today . . .\""
+    "\"Funny stuff on the news,\" Mr. Dursley mumbled."
+   ]
+  },
+  {
+   "begin": "634.880",
+   "children": [],
+   "end": "635.960",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "\"Owls ."
+   ]
+  },
+  {
+   "begin": "635.960",
+   "children": [],
+   "end": "635.960",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "635.960",
+   "children": [],
+   "end": "635.960",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "635.960",
+   "children": [],
+   "end": "637.800",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "shooting stars ."
+   ]
+  },
+  {
+   "begin": "637.800",
+   "children": [],
+   "end": "637.800",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "637.800",
+   "children": [],
+   "end": "637.800",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "637.800",
+   "children": [],
+   "end": "641.360",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "and there were a lot of funny-looking people in town today ."
    ]
   },
   {
    "begin": "641.360",
    "children": [],
-   "end": "643.880",
-   "id": "f000033",
+   "end": "641.360",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "\"So?\" snapped Mrs. Dursley."
+    "."
+   ]
+  },
+  {
+   "begin": "641.360",
+   "children": [],
+   "end": "641.360",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "641.360",
+   "children": [],
+   "end": "642.640",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "\"So?\""
+   ]
+  },
+  {
+   "begin": "642.640",
+   "children": [],
+   "end": "643.880",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "snapped Mrs. Dursley."
    ]
   },
   {
    "begin": "643.880",
    "children": [],
-   "end": "652.320",
-   "id": "f000034",
+   "end": "645.320",
+   "id": "f000150",
    "language": "eng",
    "lines": [
-    "\"Well, I just thought . . . maybe . . . it was something to do with . . . you know . . . her crowd.\""
+    "\"Well, I just thought ."
    ]
   },
   {
-   "begin": "652.320",
+   "begin": "645.320",
    "children": [],
-   "end": "668.840",
-   "id": "f000035",
+   "end": "645.320",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "Mrs. Dursley sipped her tea through pursed lips. Mr. Dursley wondered whether he dared tell her he'd heard the name \"Potter.\" He decided he didn't dare. Instead he said, as casually as he could, \"Their son - he'd be about Dudley's age now,"
+    "."
    ]
   },
   {
-   "begin": "668.840",
+   "begin": "645.320",
    "children": [],
-   "end": "669.360",
-   "id": "f000036",
+   "end": "645.320",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "645.320",
+   "children": [],
+   "end": "646.200",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "maybe ."
+   ]
+  },
+  {
+   "begin": "646.200",
+   "children": [],
+   "end": "646.200",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "646.200",
+   "children": [],
+   "end": "646.200",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "646.200",
+   "children": [],
+   "end": "648.760",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "it was something to do with ."
+   ]
+  },
+  {
+   "begin": "648.760",
+   "children": [],
+   "end": "648.760",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "648.760",
+   "children": [],
+   "end": "648.760",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "648.760",
+   "children": [],
+   "end": "649.680",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "you know ."
+   ]
+  },
+  {
+   "begin": "649.680",
+   "children": [],
+   "end": "649.680",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "649.680",
+   "children": [],
+   "end": "649.680",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "649.680",
+   "children": [],
+   "end": "651.160",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "her crowd.\""
+   ]
+  },
+  {
+   "begin": "651.160",
+   "children": [],
+   "end": "655.560",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Mrs. Dursley sipped her tea through pursed lips."
+   ]
+  },
+  {
+   "begin": "655.560",
+   "children": [],
+   "end": "659.520",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Mr. Dursley wondered whether he dared tell her he'd heard the name \"Potter.\""
+   ]
+  },
+  {
+   "begin": "659.520",
+   "children": [],
+   "end": "662.040",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "He decided he didn't dare."
+   ]
+  },
+  {
+   "begin": "662.040",
+   "children": [],
+   "end": "668.800",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Instead he said, as casually as he could, \"Their son - he'd be about Dudley's age now,"
+   ]
+  },
+  {
+   "begin": "668.800",
+   "children": [],
+   "end": "670.520",
+   "id": "f000167",
    "language": "eng",
    "lines": [
     "wouldn't he?\""
    ]
   },
   {
-   "begin": "669.360",
+   "begin": "670.520",
    "children": [],
    "end": "673.640",
-   "id": "f000037",
+   "id": "f000168",
    "language": "eng",
    "lines": [
     "\"I suppose so,\" said Mrs. Dursley stiffly."
@@ -373,168 +1683,628 @@
   {
    "begin": "673.640",
    "children": [],
-   "end": "677.120",
-   "id": "f000038",
+   "end": "675.920",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "\"What's his name again? Howard, isn't it?\""
+    "\"What's his name again?"
+   ]
+  },
+  {
+   "begin": "675.920",
+   "children": [],
+   "end": "677.120",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "Howard, isn't it?\""
    ]
   },
   {
    "begin": "677.120",
    "children": [],
-   "end": "680.680",
-   "id": "f000039",
+   "end": "678.480",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "\"Harry. Nasty, common name, if you ask me.\""
+    "\"Harry."
+   ]
+  },
+  {
+   "begin": "678.480",
+   "children": [],
+   "end": "680.680",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Nasty, common name, if you ask me.\""
    ]
   },
   {
    "begin": "680.680",
    "children": [],
-   "end": "688.640",
-   "id": "f000040",
+   "end": "685.440",
+   "id": "f000173",
    "language": "eng",
    "lines": [
-    "\"Oh, yes,\" said Mr. Dursley, his heart sinking horribly. \"Yes, I quite agree.\""
+    "\"Oh, yes,\" said Mr. Dursley, his heart sinking horribly."
    ]
   },
   {
-   "begin": "688.640",
+   "begin": "685.440",
    "children": [],
-   "end": "705.400",
-   "id": "f000041",
+   "end": "687.320",
+   "id": "f000174",
    "language": "eng",
    "lines": [
-    "He didn't say another word on the subject as they went upstairs to bed. While Mrs. Dursley was in the bathroom, Mr. Dursley crept to the bedroom window and peered down into the front garden. The cat was still there. It was staring down Privet Drive as though it were waiting for something."
+    "\"Yes, I quite agree.\""
    ]
   },
   {
-   "begin": "705.400",
+   "begin": "687.320",
    "children": [],
-   "end": "718.400",
-   "id": "f000042",
+   "end": "691.800",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "Was he imagining things? Could all this have anything to do with the Potters? If it did . . . if it got out that they were related to a pair of - well, he didn't think he could bear it."
+    "He didn't say another word on the subject as they went upstairs to bed."
    ]
   },
   {
-   "begin": "718.400",
+   "begin": "691.800",
    "children": [],
-   "end": "750.080",
-   "id": "f000043",
+   "end": "698.720",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "The Dursleys got into bed. Mrs. Dursley fell asleep quickly but Mr. Dursley lay awake, turning it all over in his mind. His last, comforting thought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs. Dursley. The Potters knew very well what he and Petunia thought about them and their kind. . . . He couldn't see how he and Petunia could get mixed up in anything that might be going on - he yawned and turned over - it couldn't affect them. . . ."
+    "While Mrs. Dursley was in the bathroom, Mr. Dursley crept to the bedroom window and peered down into the front garden."
    ]
   },
   {
-   "begin": "750.080",
+   "begin": "698.720",
    "children": [],
-   "end": "753.960",
-   "id": "f000044",
+   "end": "700.520",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "The cat was still there."
+   ]
+  },
+  {
+   "begin": "700.520",
+   "children": [],
+   "end": "704.400",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "It was staring down Privet Drive as though it were waiting for something."
+   ]
+  },
+  {
+   "begin": "704.400",
+   "children": [],
+   "end": "707.040",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "Was he imagining things?"
+   ]
+  },
+  {
+   "begin": "707.040",
+   "children": [],
+   "end": "710.400",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "Could all this have anything to do with the Potters?"
+   ]
+  },
+  {
+   "begin": "710.400",
+   "children": [],
+   "end": "711.600",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "If it did ."
+   ]
+  },
+  {
+   "begin": "711.600",
+   "children": [],
+   "end": "711.600",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "711.600",
+   "children": [],
+   "end": "711.600",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "711.600",
+   "children": [],
+   "end": "717.120",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "if it got out that they were related to a pair of - well, he didn't think he could bear it."
+   ]
+  },
+  {
+   "begin": "717.120",
+   "children": [],
+   "end": "719.840",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "The Dursleys got into bed."
+   ]
+  },
+  {
+   "begin": "719.840",
+   "children": [],
+   "end": "724.880",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "Mrs. Dursley fell asleep quickly but Mr. Dursley lay awake, turning it all over in his mind."
+   ]
+  },
+  {
+   "begin": "724.880",
+   "children": [],
+   "end": "734.400",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "His last, comforting thought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs. Dursley."
+   ]
+  },
+  {
+   "begin": "734.400",
+   "children": [],
+   "end": "739.400",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "The Potters knew very well what he and Petunia thought about them and their kind."
+   ]
+  },
+  {
+   "begin": "739.400",
+   "children": [],
+   "end": "739.400",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "739.400",
+   "children": [],
+   "end": "739.400",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "739.400",
+   "children": [],
+   "end": "739.400",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "739.400",
+   "children": [],
+   "end": "749.240",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "He couldn't see how he and Petunia could get mixed up in anything that might be going on - he yawned and turned over - it couldn't affect them."
+   ]
+  },
+  {
+   "begin": "749.240",
+   "children": [],
+   "end": "749.240",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "749.240",
+   "children": [],
+   "end": "749.280",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "749.280",
+   "children": [],
+   "end": "749.280",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "749.280",
+   "children": [],
+   "end": "752.680",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "How very wrong he was."
    ]
   },
   {
-   "begin": "753.960",
+   "begin": "752.680",
    "children": [],
-   "end": "781.560",
-   "id": "f000045",
+   "end": "761.960",
+   "id": "f000197",
    "language": "eng",
    "lines": [
-    "Mr. Dursley might have been drifting into an uneasy sleep, but the cat on the wall outside was showing no sign of sleepiness. It was sitting as still as a statue, its eyes fixed unblinkingly on the far corner of Privet Drive. It didn't so much as quiver when a car door slammed on the next street, nor when two owls swooped overhead. In fact, it was nearly midnight before the cat moved at all."
+    "Mr. Dursley might have been drifting into an uneasy sleep, but the cat on the wall outside was showing no sign of sleepiness."
    ]
   },
   {
-   "begin": "781.560",
+   "begin": "761.960",
    "children": [],
-   "end": "793.800",
-   "id": "f000046",
+   "end": "769.480",
+   "id": "f000198",
    "language": "eng",
    "lines": [
-    "A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just popped out of the ground. The cat's tail twitched and its eyes narrowed."
+    "It was sitting as still as a statue, its eyes fixed unblinkingly on the far corner of Privet Drive."
    ]
   },
   {
-   "begin": "793.800",
+   "begin": "769.480",
    "children": [],
-   "end": "820.960",
-   "id": "f000047",
+   "end": "775.680",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to tuck into his belt. He was wearing long robes, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and crooked, as"
+    "It didn't so much as quiver when a car door slammed on the next street, nor when two owls swooped overhead."
    ]
   },
   {
-   "begin": "820.960",
+   "begin": "775.680",
    "children": [],
-   "end": "828.480",
-   "id": "f000048",
+   "end": "780.160",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "though it had been broken at least twice. This man's name was Albus Dumbledore."
+    "In fact, it was nearly midnight before the cat moved at all."
    ]
   },
   {
-   "begin": "828.480",
+   "begin": "780.160",
    "children": [],
-   "end": "856.080",
-   "id": "f000049",
+   "end": "789.360",
+   "id": "f000201",
    "language": "eng",
    "lines": [
-    "Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He chuckled and muttered, \"I should have known.\""
+    "A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just popped out of the ground."
    ]
   },
   {
-   "begin": "856.080",
+   "begin": "789.360",
+   "children": [],
+   "end": "792.560",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "The cat's tail twitched and its eyes narrowed."
+   ]
+  },
+  {
+   "begin": "792.560",
+   "children": [],
+   "end": "797.160",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "Nothing like this man had ever been seen on Privet Drive."
+   ]
+  },
+  {
+   "begin": "797.160",
+   "children": [],
+   "end": "805.920",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to tuck into his belt."
+   ]
+  },
+  {
+   "begin": "805.920",
+   "children": [],
+   "end": "812.720",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "He was wearing long robes, a purple cloak that swept the ground, and high-heeled, buckled boots."
+   ]
+  },
+  {
+   "begin": "812.720",
+   "children": [],
+   "end": "820.840",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and crooked, as"
+   ]
+  },
+  {
+   "begin": "820.840",
+   "children": [],
+   "end": "823.000",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "though it had been broken at least twice."
+   ]
+  },
+  {
+   "begin": "823.000",
+   "children": [],
+   "end": "827.320",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "This man's name was Albus Dumbledore."
+   ]
+  },
+  {
+   "begin": "827.320",
+   "children": [],
+   "end": "836.240",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome."
+   ]
+  },
+  {
+   "begin": "836.240",
+   "children": [],
+   "end": "839.440",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "He was busy rummaging in his cloak, looking for something."
+   ]
+  },
+  {
+   "begin": "839.440",
+   "children": [],
+   "end": "846.840",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street."
+   ]
+  },
+  {
+   "begin": "846.840",
+   "children": [],
+   "end": "850.240",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "For some reason, the sight of the cat seemed to amuse him."
+   ]
+  },
+  {
+   "begin": "850.240",
+   "children": [],
+   "end": "854.600",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "He chuckled and muttered, \"I should have known.\""
+   ]
+  },
+  {
+   "begin": "854.600",
+   "children": [],
+   "end": "859.080",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "He found what he was looking for in his inside pocket."
+   ]
+  },
+  {
+   "begin": "859.080",
+   "children": [],
+   "end": "861.320",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "It seemed to be a silver cigarette lighter."
+   ]
+  },
+  {
+   "begin": "861.320",
+   "children": [],
+   "end": "864.560",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "He flicked it open, held it up in the air, and clicked it."
+   ]
+  },
+  {
+   "begin": "864.560",
+   "children": [],
+   "end": "868.040",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "The nearest street lamp went out with a little pop."
+   ]
+  },
+  {
+   "begin": "868.040",
+   "children": [],
+   "end": "871.520",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "He clicked it again - the next lamp flickered into darkness."
+   ]
+  },
+  {
+   "begin": "871.520",
+   "children": [],
+   "end": "881.440",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "Twelve times he clicked the Put-Outer, until the only lights left on the whole street were two tiny pinpricks in the distance, which were the eyes of the cat watching him."
+   ]
+  },
+  {
+   "begin": "881.440",
+   "children": [],
+   "end": "890.200",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "If anyone looked out of their window now, even beady-eyed Mrs. Dursley, they wouldn't be able to see anything that was happening down on the pavement."
+   ]
+  },
+  {
+   "begin": "890.200",
+   "children": [],
+   "end": "899.840",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Dumbledore slipped the Put-Outer back inside his cloak and set off down the street toward number four, where he sat down on the wall next to the cat."
+   ]
+  },
+  {
+   "begin": "899.840",
    "children": [],
    "end": "903.760",
-   "id": "f000050",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "He found what he was looking for in his inside pocket. It seemed to be a silver cigarette lighter. He flicked it open, held it up in the air, and clicked it. The nearest street lamp went out with a little pop. He clicked it again - the next lamp flickered into darkness. Twelve times he clicked the Put-Outer, until the only lights left on the whole street were two tiny pinpricks in the distance, which were the eyes of the cat watching him. If anyone looked out of their window now, even beady-eyed Mrs. Dursley, they wouldn't be able to see anything that was happening down on the pavement. Dumbledore slipped the Put-Outer back inside his cloak and set off down the street toward number four, where he sat down on the wall next to the cat. He didn't look at it, but after a moment he spoke to it."
+    "He didn't look at it, but after a moment he spoke to it."
    ]
   },
   {
    "begin": "903.760",
    "children": [],
-   "end": "910.000",
-   "id": "f000051",
+   "end": "908.960",
+   "id": "f000223",
    "language": "eng",
    "lines": [
     "\"Fancy seeing you here, Professor McGonagall.\""
    ]
   },
   {
-   "begin": "910.000",
+   "begin": "908.960",
    "children": [],
-   "end": "930.560",
-   "id": "f000052",
+   "end": "912.880",
+   "id": "f000224",
    "language": "eng",
    "lines": [
-    "He turned to smile at the tabby, but it had gone. Instead he was smiling at a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an emerald one. Her black hair was drawn into a tight bun. She looked distinctly ruffled."
+    "He turned to smile at the tabby, but it had gone."
+   ]
+  },
+  {
+   "begin": "912.880",
+   "children": [],
+   "end": "922.280",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "Instead he was smiling at a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes."
+   ]
+  },
+  {
+   "begin": "922.280",
+   "children": [],
+   "end": "925.840",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "She, too, was wearing a cloak, an emerald one."
+   ]
+  },
+  {
+   "begin": "925.840",
+   "children": [],
+   "end": "928.640",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Her black hair was drawn into a tight bun."
+   ]
+  },
+  {
+   "begin": "928.640",
+   "children": [],
+   "end": "930.560",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "She looked distinctly ruffled."
    ]
   },
   {
    "begin": "930.560",
    "children": [],
-   "end": "934.280",
-   "id": "f000053",
+   "end": "933.480",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "\"How did you know it was me?\" she asked."
+    "\"How did you know it was me?\""
+   ]
+  },
+  {
+   "begin": "933.480",
+   "children": [],
+   "end": "934.280",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "she asked."
    ]
   },
   {
    "begin": "934.280",
    "children": [],
    "end": "939.800",
-   "id": "f000054",
+   "id": "f000231",
    "language": "eng",
    "lines": [
     "\"My dear Professor, I've never seen a cat sit so stiffly.\""
@@ -544,7 +2314,7 @@
    "begin": "939.800",
    "children": [],
    "end": "945.400",
-   "id": "f000055",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "\"You'd be stiff if you'd been sitting on a brick wall all day,\" said Professor McGonagall."
@@ -553,18 +2323,38 @@
   {
    "begin": "945.400",
    "children": [],
-   "end": "953.480",
-   "id": "f000056",
+   "end": "946.960",
+   "id": "f000233",
    "language": "eng",
    "lines": [
-    "\"All day? When you could have been celebrating? I must have passed a dozen feasts and parties on my way here.\""
+    "\"All day?"
+   ]
+  },
+  {
+   "begin": "946.960",
+   "children": [],
+   "end": "949.080",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "When you could have been celebrating?"
+   ]
+  },
+  {
+   "begin": "949.080",
+   "children": [],
+   "end": "953.480",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "I must have passed a dozen feasts and parties on my way here.\""
    ]
   },
   {
    "begin": "953.480",
    "children": [],
    "end": "956.200",
-   "id": "f000057",
+   "id": "f000236",
    "language": "eng",
    "lines": [
     "Professor McGonagall sniffed angrily."
@@ -573,68 +2363,288 @@
   {
    "begin": "956.200",
    "children": [],
-   "end": "977.680",
-   "id": "f000058",
+   "end": "960.440",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "\"Oh yes, everyone's celebrating, all right,\" she said impatiently. \"You'd think they'd be a bit more careful, but no - even the Muggles have noticed something's going on. It was on their news.\" She jerked her head back at the Dursleys' dark living-room window. \"I heard it. Flocks of owls . . . shooting stars. . . . Well, they're not completely stupid. They were bound to notice"
+    "\"Oh yes, everyone's celebrating, all right,\" she said impatiently."
    ]
   },
   {
-   "begin": "977.680",
+   "begin": "960.440",
    "children": [],
-   "end": "984.600",
-   "id": "f000059",
+   "end": "965.960",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "something. Shooting stars down in Kent - I'll bet that was Dedalus Diggle. He never had much sense.\""
+    "\"You'd think they'd be a bit more careful, but no - even the Muggles have noticed something's going on."
+   ]
+  },
+  {
+   "begin": "965.960",
+   "children": [],
+   "end": "967.400",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "It was on their news.\""
+   ]
+  },
+  {
+   "begin": "967.400",
+   "children": [],
+   "end": "970.760",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "She jerked her head back at the Dursleys' dark living-room window."
+   ]
+  },
+  {
+   "begin": "970.760",
+   "children": [],
+   "end": "971.640",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "\"I heard it."
+   ]
+  },
+  {
+   "begin": "971.640",
+   "children": [],
+   "end": "973.000",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "Flocks of owls ."
+   ]
+  },
+  {
+   "begin": "973.000",
+   "children": [],
+   "end": "973.000",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "973.000",
+   "children": [],
+   "end": "973.000",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "973.000",
+   "children": [],
+   "end": "973.920",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "shooting stars."
+   ]
+  },
+  {
+   "begin": "973.920",
+   "children": [],
+   "end": "973.920",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "973.920",
+   "children": [],
+   "end": "973.960",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "973.960",
+   "children": [],
+   "end": "973.960",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "973.960",
+   "children": [],
+   "end": "975.880",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "Well, they're not completely stupid."
+   ]
+  },
+  {
+   "begin": "975.880",
+   "children": [],
+   "end": "977.640",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "They were bound to notice"
+   ]
+  },
+  {
+   "begin": "977.640",
+   "children": [],
+   "end": "978.120",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "something."
+   ]
+  },
+  {
+   "begin": "978.120",
+   "children": [],
+   "end": "982.840",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "Shooting stars down in Kent - I'll bet that was Dedalus Diggle."
+   ]
+  },
+  {
+   "begin": "982.840",
+   "children": [],
+   "end": "984.600",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "He never had much sense.\""
    ]
   },
   {
    "begin": "984.600",
    "children": [],
-   "end": "992.440",
-   "id": "f000060",
+   "end": "988.720",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "\"You can't blame them,\" said Dumbledore gently. \"We've had precious little to celebrate for eleven years.\""
+    "\"You can't blame them,\" said Dumbledore gently."
+   ]
+  },
+  {
+   "begin": "988.720",
+   "children": [],
+   "end": "992.440",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "\"We've had precious little to celebrate for eleven years.\""
    ]
   },
   {
    "begin": "992.440",
    "children": [],
-   "end": "1008.320",
-   "id": "f000061",
+   "end": "996.760",
+   "id": "f000256",
    "language": "eng",
    "lines": [
-    "\"I know that,\" said Professor McGonagall irritably. \"But that's no reason to lose our heads. People are being downright careless, out on the streets in broad daylight, not even dressed in Muggle clothes, swapping rumors.\""
+    "\"I know that,\" said Professor McGonagall irritably."
    ]
   },
   {
-   "begin": "1008.320",
+   "begin": "996.760",
    "children": [],
-   "end": "1029.080",
-   "id": "f000062",
+   "end": "999.240",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "She threw a sharp, sideways glance at Dumbledore here, as though hoping he was going to tell her something, but he didn't, so she went on. \"A fine thing it would be if, on the very day You-Know-Who seems to have disappeared at last, the Muggles found out about us all. I suppose he really has gone, Dumbledore?\""
+    "\"But that's no reason to lose our heads."
+   ]
+  },
+  {
+   "begin": "999.240",
+   "children": [],
+   "end": "1007.680",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "People are being downright careless, out on the streets in broad daylight, not even dressed in Muggle clothes, swapping rumors.\""
+   ]
+  },
+  {
+   "begin": "1007.680",
+   "children": [],
+   "end": "1016.360",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "She threw a sharp, sideways glance at Dumbledore here, as though hoping he was going to tell her something, but he didn't, so she went on."
+   ]
+  },
+  {
+   "begin": "1016.360",
+   "children": [],
+   "end": "1024.960",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "\"A fine thing it would be if, on the very day You-Know-Who seems to have disappeared at last, the Muggles found out about us all."
+   ]
+  },
+  {
+   "begin": "1024.960",
+   "children": [],
+   "end": "1029.080",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "I suppose he really has gone, Dumbledore?\""
    ]
   },
   {
    "begin": "1029.080",
    "children": [],
-   "end": "1038.120",
-   "id": "f000063",
+   "end": "1032.800",
+   "id": "f000262",
    "language": "eng",
    "lines": [
-    "\"It certainly seems so,\" said Dumbledore. \"We have much to be thankful for. Would you care for a lemon drop?\""
+    "\"It certainly seems so,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1032.800",
+   "children": [],
+   "end": "1035.520",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "\"We have much to be thankful for."
+   ]
+  },
+  {
+   "begin": "1035.520",
+   "children": [],
+   "end": "1038.120",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Would you care for a lemon drop?\""
    ]
   },
   {
    "begin": "1038.120",
    "children": [],
    "end": "1039.360",
-   "id": "f000064",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "\"A what?\""
@@ -643,58 +2653,148 @@
   {
    "begin": "1039.360",
    "children": [],
-   "end": "1044.920",
-   "id": "f000065",
+   "end": "1040.960",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "\"A lemon drop. They're a kind of Muggle sweet I'm rather fond of.\""
+    "\"A lemon drop."
+   ]
+  },
+  {
+   "begin": "1040.960",
+   "children": [],
+   "end": "1044.920",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "They're a kind of Muggle sweet I'm rather fond of.\""
    ]
   },
   {
    "begin": "1044.920",
    "children": [],
-   "end": "1055.560",
-   "id": "f000066",
+   "end": "1051.880",
+   "id": "f000268",
    "language": "eng",
    "lines": [
-    "\"No, thank you,\" said Professor McGonagall coldly, as though she didn't think this was the moment for lemon drops. \"As I say, even if You-Know-Who has gone - \""
+    "\"No, thank you,\" said Professor McGonagall coldly, as though she didn't think this was the moment for lemon drops."
+   ]
+  },
+  {
+   "begin": "1051.880",
+   "children": [],
+   "end": "1055.560",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "\"As I say, even if You-Know-Who has gone - \""
    ]
   },
   {
    "begin": "1055.560",
    "children": [],
-   "end": "1087.600",
-   "id": "f000067",
+   "end": "1062.480",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "\"My dear Professor, surely a sensible person like yourself can call him by his name? All this 'You-Know-Who' nonsense - for eleven years I have been trying to persuade people to call him by his proper name: Voldemort.\" Professor McGonagall flinched, but Dumbledore, who was unsticking two lemon drops, seemed not to notice. \"It all gets so confusing if we keep saying 'You-Know-Who.' I have never seen any reason to be frightened of saying Voldemort's name.\""
+    "\"My dear Professor, surely a sensible person like yourself can call him by his name?"
+   ]
+  },
+  {
+   "begin": "1062.480",
+   "children": [],
+   "end": "1071.080",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "All this 'You-Know-Who' nonsense - for eleven years I have been trying to persuade people to call him by his proper name: Voldemort.\""
+   ]
+  },
+  {
+   "begin": "1071.080",
+   "children": [],
+   "end": "1078.200",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall flinched, but Dumbledore, who was unsticking two lemon drops, seemed not to notice."
+   ]
+  },
+  {
+   "begin": "1078.200",
+   "children": [],
+   "end": "1082.720",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "\"It all gets so confusing if we keep saying 'You-Know-Who.'"
+   ]
+  },
+  {
+   "begin": "1082.720",
+   "children": [],
+   "end": "1087.600",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "I have never seen any reason to be frightened of saying Voldemort's name.\""
    ]
   },
   {
    "begin": "1087.600",
    "children": [],
-   "end": "1103.000",
-   "id": "f000068",
+   "end": "1093.600",
+   "id": "f000275",
    "language": "eng",
    "lines": [
-    "\"I know you haven't,\" said Professor McGonagall, sounding half exasperated, half admiring. \"But you're different. Everyone knows you're the only one You-Know-oh, all right, Voldemort, was frightened of.\""
+    "\"I know you haven't,\" said Professor McGonagall, sounding half exasperated, half admiring."
+   ]
+  },
+  {
+   "begin": "1093.600",
+   "children": [],
+   "end": "1095.400",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "\"But you're different."
+   ]
+  },
+  {
+   "begin": "1095.400",
+   "children": [],
+   "end": "1103.000",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Everyone knows you're the only one You-Know-oh, all right, Voldemort, was frightened of.\""
    ]
   },
   {
    "begin": "1103.000",
    "children": [],
-   "end": "1109.880",
-   "id": "f000069",
+   "end": "1106.680",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "\"You flatter me,\" said Dumbledore calmly. \"Voldemort had powers I will never have.\""
+    "\"You flatter me,\" said Dumbledore calmly."
+   ]
+  },
+  {
+   "begin": "1106.680",
+   "children": [],
+   "end": "1109.880",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "\"Voldemort had powers I will never have.\""
    ]
   },
   {
    "begin": "1109.880",
    "children": [],
    "end": "1115.560",
-   "id": "f000070",
+   "id": "f000280",
    "language": "eng",
    "lines": [
     "\"Only because you're too - well - noble to use them.\""
@@ -703,88 +2803,408 @@
   {
    "begin": "1115.560",
    "children": [],
-   "end": "1124.040",
-   "id": "f000071",
+   "end": "1118.240",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "\"It's lucky it's dark. I haven't blushed so much since Madam Pomfrey told me she liked my new earmuffs.\""
+    "\"It's lucky it's dark."
+   ]
+  },
+  {
+   "begin": "1118.240",
+   "children": [],
+   "end": "1124.040",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "I haven't blushed so much since Madam Pomfrey told me she liked my new earmuffs.\""
    ]
   },
   {
    "begin": "1124.040",
    "children": [],
-   "end": "1139.720",
-   "id": "f000072",
+   "end": "1132.000",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "Professor McGonagall shot a sharp look at Dumbledore and said, \"The owls are nothing next to the rumors that are flying around. You know what everyone's saying? About why he's disappeared? About what finally stopped him?\""
+    "Professor McGonagall shot a sharp look at Dumbledore and said, \"The owls are nothing next to the rumors that are flying around."
    ]
   },
   {
-   "begin": "1139.720",
+   "begin": "1132.000",
    "children": [],
-   "end": "1167.120",
-   "id": "f000073",
+   "end": "1133.800",
+   "id": "f000284",
    "language": "eng",
    "lines": [
-    "It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now. It was plain that whatever \"everyone\" was saying, she was not going to believe it until Dumbledore told her it was true. Dumbledore, however, was choosing another lemon drop and did not answer."
+    "You know what everyone's saying?"
+   ]
+  },
+  {
+   "begin": "1133.800",
+   "children": [],
+   "end": "1135.720",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "About why he's disappeared?"
+   ]
+  },
+  {
+   "begin": "1135.720",
+   "children": [],
+   "end": "1138.400",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "About what finally stopped him?\""
+   ]
+  },
+  {
+   "begin": "1138.400",
+   "children": [],
+   "end": "1154.400",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now."
+   ]
+  },
+  {
+   "begin": "1154.400",
+   "children": [],
+   "end": "1162.320",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "It was plain that whatever \"everyone\" was saying, she was not going to believe it until Dumbledore told her it was true."
+   ]
+  },
+  {
+   "begin": "1162.320",
+   "children": [],
+   "end": "1167.120",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Dumbledore, however, was choosing another lemon drop and did not answer."
    ]
   },
   {
    "begin": "1167.120",
    "children": [],
-   "end": "1186.120",
-   "id": "f000074",
+   "end": "1175.280",
+   "id": "f000290",
    "language": "eng",
    "lines": [
-    "\"What they're saying,\" she pressed on, \"is that last night Voldemort turned up in Godric's Hollow. He went to find the Potters. The rumor is that Lily and James Potter are - are - that they're - dead.\""
+    "\"What they're saying,\" she pressed on, \"is that last night Voldemort turned up in Godric's Hollow."
    ]
   },
   {
-   "begin": "1186.120",
+   "begin": "1175.280",
    "children": [],
-   "end": "1189.800",
-   "id": "f000075",
+   "end": "1177.480",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "Dumbledore bowed his head. Professor McGonagall gasped."
+    "He went to find the Potters."
+   ]
+  },
+  {
+   "begin": "1177.480",
+   "children": [],
+   "end": "1184.760",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "The rumor is that Lily and James Potter are - are - that they're - dead.\""
+   ]
+  },
+  {
+   "begin": "1184.760",
+   "children": [],
+   "end": "1187.680",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Dumbledore bowed his head."
+   ]
+  },
+  {
+   "begin": "1187.680",
+   "children": [],
+   "end": "1189.800",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall gasped."
    ]
   },
   {
    "begin": "1189.800",
    "children": [],
-   "end": "1197.200",
-   "id": "f000076",
+   "end": "1191.680",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "\"Lily and James . . . I can't believe it . . . I didn't want to believe it . . . Oh, Albus . . .\""
+    "\"Lily and James ."
+   ]
+  },
+  {
+   "begin": "1191.680",
+   "children": [],
+   "end": "1191.680",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1191.680",
+   "children": [],
+   "end": "1191.680",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1191.680",
+   "children": [],
+   "end": "1193.840",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "I can't believe it ."
+   ]
+  },
+  {
+   "begin": "1193.840",
+   "children": [],
+   "end": "1193.840",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1193.840",
+   "children": [],
+   "end": "1193.840",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1193.840",
+   "children": [],
+   "end": "1195.640",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "I didn't want to believe it ."
+   ]
+  },
+  {
+   "begin": "1195.640",
+   "children": [],
+   "end": "1195.640",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1195.640",
+   "children": [],
+   "end": "1195.640",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1195.640",
+   "children": [],
+   "end": "1197.200",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "Oh, Albus ."
    ]
   },
   {
    "begin": "1197.200",
    "children": [],
-   "end": "1204.640",
-   "id": "f000077",
+   "end": "1197.200",
+   "id": "f000305",
    "language": "eng",
    "lines": [
-    "Dumbledore reached out and patted her on the shoulder. \"I know . . . I know . . .\" he said heavily."
+    "."
+   ]
+  },
+  {
+   "begin": "1197.200",
+   "children": [],
+   "end": "1197.200",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1197.200",
+   "children": [],
+   "end": "1200.560",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "Dumbledore reached out and patted her on the shoulder."
+   ]
+  },
+  {
+   "begin": "1200.560",
+   "children": [],
+   "end": "1201.760",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "\"I know ."
+   ]
+  },
+  {
+   "begin": "1201.760",
+   "children": [],
+   "end": "1201.760",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1201.760",
+   "children": [],
+   "end": "1201.760",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1201.760",
+   "children": [],
+   "end": "1203.360",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "I know ."
+   ]
+  },
+  {
+   "begin": "1203.360",
+   "children": [],
+   "end": "1203.360",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1203.360",
+   "children": [],
+   "end": "1203.360",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1203.360",
+   "children": [],
+   "end": "1204.640",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "he said heavily."
    ]
   },
   {
    "begin": "1204.640",
    "children": [],
-   "end": "1230.080",
-   "id": "f000078",
+   "end": "1208.480",
+   "id": "f000315",
    "language": "eng",
    "lines": [
-    "Professor McGonagall's voice trembled as she went on. \"That's not all. They're saying he tried to kill the Potters' son, Harry. But - he couldn't. He couldn't kill that little boy. No one knows why, or how, but they're saying that when he couldn't kill Harry Potter, Voldemort's power somehow broke - and that's why he's gone.\""
+    "Professor McGonagall's voice trembled as she went on."
    ]
   },
   {
-   "begin": "1230.080",
+   "begin": "1208.480",
+   "children": [],
+   "end": "1209.720",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "\"That's not all."
+   ]
+  },
+  {
+   "begin": "1209.720",
+   "children": [],
+   "end": "1213.680",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "They're saying he tried to kill the Potters' son, Harry."
+   ]
+  },
+  {
+   "begin": "1213.680",
+   "children": [],
+   "end": "1215.480",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "But - he couldn't."
+   ]
+  },
+  {
+   "begin": "1215.480",
+   "children": [],
+   "end": "1218.040",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "He couldn't kill that little boy."
+   ]
+  },
+  {
+   "begin": "1218.040",
+   "children": [],
+   "end": "1228.800",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "No one knows why, or how, but they're saying that when he couldn't kill Harry Potter, Voldemort's power somehow broke - and that's why he's gone.\""
+   ]
+  },
+  {
+   "begin": "1228.800",
    "children": [],
    "end": "1231.480",
-   "id": "f000079",
+   "id": "f000321",
    "language": "eng",
    "lines": [
     "Dumbledore nodded glumly."
@@ -793,108 +3213,518 @@
   {
    "begin": "1231.480",
    "children": [],
-   "end": "1250.040",
-   "id": "f000080",
+   "end": "1234.200",
+   "id": "f000322",
    "language": "eng",
    "lines": [
-    "\"It's - it's true?\" faltered Professor McGonagall. \"After all he's done . . . all the people he's killed . . . he couldn't kill a little boy? It's just astounding . . . of all the things to stop him . . . but how in the name of heaven did Harry survive?\""
+    "\"It's - it's true?\""
+   ]
+  },
+  {
+   "begin": "1234.200",
+   "children": [],
+   "end": "1236.040",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "faltered Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "1236.040",
+   "children": [],
+   "end": "1238.120",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "\"After all he's done ."
+   ]
+  },
+  {
+   "begin": "1238.120",
+   "children": [],
+   "end": "1238.120",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1238.120",
+   "children": [],
+   "end": "1238.120",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1238.120",
+   "children": [],
+   "end": "1239.800",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "all the people he's killed ."
+   ]
+  },
+  {
+   "begin": "1239.800",
+   "children": [],
+   "end": "1239.800",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1239.800",
+   "children": [],
+   "end": "1239.800",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1239.800",
+   "children": [],
+   "end": "1242.040",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "he couldn't kill a little boy?"
+   ]
+  },
+  {
+   "begin": "1242.040",
+   "children": [],
+   "end": "1244.000",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "It's just astounding ."
+   ]
+  },
+  {
+   "begin": "1244.000",
+   "children": [],
+   "end": "1244.040",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1244.040",
+   "children": [],
+   "end": "1244.120",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1244.120",
+   "children": [],
+   "end": "1246.040",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "of all the things to stop him ."
+   ]
+  },
+  {
+   "begin": "1246.040",
+   "children": [],
+   "end": "1246.040",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1246.040",
+   "children": [],
+   "end": "1246.040",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1246.040",
+   "children": [],
+   "end": "1250.040",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "but how in the name of heaven did Harry survive?\""
    ]
   },
   {
    "begin": "1250.040",
    "children": [],
-   "end": "1255.160",
-   "id": "f000081",
+   "end": "1253.800",
+   "id": "f000338",
    "language": "eng",
    "lines": [
-    "\"We can only guess,\" said Dumbledore. \"We may never know.\""
+    "\"We can only guess,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1253.800",
+   "children": [],
+   "end": "1255.160",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "\"We may never know.\""
    ]
   },
   {
    "begin": "1255.160",
    "children": [],
-   "end": "1285.080",
-   "id": "f000082",
+   "end": "1261.520",
+   "id": "f000340",
    "language": "eng",
    "lines": [
-    "Professor McGonagall pulled out a lace handkerchief and dabbed at her eyes beneath her spectacles. Dumbledore gave a great sniff as he took a golden watch from his pocket and examined it. It was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have made sense to Dumbledore, though, because he put it back in his pocket and said, \"Hagrid's late. I suppose it was he who told you I'd be here, by the way?\""
+    "Professor McGonagall pulled out a lace handkerchief and dabbed at her eyes beneath her spectacles."
+   ]
+  },
+  {
+   "begin": "1261.520",
+   "children": [],
+   "end": "1266.680",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Dumbledore gave a great sniff as he took a golden watch from his pocket and examined it."
+   ]
+  },
+  {
+   "begin": "1266.680",
+   "children": [],
+   "end": "1268.720",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "It was a very odd watch."
+   ]
+  },
+  {
+   "begin": "1268.720",
+   "children": [],
+   "end": "1274.600",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "It had twelve hands but no numbers; instead, little planets were moving around the edge."
+   ]
+  },
+  {
+   "begin": "1274.600",
+   "children": [],
+   "end": "1280.920",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "It must have made sense to Dumbledore, though, because he put it back in his pocket and said, \"Hagrid's late."
+   ]
+  },
+  {
+   "begin": "1280.920",
+   "children": [],
+   "end": "1285.080",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "I suppose it was he who told you I'd be here, by the way?\""
    ]
   },
   {
    "begin": "1285.080",
    "children": [],
-   "end": "1292.480",
-   "id": "f000083",
+   "end": "1287.880",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Professor McGonagall. \"And I don't suppose you're going to tell me why you're here, of all places?\""
+    "\"Yes,\" said Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "1287.880",
+   "children": [],
+   "end": "1292.480",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "\"And I don't suppose you're going to tell me why you're here, of all places?\""
    ]
   },
   {
    "begin": "1292.480",
    "children": [],
-   "end": "1299.400",
-   "id": "f000084",
+   "end": "1296.480",
+   "id": "f000348",
    "language": "eng",
    "lines": [
-    "\"I've come to bring Harry to his aunt and uncle. They're the only family he has left now.\""
+    "\"I've come to bring Harry to his aunt and uncle."
+   ]
+  },
+  {
+   "begin": "1296.480",
+   "children": [],
+   "end": "1299.400",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "They're the only family he has left now.\""
    ]
   },
   {
    "begin": "1299.400",
    "children": [],
-   "end": "1324.600",
-   "id": "f000085",
+   "end": "1303.400",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "\"You don't mean - you can't mean the people who live here?\" cried Professor McGonagall, jumping to her feet and pointing at number four. \"Dumbledore - you can't. I've been watching them all day. You couldn't find two people who are less like us. And they've got this son - I saw him kicking his mother all the way up the street, screaming for sweets. Harry Potter come and live here!\""
+    "\"You don't mean - you can't mean the people who live here?\""
+   ]
+  },
+  {
+   "begin": "1303.400",
+   "children": [],
+   "end": "1307.280",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "cried Professor McGonagall, jumping to her feet and pointing at number four."
+   ]
+  },
+  {
+   "begin": "1307.280",
+   "children": [],
+   "end": "1309.280",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "\"Dumbledore - you can't."
+   ]
+  },
+  {
+   "begin": "1309.280",
+   "children": [],
+   "end": "1311.560",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "I've been watching them all day."
+   ]
+  },
+  {
+   "begin": "1311.560",
+   "children": [],
+   "end": "1314.520",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "You couldn't find two people who are less like us."
+   ]
+  },
+  {
+   "begin": "1314.520",
+   "children": [],
+   "end": "1321.680",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "And they've got this son - I saw him kicking his mother all the way up the street, screaming for sweets."
+   ]
+  },
+  {
+   "begin": "1321.680",
+   "children": [],
+   "end": "1324.600",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "Harry Potter come and live here!\""
    ]
   },
   {
    "begin": "1324.600",
    "children": [],
-   "end": "1334.840",
-   "id": "f000086",
+   "end": "1329.000",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "\"It's the best place for him,\" said Dumbledore firmly. \"His aunt and uncle will be able to explain everything to him when he's older. I've written them a letter.\""
+    "\"It's the best place for him,\" said Dumbledore firmly."
+   ]
+  },
+  {
+   "begin": "1329.000",
+   "children": [],
+   "end": "1333.200",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "\"His aunt and uncle will be able to explain everything to him when he's older."
+   ]
+  },
+  {
+   "begin": "1333.200",
+   "children": [],
+   "end": "1334.840",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "I've written them a letter.\""
    ]
   },
   {
    "begin": "1334.840",
    "children": [],
-   "end": "1360.720",
-   "id": "f000087",
+   "end": "1336.520",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "\"A letter?\" repeated Professor McGonagall faintly, sitting back down on the wall. \"Really, Dumbledore, you think you can explain all this in a letter? These people will never understand him! He'll be famous - a legend - I wouldn't be surprised if today was known as Harry Potter Day in the future - there will be books written about Harry - every child in our world will know his name!\""
+    "\"A letter?\""
+   ]
+  },
+  {
+   "begin": "1336.520",
+   "children": [],
+   "end": "1340.520",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "repeated Professor McGonagall faintly, sitting back down on the wall."
+   ]
+  },
+  {
+   "begin": "1340.520",
+   "children": [],
+   "end": "1344.120",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "\"Really, Dumbledore, you think you can explain all this in a letter?"
+   ]
+  },
+  {
+   "begin": "1344.120",
+   "children": [],
+   "end": "1346.960",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "These people will never understand him!"
+   ]
+  },
+  {
+   "begin": "1346.960",
+   "children": [],
+   "end": "1360.720",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "He'll be famous - a legend - I wouldn't be surprised if today was known as Harry Potter Day in the future - there will be books written about Harry - every child in our world will know his name!\""
    ]
   },
   {
    "begin": "1360.720",
    "children": [],
-   "end": "1384.520",
-   "id": "f000088",
+   "end": "1367.520",
+   "id": "f000365",
    "language": "eng",
    "lines": [
-    "\"Exactly,\" said Dumbledore, looking very seriously over the top of his halfmoon glasses. \"It would be enough to turn any boy's head. Famous before he can walk and talk! Famous for something he won't even remember! Can't you see how much better off he'll be, growing up away from all that until he's ready to take it?\""
+    "\"Exactly,\" said Dumbledore, looking very seriously over the top of his halfmoon glasses."
+   ]
+  },
+  {
+   "begin": "1367.520",
+   "children": [],
+   "end": "1370.680",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "\"It would be enough to turn any boy's head."
+   ]
+  },
+  {
+   "begin": "1370.680",
+   "children": [],
+   "end": "1373.680",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "Famous before he can walk and talk!"
+   ]
+  },
+  {
+   "begin": "1373.680",
+   "children": [],
+   "end": "1377.320",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Famous for something he won't even remember!"
+   ]
+  },
+  {
+   "begin": "1377.320",
+   "children": [],
+   "end": "1384.520",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "Can't you see how much better off he'll be, growing up away from all that until he's ready to take it?\""
    ]
   },
   {
    "begin": "1384.520",
    "children": [],
-   "end": "1401.920",
-   "id": "f000089",
+   "end": "1393.960",
+   "id": "f000370",
    "language": "eng",
    "lines": [
-    "Professor McGonagall opened her mouth, changed her mind, swallowed, and then said, \"Yes - yes, you're right, of course. But how is the boy getting here, Dumbledore?\" She eyed his cloak suddenly as though she thought he might be hiding Harry underneath it."
+    "Professor McGonagall opened her mouth, changed her mind, swallowed, and then said, \"Yes - yes, you're right, of course."
    ]
   },
   {
-   "begin": "1401.920",
+   "begin": "1393.960",
+   "children": [],
+   "end": "1397.000",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "But how is the boy getting here, Dumbledore?\""
+   ]
+  },
+  {
+   "begin": "1397.000",
+   "children": [],
+   "end": "1402.400",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "She eyed his cloak suddenly as though she thought he might be hiding Harry underneath it."
+   ]
+  },
+  {
+   "begin": "1402.400",
    "children": [],
    "end": "1404.240",
-   "id": "f000090",
+   "id": "f000373",
    "language": "eng",
    "lines": [
     "\"Hagrid's bringing him.\""
@@ -904,7 +3734,7 @@
    "begin": "1404.240",
    "children": [],
    "end": "1410.000",
-   "id": "f000091",
+   "id": "f000374",
    "language": "eng",
    "lines": [
     "\"You think it - wise - to trust Hagrid with something as important as this?\""
@@ -914,7 +3744,7 @@
    "begin": "1410.000",
    "children": [],
    "end": "1414.360",
-   "id": "f000092",
+   "id": "f000375",
    "language": "eng",
    "lines": [
     "\"I would trust Hagrid with my life,\" said Dumbledore."
@@ -923,68 +3753,158 @@
   {
    "begin": "1414.360",
    "children": [],
-   "end": "1425.520",
-   "id": "f000093",
+   "end": "1422.280",
+   "id": "f000376",
    "language": "eng",
    "lines": [
-    "\"I'm not saying his heart isn't in the right place,\" said Professor McGonagall grudgingly, \"but you can't pretend he's not careless. He does tend to - what was that?\""
+    "\"I'm not saying his heart isn't in the right place,\" said Professor McGonagall grudgingly, \"but you can't pretend he's not careless."
    ]
   },
   {
-   "begin": "1425.520",
+   "begin": "1422.280",
    "children": [],
-   "end": "1429.360",
-   "id": "f000094",
+   "end": "1424.560",
+   "id": "f000377",
    "language": "eng",
    "lines": [
-    "A low rumbling sound had broken the silence around them. It grew steadily"
+    "He does tend to - what was that?\""
    ]
   },
   {
-   "begin": "1429.360",
+   "begin": "1424.560",
    "children": [],
-   "end": "1442.600",
-   "id": "f000095",
+   "end": "1428.520",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "A low rumbling sound had broken the silence around them."
+   ]
+  },
+  {
+   "begin": "1428.520",
+   "children": [],
+   "end": "1429.280",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "It grew steadily"
+   ]
+  },
+  {
+   "begin": "1429.280",
+   "children": [],
+   "end": "1441.360",
+   "id": "f000380",
    "language": "eng",
    "lines": [
     "louder as they looked up and down the street for some sign of a headlight; it swelled to a roar as they both looked up at the sky - and a huge motorcycle fell out of the air and landed on the road in front of them."
    ]
   },
   {
-   "begin": "1442.600",
+   "begin": "1441.360",
    "children": [],
-   "end": "1475.160",
-   "id": "f000096",
+   "end": "1447.280",
+   "id": "f000381",
    "language": "eng",
    "lines": [
-    "If the motorcycle was huge, it was nothing to the man sitting astride it. He was almost twice as tall as a normal man and at least five times as wide. He looked simply too big to be allowed, and so wild - long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins. In his vast, muscular arms he was holding a bundle of blankets."
+    "If the motorcycle was huge, it was nothing to the man sitting astride it."
+   ]
+  },
+  {
+   "begin": "1447.280",
+   "children": [],
+   "end": "1453.640",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "He was almost twice as tall as a normal man and at least five times as wide."
+   ]
+  },
+  {
+   "begin": "1453.640",
+   "children": [],
+   "end": "1470.280",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "He looked simply too big to be allowed, and so wild - long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins."
+   ]
+  },
+  {
+   "begin": "1470.280",
+   "children": [],
+   "end": "1475.160",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "In his vast, muscular arms he was holding a bundle of blankets."
    ]
   },
   {
    "begin": "1475.160",
    "children": [],
-   "end": "1483.720",
-   "id": "f000097",
+   "end": "1479.120",
+   "id": "f000385",
    "language": "eng",
    "lines": [
-    "\"Hagrid,\" said Dumbledore, sounding relieved. \"At last. And where did you get that motorcycle?\""
+    "\"Hagrid,\" said Dumbledore, sounding relieved."
+   ]
+  },
+  {
+   "begin": "1479.120",
+   "children": [],
+   "end": "1480.440",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "\"At last."
+   ]
+  },
+  {
+   "begin": "1480.440",
+   "children": [],
+   "end": "1483.720",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "And where did you get that motorcycle?\""
    ]
   },
   {
    "begin": "1483.720",
    "children": [],
-   "end": "1494.720",
-   "id": "f000098",
+   "end": "1491.000",
+   "id": "f000388",
    "language": "eng",
    "lines": [
-    "\"Borrowed it, Professor Dumbledore, sir,\" said the giant, climbing carefully off the motorcycle as he spoke. \"Young Sirius Black lent it to me. I've got him, sir.\""
+    "\"Borrowed it, Professor Dumbledore, sir,\" said the giant, climbing carefully off the motorcycle as he spoke."
+   ]
+  },
+  {
+   "begin": "1491.000",
+   "children": [],
+   "end": "1493.160",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "\"Young Sirius Black lent it to me."
+   ]
+  },
+  {
+   "begin": "1493.160",
+   "children": [],
+   "end": "1494.720",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "I've got him, sir.\""
    ]
   },
   {
    "begin": "1494.720",
    "children": [],
    "end": "1496.960",
-   "id": "f000099",
+   "id": "f000391",
    "language": "eng",
    "lines": [
     "\"No problems, were there?\""
@@ -993,48 +3913,98 @@
   {
    "begin": "1496.960",
    "children": [],
-   "end": "1507.640",
-   "id": "f000100",
+   "end": "1504.240",
+   "id": "f000392",
    "language": "eng",
    "lines": [
-    "\"No, sir - house was almost destroyed, but I got him out all right before the Muggles started swarmin' around. He fell asleep as we was flyin' over Bristol.\""
+    "\"No, sir - house was almost destroyed, but I got him out all right before the Muggles started swarmin' around."
+   ]
+  },
+  {
+   "begin": "1504.240",
+   "children": [],
+   "end": "1507.640",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "He fell asleep as we was flyin' over Bristol.\""
    ]
   },
   {
    "begin": "1507.640",
    "children": [],
-   "end": "1524.240",
-   "id": "f000101",
+   "end": "1512.720",
+   "id": "f000394",
    "language": "eng",
    "lines": [
-    "Dumbledore and Professor McGonagall bent forward over the bundle of blankets. Inside, just visible, was a baby boy, fast asleep. Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning."
+    "Dumbledore and Professor McGonagall bent forward over the bundle of blankets."
+   ]
+  },
+  {
+   "begin": "1512.720",
+   "children": [],
+   "end": "1516.840",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "Inside, just visible, was a baby boy, fast asleep."
+   ]
+  },
+  {
+   "begin": "1516.840",
+   "children": [],
+   "end": "1524.240",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning."
    ]
   },
   {
    "begin": "1524.240",
    "children": [],
-   "end": "1527.560",
-   "id": "f000102",
+   "end": "1525.840",
+   "id": "f000397",
    "language": "eng",
    "lines": [
-    "\"Is that where - ?\" whispered Professor McGonagall."
+    "\"Is that where - ?\""
+   ]
+  },
+  {
+   "begin": "1525.840",
+   "children": [],
+   "end": "1527.560",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "whispered Professor McGonagall."
    ]
   },
   {
    "begin": "1527.560",
    "children": [],
-   "end": "1532.520",
-   "id": "f000103",
+   "end": "1529.960",
+   "id": "f000399",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Dumbledore. \"He'll have that scar forever.\""
+    "\"Yes,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1529.960",
+   "children": [],
+   "end": "1532.520",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "\"He'll have that scar forever.\""
    ]
   },
   {
    "begin": "1532.520",
    "children": [],
    "end": "1536.000",
-   "id": "f000104",
+   "id": "f000401",
    "language": "eng",
    "lines": [
     "\"Couldn't you do something about it, Dumbledore?\""
@@ -1043,18 +4013,48 @@
   {
    "begin": "1536.000",
    "children": [],
-   "end": "1551.480",
-   "id": "f000105",
+   "end": "1538.960",
+   "id": "f000402",
    "language": "eng",
    "lines": [
-    "\"Even if I could, I wouldn't. Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground. Well - give him here, Hagrid - we'd better get this over with.\""
+    "\"Even if I could, I wouldn't."
+   ]
+  },
+  {
+   "begin": "1538.960",
+   "children": [],
+   "end": "1541.080",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Scars can come in handy."
+   ]
+  },
+  {
+   "begin": "1541.080",
+   "children": [],
+   "end": "1547.320",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "I have one myself above my left knee that is a perfect map of the London Underground."
+   ]
+  },
+  {
+   "begin": "1547.320",
+   "children": [],
+   "end": "1551.480",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Well - give him here, Hagrid - we'd better get this over with.\""
    ]
   },
   {
    "begin": "1551.480",
    "children": [],
    "end": "1556.560",
-   "id": "f000106",
+   "id": "f000406",
    "language": "eng",
    "lines": [
     "Dumbledore took Harry in his arms and turned toward the Dursleys' house."
@@ -1063,68 +4063,168 @@
   {
    "begin": "1556.560",
    "children": [],
-   "end": "1572.200",
-   "id": "f000107",
+   "end": "1560.880",
+   "id": "f000407",
    "language": "eng",
    "lines": [
-    "\"Could I - could I say good-bye to him, sir?\" asked Hagrid. He bent his great, shaggy head over Harry and gave him what must have been a very scratchy, whiskery kiss. Then, suddenly, Hagrid let out a howl like a wounded dog."
+    "\"Could I - could I say good-bye to him, sir?\""
+   ]
+  },
+  {
+   "begin": "1560.880",
+   "children": [],
+   "end": "1561.800",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "asked Hagrid."
+   ]
+  },
+  {
+   "begin": "1561.800",
+   "children": [],
+   "end": "1568.440",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "He bent his great, shaggy head over Harry and gave him what must have been a very scratchy, whiskery kiss."
+   ]
+  },
+  {
+   "begin": "1568.440",
+   "children": [],
+   "end": "1572.200",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "Then, suddenly, Hagrid let out a howl like a wounded dog."
    ]
   },
   {
    "begin": "1572.200",
    "children": [],
-   "end": "1576.640",
-   "id": "f000108",
+   "end": "1573.120",
+   "id": "f000411",
    "language": "eng",
    "lines": [
-    "\"Shhh!\" hissed Professor McGonagall, \"you'll wake the Muggles!\""
+    "\"Shhh!\""
+   ]
+  },
+  {
+   "begin": "1573.120",
+   "children": [],
+   "end": "1576.640",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "hissed Professor McGonagall, \"you'll wake the Muggles!\""
    ]
   },
   {
    "begin": "1576.640",
    "children": [],
-   "end": "1591.560",
-   "id": "f000109",
+   "end": "1583.080",
+   "id": "f000413",
    "language": "eng",
    "lines": [
-    "\"S-s-sorry,\" sobbed Hagrid, taking out a large, spotted handkerchief and burying his face in it. \"But I c-c-can't stand it - Lily an' James dead - an' poor little Harry off ter live with Muggles - \""
+    "\"S-s-sorry,\" sobbed Hagrid, taking out a large, spotted handkerchief and burying his face in it."
+   ]
+  },
+  {
+   "begin": "1583.080",
+   "children": [],
+   "end": "1591.560",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "\"But I c-c-can't stand it - Lily an' James dead - an' poor little Harry off ter live with Muggles - \""
    ]
   },
   {
    "begin": "1591.560",
    "children": [],
-   "end": "1628.160",
-   "id": "f000110",
+   "end": "1605.280",
+   "id": "f000415",
    "language": "eng",
    "lines": [
-    "\"Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or we'll be found,\" Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two. For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall blinked furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out."
+    "\"Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or we'll be found,\" Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door."
+   ]
+  },
+  {
+   "begin": "1605.280",
+   "children": [],
+   "end": "1613.680",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two."
+   ]
+  },
+  {
+   "begin": "1613.680",
+   "children": [],
+   "end": "1628.160",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall blinked furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out."
    ]
   },
   {
    "begin": "1628.160",
    "children": [],
-   "end": "1637.520",
-   "id": "f000111",
+   "end": "1632.240",
+   "id": "f000418",
    "language": "eng",
    "lines": [
-    "\"Well,\" said Dumbledore finally, \"that's that. We've no business staying here. We may as well go and join the celebrations.\""
+    "\"Well,\" said Dumbledore finally, \"that's that."
+   ]
+  },
+  {
+   "begin": "1632.240",
+   "children": [],
+   "end": "1634.360",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "We've no business staying here."
+   ]
+  },
+  {
+   "begin": "1634.360",
+   "children": [],
+   "end": "1637.520",
+   "id": "f000420",
+   "language": "eng",
+   "lines": [
+    "We may as well go and join the celebrations.\""
    ]
   },
   {
    "begin": "1637.520",
    "children": [],
-   "end": "1647.720",
-   "id": "f000112",
+   "end": "1643.440",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "\"Yeah,\" said Hagrid in a very muffled voice, \"I'd best get this bike away. G'night, Professor McGonagall - Professor Dumbledore, sir.\""
+    "\"Yeah,\" said Hagrid in a very muffled voice, \"I'd best get this bike away."
+   ]
+  },
+  {
+   "begin": "1643.440",
+   "children": [],
+   "end": "1647.720",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "G'night, Professor McGonagall - Professor Dumbledore, sir.\""
    ]
   },
   {
    "begin": "1647.720",
    "children": [],
    "end": "1659.520",
-   "id": "f000113",
+   "id": "f000423",
    "language": "eng",
    "lines": [
     "Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life; with a roar it rose into the air and off into the night."
@@ -1133,48 +4233,158 @@
   {
    "begin": "1659.520",
    "children": [],
-   "end": "1669.360",
-   "id": "f000114",
+   "end": "1666.320",
+   "id": "f000424",
    "language": "eng",
    "lines": [
-    "\"I shall see you soon, I expect, Professor McGonagall,\" said Dumbledore, nodding to her. Professor McGonagall blew her nose in reply."
+    "\"I shall see you soon, I expect, Professor McGonagall,\" said Dumbledore, nodding to her."
+   ]
+  },
+  {
+   "begin": "1666.320",
+   "children": [],
+   "end": "1669.360",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall blew her nose in reply."
    ]
   },
   {
    "begin": "1669.360",
    "children": [],
-   "end": "1691.960",
-   "id": "f000115",
+   "end": "1672.720",
+   "id": "f000426",
    "language": "eng",
    "lines": [
-    "Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street. He could just see the bundle of blankets on the step of number four."
+    "Dumbledore turned and walked back down the street."
+   ]
+  },
+  {
+   "begin": "1672.720",
+   "children": [],
+   "end": "1676.200",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "On the corner he stopped and took out the silver Put-Outer."
+   ]
+  },
+  {
+   "begin": "1676.200",
+   "children": [],
+   "end": "1687.800",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street."
+   ]
+  },
+  {
+   "begin": "1687.800",
+   "children": [],
+   "end": "1691.960",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "He could just see the bundle of blankets on the step of number four."
    ]
   },
   {
    "begin": "1691.960",
    "children": [],
-   "end": "1700.880",
-   "id": "f000116",
+   "end": "1695.720",
+   "id": "f000430",
    "language": "eng",
    "lines": [
-    "\"Good luck, Harry,\" he murmured. He turned on his heel and with a swish of his cloak, he was gone."
+    "\"Good luck, Harry,\" he murmured."
+   ]
+  },
+  {
+   "begin": "1695.720",
+   "children": [],
+   "end": "1700.880",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "He turned on his heel and with a swish of his cloak, he was gone."
    ]
   },
   {
    "begin": "1700.880",
    "children": [],
-   "end": "1747.120",
-   "id": "f000117",
+   "end": "1713.080",
+   "id": "f000432",
    "language": "eng",
    "lines": [
-    "A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over inside his blankets without waking up. One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley. . . . He couldn't know that at this very moment, people meeting in secret"
+    "A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen."
    ]
   },
   {
-   "begin": "1747.120",
+   "begin": "1713.080",
+   "children": [],
+   "end": "1717.920",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "Harry Potter rolled over inside his blankets without waking up."
+   ]
+  },
+  {
+   "begin": "1717.920",
+   "children": [],
+   "end": "1742.400",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley."
+   ]
+  },
+  {
+   "begin": "1742.400",
+   "children": [],
+   "end": "1742.400",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1742.400",
+   "children": [],
+   "end": "1742.400",
+   "id": "f000436",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1742.400",
+   "children": [],
+   "end": "1742.400",
+   "id": "f000437",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1742.400",
+   "children": [],
+   "end": "1747.080",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "He couldn't know that at this very moment, people meeting in secret"
+   ]
+  },
+  {
+   "begin": "1747.080",
    "children": [],
    "end": "1758.960",
-   "id": "f000118",
+   "id": "f000439",
    "language": "eng",
    "lines": [
     "all over the country were holding up their glasses and saying in hushed voices: \"To Harry Potter - the boy who lived!\""

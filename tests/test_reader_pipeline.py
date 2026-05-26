@@ -116,6 +116,28 @@ class ReaderPipelineTests(unittest.TestCase):
 
         self.assertEqual(paragraphs, ["top-of-the-range broomstick", "summer holidays"])
 
+    def test_chapter_fragments_splits_body_into_sentence_fragments(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "The Boy Who Lived",
+            "Mr. Dursley stopped dead. Fear flooded him. He looked back at the whisperers.\n\n"
+            '"Sorry," he grunted, as the tiny old man stumbled. The man smiled.',
+        )
+
+        fragments = reader_pipeline.chapter_fragments(chapter)
+
+        self.assertEqual(
+            fragments,
+            [
+                "Chapter One. The Boy Who Lived.",
+                "Mr. Dursley stopped dead.",
+                "Fear flooded him.",
+                "He looked back at the whisperers.",
+                '"Sorry," he grunted, as the tiny old man stumbled.',
+                "The man smiled.",
+            ],
+        )
+
     def test_extract_chapter_without_visible_title_keeps_body(self):
         source = """
         CHAPTER THREE

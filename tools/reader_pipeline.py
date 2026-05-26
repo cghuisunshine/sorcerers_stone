@@ -415,9 +415,85 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
+SENTENCE_ABBREVIATIONS = {
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "St.",
+    "Jr.",
+    "Sr.",
+}
+
+
+def split_sentences(text: str) -> list[str]:
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return []
+
+    sentences: list[str] = []
+    start = 0
+    index = 0
+    while index < len(text):
+        char = text[index]
+        if char not in ".!?":
+            index += 1
+            continue
+
+        word_start = text.rfind(" ", 0, index) + 1
+        token = text[word_start : index + 1]
+        if token in SENTENCE_ABBREVIATIONS:
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(text) and text[end] in "\"')]}":
+            end += 1
+
+        if end == len(text) or text[end].isspace():
+            sentence = text[start:end].strip()
+            if sentence:
+                sentences.append(sentence)
+            while end < len(text) and text[end].isspace():
+                end += 1
+            start = end
+            index = end
+            continue
+
+        index += 1
+
+    remainder = text[start:].strip()
+    if remainder:
+        sentences.append(remainder)
+    return sentences
+
+
 def chapter_fragments(chapter: Chapter) -> list[str]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    fragments = [heading]
+    for paragraph in normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter)):
+        fragments.extend(split_sentences(paragraph))
+    return fragments
+
+
+def fragment_records(chapter_number: int, fragments: Iterable[dict], offset: float = 0.0) -> list[dict]:
+    records = []
+    for fragment in fragments:
+        begin = float(fragment["begin"])
+        end = float(fragment["end"])
+        text = " ".join(fragment.get("lines", [])).strip()
+        records.append(
+            {
+                "id": f"c{chapter_number:03d}_{fragment.get('id', len(records))}",
+                "text": text,
+                "begin": round(offset + begin, 3),
+                "end": round(offset + end, 3),
+                "localBegin": round(begin, 3),
+                "localEnd": round(end, 3),
+            }
+        )
+    return records
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:
@@ -764,21 +840,7 @@ def build_reader_manifest(
     for chapter, audio_path, duration in zip(chapters, audio_files, durations, strict=True):
         alignment_path = alignment_dir / f"chapter_{chapter.number:03d}.json"
         data = json.loads(alignment_path.read_text(encoding="utf-8"))
-        paragraphs = []
-        for fragment in data.get("fragments", []):
-            begin = float(fragment["begin"])
-            end = float(fragment["end"])
-            text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
-                {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
-                    "text": text,
-                    "begin": round(offset + begin, 3),
-                    "end": round(offset + end, 3),
-                    "localBegin": round(begin, 3),
-                    "localEnd": round(end, 3),
-                }
-            )
+        paragraphs = fragment_records(chapter.number, data.get("fragments", []), offset=offset)
         manifest["chapters"].append(
             {
                 "kind": "chapter",
@@ -832,21 +894,7 @@ def build_reader_manifest_from_single_alignment(
                 f"expected {expected_count}, found {len(chapter_fragments_data)}"
             )
         cursor += expected_count
-        paragraphs = []
-        for fragment in chapter_fragments_data:
-            begin = float(fragment["begin"])
-            end = float(fragment["end"])
-            text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
-                {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
-                    "text": text,
-                    "begin": round(begin, 3),
-                    "end": round(end, 3),
-                    "localBegin": round(begin, 3),
-                    "localEnd": round(end, 3),
-                }
-            )
+        paragraphs = fragment_records(chapter.number, chapter_fragments_data)
         start = paragraphs[0]["localBegin"] if paragraphs else 0.0
         manifest["chapters"].append(
             {

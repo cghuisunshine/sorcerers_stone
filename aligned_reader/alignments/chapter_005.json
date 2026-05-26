@@ -13,28 +13,58 @@
   {
    "begin": "4.480",
    "children": [],
-   "end": "9.440",
+   "end": "6.320",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight."
+    "Harry woke early the next morning."
+   ]
+  },
+  {
+   "begin": "6.320",
+   "children": [],
+   "end": "9.440",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Although he could tell it was daylight, he kept his eyes shut tight."
    ]
   },
   {
    "begin": "9.440",
    "children": [],
-   "end": "20.800",
-   "id": "f000003",
+   "end": "12.080",
+   "id": "f000004",
    "language": "eng",
    "lines": [
-    "\"It was a dream,\" he told himself firmly. \"I dreamed a giant called Hagrid came to tell me I was going to a school for wizards. When I open my eyes I'll be at home in my cupboard.\""
+    "\"It was a dream,\" he told himself firmly."
+   ]
+  },
+  {
+   "begin": "12.080",
+   "children": [],
+   "end": "16.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "\"I dreamed a giant called Hagrid came to tell me I was going to a school for wizards."
+   ]
+  },
+  {
+   "begin": "16.920",
+   "children": [],
+   "end": "20.800",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "When I open my eyes I'll be at home in my cupboard.\""
    ]
   },
   {
    "begin": "20.800",
    "children": [],
    "end": "23.280",
-   "id": "f000004",
+   "id": "f000007",
    "language": "eng",
    "lines": [
     "There was suddenly a loud tapping noise."
@@ -43,28 +73,68 @@
   {
    "begin": "23.280",
    "children": [],
-   "end": "32.080",
-   "id": "f000005",
+   "end": "27.880",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "And there's Aunt Petunia knocking on the door, Harry thought, his heart sinking. But he still didn't open his eyes. It had been such a good dream."
+    "And there's Aunt Petunia knocking on the door, Harry thought, his heart sinking."
    ]
   },
   {
-   "begin": "32.080",
+   "begin": "27.880",
    "children": [],
-   "end": "33.320",
-   "id": "f000006",
+   "end": "29.920",
+   "id": "f000009",
    "language": "eng",
    "lines": [
-    "Tap. Tap. Tap."
+    "But he still didn't open his eyes."
+   ]
+  },
+  {
+   "begin": "29.920",
+   "children": [],
+   "end": "32.120",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "It had been such a good dream."
+   ]
+  },
+  {
+   "begin": "32.120",
+   "children": [],
+   "end": "32.280",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Tap."
+   ]
+  },
+  {
+   "begin": "32.280",
+   "children": [],
+   "end": "32.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Tap."
+   ]
+  },
+  {
+   "begin": "32.800",
+   "children": [],
+   "end": "33.320",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Tap."
    ]
   },
   {
    "begin": "33.320",
    "children": [],
    "end": "37.600",
-   "id": "f000007",
+   "id": "f000014",
    "language": "eng",
    "lines": [
     "\"All right,\" Harry mumbled, \"I'm getting up.\""
@@ -73,28 +143,68 @@
   {
    "begin": "37.600",
    "children": [],
-   "end": "51.080",
-   "id": "f000008",
+   "end": "40.560",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "He sat up and Hagrid's heavy coat fell off him. The hut was full of sunlight, the storm was over, Hagrid himself was asleep on the collapsed sofa, and there was an owl rapping its claw on the window, a newspaper held in its beak."
+    "He sat up and Hagrid's heavy coat fell off him."
+   ]
+  },
+  {
+   "begin": "40.560",
+   "children": [],
+   "end": "51.080",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "The hut was full of sunlight, the storm was over, Hagrid himself was asleep on the collapsed sofa, and there was an owl rapping its claw on the window, a newspaper held in its beak."
    ]
   },
   {
    "begin": "51.080",
    "children": [],
-   "end": "68.080",
-   "id": "f000009",
+   "end": "57.000",
+   "id": "f000017",
    "language": "eng",
    "lines": [
-    "Harry scrambled to his feet, so happy he felt as though a large balloon was swelling inside him. He went straight to the window and jerked it open. The owl swooped in and dropped the newspaper on top of Hagrid, who didn't wake up. The owl then fluttered onto the floor and began to attack Hagrid's coat."
+    "Harry scrambled to his feet, so happy he felt as though a large balloon was swelling inside him."
+   ]
+  },
+  {
+   "begin": "57.000",
+   "children": [],
+   "end": "59.640",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "He went straight to the window and jerked it open."
+   ]
+  },
+  {
+   "begin": "59.640",
+   "children": [],
+   "end": "64.440",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "The owl swooped in and dropped the newspaper on top of Hagrid, who didn't wake up."
+   ]
+  },
+  {
+   "begin": "64.440",
+   "children": [],
+   "end": "68.080",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "The owl then fluttered onto the floor and began to attack Hagrid's coat."
    ]
   },
   {
    "begin": "68.080",
    "children": [],
    "end": "70.600",
-   "id": "f000010",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "\"Don't do that.\""
@@ -104,7 +214,7 @@
    "begin": "70.600",
    "children": [],
    "end": "76.560",
-   "id": "f000011",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "Harry tried to wave the owl out of the way, but it snapped its beak fiercely at him and carried on savaging the coat."
@@ -113,18 +223,38 @@
   {
    "begin": "76.560",
    "children": [],
-   "end": "79.600",
-   "id": "f000012",
+   "end": "77.920",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "\"Hagrid!\" said Harry loudly. \"There's an owl - \""
+    "\"Hagrid!\""
+   ]
+  },
+  {
+   "begin": "77.920",
+   "children": [],
+   "end": "78.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "said Harry loudly."
+   ]
+  },
+  {
+   "begin": "78.720",
+   "children": [],
+   "end": "79.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "\"There's an owl - \""
    ]
   },
   {
    "begin": "79.600",
    "children": [],
    "end": "82.600",
-   "id": "f000013",
+   "id": "f000026",
    "language": "eng",
    "lines": [
     "\"Pay him,\" Hagrid grunted into the sofa."
@@ -133,38 +263,78 @@
   {
    "begin": "82.600",
    "children": [],
-   "end": "83.480",
-   "id": "f000014",
+   "end": "83.400",
+   "id": "f000027",
    "language": "eng",
    "lines": [
     "\"What?\""
    ]
   },
   {
-   "begin": "83.480",
+   "begin": "83.400",
    "children": [],
-   "end": "89.880",
-   "id": "f000015",
+   "end": "87.680",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "\"He wants payin' fer deliverin' the paper. Look in the pockets.\""
+    "\"He wants payin' fer deliverin' the paper."
+   ]
+  },
+  {
+   "begin": "87.680",
+   "children": [],
+   "end": "89.880",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Look in the pockets.\""
    ]
   },
   {
    "begin": "89.880",
    "children": [],
-   "end": "102.240",
-   "id": "f000016",
+   "end": "98.000",
+   "id": "f000030",
    "language": "eng",
    "lines": [
-    "Hagrid's coat seemed to be made of nothing but pockets - bunches of keys, slug pellets, balls of string, peppermint humbugs, teabags . . . finally, Harry pulled out a handful of strange-looking coins."
+    "Hagrid's coat seemed to be made of nothing but pockets - bunches of keys, slug pellets, balls of string, peppermint humbugs, teabags ."
+   ]
+  },
+  {
+   "begin": "98.000",
+   "children": [],
+   "end": "98.000",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "98.000",
+   "children": [],
+   "end": "98.560",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "98.560",
+   "children": [],
+   "end": "102.240",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "finally, Harry pulled out a handful of strange-looking coins."
    ]
   },
   {
    "begin": "102.240",
    "children": [],
    "end": "106.800",
-   "id": "f000017",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "\"Give him five Knuts,\" said Hagrid sleepily."
@@ -174,7 +344,7 @@
    "begin": "106.800",
    "children": [],
    "end": "108.000",
-   "id": "f000018",
+   "id": "f000035",
    "language": "eng",
    "lines": [
     "\"Knuts?\""
@@ -183,28 +353,38 @@
   {
    "begin": "108.000",
    "children": [],
-   "end": "111.200",
-   "id": "f000019",
+   "end": "111.160",
+   "id": "f000036",
    "language": "eng",
    "lines": [
     "\"The little bronze ones.\""
    ]
   },
   {
-   "begin": "111.200",
+   "begin": "111.160",
    "children": [],
-   "end": "122.120",
-   "id": "f000020",
+   "end": "119.120",
+   "id": "f000037",
    "language": "eng",
    "lines": [
-    "Harry counted out five little bronze coins, and the owl held out his leg so Harry could put the money into a small leather pouch tied to it. Then he flew off through the open window."
+    "Harry counted out five little bronze coins, and the owl held out his leg so Harry could put the money into a small leather pouch tied to it."
+   ]
+  },
+  {
+   "begin": "119.120",
+   "children": [],
+   "end": "122.120",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Then he flew off through the open window."
    ]
   },
   {
    "begin": "122.120",
    "children": [],
    "end": "125.200",
-   "id": "f000021",
+   "id": "f000039",
    "language": "eng",
    "lines": [
     "Hagrid yawned loudly, sat up, and stretched."
@@ -214,7 +394,7 @@
    "begin": "125.200",
    "children": [],
    "end": "133.560",
-   "id": "f000022",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "\"Best be off, Harry, lots ter do today, gotta get up ter London an' buy all yer stuff fer school.\""
@@ -223,18 +403,28 @@
   {
    "begin": "133.560",
    "children": [],
-   "end": "142.040",
-   "id": "f000023",
+   "end": "136.880",
+   "id": "f000041",
    "language": "eng",
    "lines": [
-    "Harry was turning over the wizard coins and looking at them. He had just thought of something that made him feel as though the happy balloon inside him had got a puncture."
+    "Harry was turning over the wizard coins and looking at them."
+   ]
+  },
+  {
+   "begin": "136.880",
+   "children": [],
+   "end": "142.040",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "He had just thought of something that made him feel as though the happy balloon inside him had got a puncture."
    ]
   },
   {
    "begin": "142.040",
    "children": [],
    "end": "143.960",
-   "id": "f000024",
+   "id": "f000043",
    "language": "eng",
    "lines": [
     "\"Um - Hagrid?\""
@@ -243,58 +433,138 @@
   {
    "begin": "143.960",
    "children": [],
-   "end": "147.960",
-   "id": "f000025",
+   "end": "145.160",
+   "id": "f000044",
    "language": "eng",
    "lines": [
-    "\"Mm?\" said Hagrid, who was pulling on his huge boots."
+    "\"Mm?\""
    ]
   },
   {
-   "begin": "147.960",
+   "begin": "145.160",
    "children": [],
-   "end": "154.720",
-   "id": "f000026",
+   "end": "147.920",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "\"I haven't got any money - and you heard Uncle Vernon last night . . . he won't pay for me to go and learn magic.\""
+    "said Hagrid, who was pulling on his huge boots."
+   ]
+  },
+  {
+   "begin": "147.920",
+   "children": [],
+   "end": "152.600",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "\"I haven't got any money - and you heard Uncle Vernon last night ."
+   ]
+  },
+  {
+   "begin": "152.600",
+   "children": [],
+   "end": "152.600",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "152.600",
+   "children": [],
+   "end": "152.600",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "152.600",
+   "children": [],
+   "end": "154.720",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "he won't pay for me to go and learn magic.\""
    ]
   },
   {
    "begin": "154.720",
    "children": [],
-   "end": "161.760",
-   "id": "f000027",
+   "end": "159.120",
+   "id": "f000050",
    "language": "eng",
    "lines": [
-    "\"Don't worry about that,\" said Hagrid, standing up and scratching his head. \"D'yeh think yer parents didn't leave yeh anything?\""
+    "\"Don't worry about that,\" said Hagrid, standing up and scratching his head."
+   ]
+  },
+  {
+   "begin": "159.120",
+   "children": [],
+   "end": "161.760",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "\"D'yeh think yer parents didn't leave yeh anything?\""
    ]
   },
   {
    "begin": "161.760",
    "children": [],
-   "end": "164.240",
-   "id": "f000028",
+   "end": "164.040",
+   "id": "f000052",
    "language": "eng",
    "lines": [
     "\"But if their house was destroyed - \""
    ]
   },
   {
-   "begin": "164.240",
+   "begin": "164.040",
    "children": [],
-   "end": "179.440",
-   "id": "f000029",
+   "end": "167.160",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "\"They didn' keep their gold in the house, boy! Nah, first stop fer us is Gringotts. Wizards' bank. Have a sausage, they're not bad cold - an' I wouldn' say no teh a bit o' yer birthday cake, neither.\""
+    "\"They didn' keep their gold in the house, boy!"
+   ]
+  },
+  {
+   "begin": "167.160",
+   "children": [],
+   "end": "171.240",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Nah, first stop fer us is Gringotts."
+   ]
+  },
+  {
+   "begin": "171.240",
+   "children": [],
+   "end": "172.920",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "Wizards' bank."
+   ]
+  },
+  {
+   "begin": "172.920",
+   "children": [],
+   "end": "179.440",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "Have a sausage, they're not bad cold - an' I wouldn' say no teh a bit o' yer birthday cake, neither.\""
    ]
   },
   {
    "begin": "179.440",
    "children": [],
    "end": "181.960",
-   "id": "f000030",
+   "id": "f000057",
    "language": "eng",
    "lines": [
     "\"Wizards have banks?\""
@@ -303,18 +573,38 @@
   {
    "begin": "181.960",
    "children": [],
-   "end": "187.000",
-   "id": "f000031",
+   "end": "183.440",
+   "id": "f000058",
    "language": "eng",
    "lines": [
-    "\"Just the one. Gringotts. Run by goblins.\""
+    "\"Just the one."
    ]
   },
   {
-   "begin": "187.000",
+   "begin": "183.440",
+   "children": [],
+   "end": "184.840",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "Gringotts."
+   ]
+  },
+  {
+   "begin": "184.840",
+   "children": [],
+   "end": "186.120",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Run by goblins.\""
+   ]
+  },
+  {
+   "begin": "186.120",
    "children": [],
    "end": "189.080",
-   "id": "f000032",
+   "id": "f000061",
    "language": "eng",
    "lines": [
     "Harry dropped the bit of sausage he was holding."
@@ -324,7 +614,7 @@
    "begin": "189.080",
    "children": [],
    "end": "190.560",
-   "id": "f000033",
+   "id": "f000062",
    "language": "eng",
    "lines": [
     "\"Goblins?\""
@@ -333,58 +623,178 @@
   {
    "begin": "190.560",
    "children": [],
-   "end": "212.720",
-   "id": "f000034",
+   "end": "195.320",
+   "id": "f000063",
    "language": "eng",
    "lines": [
-    "\"Yeah - so yeh'd be mad ter try an' rob it, I'll tell yeh that. Never mess with goblins, Harry. Gringotts is the safest place in the world fer anything yeh want ter keep safe - 'cept maybe Hogwarts. As a matter o' fact, I gotta visit Gringotts anyway. Fer Dumbledore. Hogwarts business.\" Hagrid drew himself up"
+    "\"Yeah - so yeh'd be mad ter try an' rob it, I'll tell yeh that."
+   ]
+  },
+  {
+   "begin": "195.320",
+   "children": [],
+   "end": "197.680",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "Never mess with goblins, Harry."
+   ]
+  },
+  {
+   "begin": "197.680",
+   "children": [],
+   "end": "204.480",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "Gringotts is the safest place in the world fer anything yeh want ter keep safe - 'cept maybe Hogwarts."
+   ]
+  },
+  {
+   "begin": "204.480",
+   "children": [],
+   "end": "208.000",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "As a matter o' fact, I gotta visit Gringotts anyway."
+   ]
+  },
+  {
+   "begin": "208.000",
+   "children": [],
+   "end": "209.000",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Fer Dumbledore."
+   ]
+  },
+  {
+   "begin": "209.000",
+   "children": [],
+   "end": "210.760",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Hogwarts business.\""
+   ]
+  },
+  {
+   "begin": "210.760",
+   "children": [],
+   "end": "212.720",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Hagrid drew himself up"
    ]
   },
   {
    "begin": "212.720",
    "children": [],
-   "end": "221.720",
-   "id": "f000035",
+   "end": "213.280",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "proudly. \"He usually gets me ter do important stuff fer him. Fetchin' you gettin' things from Gringotts - knows he can trust me, see."
+    "proudly."
+   ]
+  },
+  {
+   "begin": "213.280",
+   "children": [],
+   "end": "216.840",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "\"He usually gets me ter do important stuff fer him."
+   ]
+  },
+  {
+   "begin": "216.840",
+   "children": [],
+   "end": "221.720",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "Fetchin' you gettin' things from Gringotts - knows he can trust me, see."
    ]
   },
   {
    "begin": "221.720",
    "children": [],
-   "end": "225.920",
-   "id": "f000036",
+   "end": "223.480",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "\"Got everythin'? Come on, then.\""
+    "\"Got everythin'?"
    ]
   },
   {
-   "begin": "225.920",
+   "begin": "223.480",
    "children": [],
-   "end": "237.160",
-   "id": "f000037",
+   "end": "224.560",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "Harry followed Hagrid out onto the rock. The sky was quite clear now and the sea gleamed in the sunlight. The boat Uncle Vernon had hired was still there, with a lot of water in the bottom after the storm."
+    "Come on, then.\""
+   ]
+  },
+  {
+   "begin": "224.560",
+   "children": [],
+   "end": "228.040",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Harry followed Hagrid out onto the rock."
+   ]
+  },
+  {
+   "begin": "228.040",
+   "children": [],
+   "end": "231.680",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "The sky was quite clear now and the sea gleamed in the sunlight."
+   ]
+  },
+  {
+   "begin": "231.680",
+   "children": [],
+   "end": "237.160",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "The boat Uncle Vernon had hired was still there, with a lot of water in the bottom after the storm."
    ]
   },
   {
    "begin": "237.160",
    "children": [],
-   "end": "242.080",
-   "id": "f000038",
+   "end": "239.960",
+   "id": "f000078",
    "language": "eng",
    "lines": [
-    "\"How did you get here?\" Harry asked, looking around for another boat."
+    "\"How did you get here?\""
+   ]
+  },
+  {
+   "begin": "239.960",
+   "children": [],
+   "end": "242.080",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "Harry asked, looking around for another boat."
    ]
   },
   {
    "begin": "242.080",
    "children": [],
    "end": "244.200",
-   "id": "f000039",
+   "id": "f000080",
    "language": "eng",
    "lines": [
     "\"Flew,\" said Hagrid."
@@ -394,7 +804,7 @@
    "begin": "244.200",
    "children": [],
    "end": "244.960",
-   "id": "f000040",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "\"Flew?\""
@@ -403,18 +813,28 @@
   {
    "begin": "244.960",
    "children": [],
-   "end": "251.720",
-   "id": "f000041",
+   "end": "247.240",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "\"Yeah - but we'll go back in this. Not s'pposed ter use magic now I've got yeh.\""
+    "\"Yeah - but we'll go back in this."
    ]
   },
   {
-   "begin": "251.720",
+   "begin": "247.240",
+   "children": [],
+   "end": "250.360",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "Not s'pposed ter use magic now I've got yeh.\""
+   ]
+  },
+  {
+   "begin": "250.360",
    "children": [],
    "end": "256.920",
-   "id": "f000042",
+   "id": "f000084",
    "language": "eng",
    "lines": [
     "They settled down in the boat, Harry still staring at Hagrid, trying to imagine him flying."
@@ -423,58 +843,138 @@
   {
    "begin": "256.920",
    "children": [],
-   "end": "269.520",
-   "id": "f000043",
+   "end": "263.640",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "\"Seems a shame ter row, though,\" said Hagrid, giving Harry another of his sideways looks. \"If I was ter - er - speed things up a bit, would yeh mind not mentionin' it at Hogwarts?\""
+    "\"Seems a shame ter row, though,\" said Hagrid, giving Harry another of his sideways looks."
+   ]
+  },
+  {
+   "begin": "263.640",
+   "children": [],
+   "end": "269.520",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "\"If I was ter - er - speed things up a bit, would yeh mind not mentionin' it at Hogwarts?\""
    ]
   },
   {
    "begin": "269.520",
    "children": [],
-   "end": "279.680",
-   "id": "f000044",
+   "end": "273.160",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "\"Of course not,\" said Harry, eager to see more magic. Hagrid pulled out the pink umbrella again, tapped it twice on the side of the boat, and they sped off toward land."
+    "\"Of course not,\" said Harry, eager to see more magic."
+   ]
+  },
+  {
+   "begin": "273.160",
+   "children": [],
+   "end": "279.680",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Hagrid pulled out the pink umbrella again, tapped it twice on the side of the boat, and they sped off toward land."
    ]
   },
   {
    "begin": "279.680",
    "children": [],
-   "end": "284.280",
-   "id": "f000045",
+   "end": "283.480",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "\"Why would you be mad to try and rob Gringotts?\" Harry asked."
+    "\"Why would you be mad to try and rob Gringotts?\""
+   ]
+  },
+  {
+   "begin": "283.480",
+   "children": [],
+   "end": "284.280",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "Harry asked."
    ]
   },
   {
    "begin": "284.280",
    "children": [],
-   "end": "308.640",
-   "id": "f000046",
+   "end": "289.880",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "\"Spells - enchantments,\" said Hagrid, unfolding his newspaper as he spoke. \"They say there's dragons guardin' the high-security vaults. And then yeh gotta find yer way - Gringotts is hundreds of miles under London, see. Deep under the Underground. Yeh'd die of hunger tryin' ter get out, even if yeh did manage ter get yer hands on summat.\""
+    "\"Spells - enchantments,\" said Hagrid, unfolding his newspaper as he spoke."
    ]
   },
   {
-   "begin": "308.640",
+   "begin": "289.880",
    "children": [],
-   "end": "323.400",
-   "id": "f000047",
+   "end": "293.200",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "Harry sat and thought about this while Hagrid read his newspaper, the Daily Prophet. Harry had learned from Uncle Vernon that people liked to be left alone while they did this, but it was very difficult, he'd never had so many questions in his life."
+    "\"They say there's dragons guardin' the high-security vaults."
+   ]
+  },
+  {
+   "begin": "293.200",
+   "children": [],
+   "end": "299.360",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "And then yeh gotta find yer way - Gringotts is hundreds of miles under London, see."
+   ]
+  },
+  {
+   "begin": "299.360",
+   "children": [],
+   "end": "301.040",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "Deep under the Underground."
+   ]
+  },
+  {
+   "begin": "301.040",
+   "children": [],
+   "end": "306.920",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Yeh'd die of hunger tryin' ter get out, even if yeh did manage ter get yer hands on summat.\""
+   ]
+  },
+  {
+   "begin": "306.920",
+   "children": [],
+   "end": "314.120",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "Harry sat and thought about this while Hagrid read his newspaper, the Daily Prophet."
+   ]
+  },
+  {
+   "begin": "314.120",
+   "children": [],
+   "end": "323.400",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "Harry had learned from Uncle Vernon that people liked to be left alone while they did this, but it was very difficult, he'd never had so many questions in his life."
    ]
   },
   {
    "begin": "323.400",
    "children": [],
    "end": "330.040",
-   "id": "f000048",
+   "id": "f000098",
    "language": "eng",
    "lines": [
     "\"Ministry o' Magic messin' things up as usual,\" Hagrid muttered, turning the page."
@@ -483,28 +983,68 @@
   {
    "begin": "330.040",
    "children": [],
-   "end": "334.080",
-   "id": "f000049",
+   "end": "332.040",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"There's a Ministry of Magic?\" Harry asked, before he could stop himself."
+    "\"There's a Ministry of Magic?\""
+   ]
+  },
+  {
+   "begin": "332.040",
+   "children": [],
+   "end": "334.080",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Harry asked, before he could stop himself."
    ]
   },
   {
    "begin": "334.080",
    "children": [],
-   "end": "350.800",
-   "id": "f000050",
+   "end": "336.160",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "\"'Course,\" said Hagrid. \"They wanted Dumbledore fer Minister, o' course, but he'd never leave Hogwarts, so old Cornelius Fudge got the job. Bungler if ever there was one. So he pelts Dumbledore with owls every morning, askin' fer advice.\""
+    "\"'Course,\" said Hagrid."
+   ]
+  },
+  {
+   "begin": "336.160",
+   "children": [],
+   "end": "343.960",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "\"They wanted Dumbledore fer Minister, o' course, but he'd never leave Hogwarts, so old Cornelius Fudge got the job."
+   ]
+  },
+  {
+   "begin": "343.960",
+   "children": [],
+   "end": "346.480",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "Bungler if ever there was one."
+   ]
+  },
+  {
+   "begin": "346.480",
+   "children": [],
+   "end": "350.800",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "So he pelts Dumbledore with owls every morning, askin' fer advice.\""
    ]
   },
   {
    "begin": "350.800",
    "children": [],
    "end": "354.400",
-   "id": "f000051",
+   "id": "f000105",
    "language": "eng",
    "lines": [
     "\"But what does a Ministry of Magic do?\""
@@ -514,7 +1054,7 @@
    "begin": "354.400",
    "children": [],
    "end": "361.680",
-   "id": "f000052",
+   "id": "f000106",
    "language": "eng",
    "lines": [
     "\"Well, their main job is to keep it from the Muggles that there's still witches an' wizards up an' down the country.\""
@@ -524,7 +1064,7 @@
    "begin": "361.680",
    "children": [],
    "end": "362.960",
-   "id": "f000053",
+   "id": "f000107",
    "language": "eng",
    "lines": [
     "\"Why?\""
@@ -533,38 +1073,98 @@
   {
    "begin": "362.960",
    "children": [],
-   "end": "373.440",
-   "id": "f000054",
+   "end": "364.240",
+   "id": "f000108",
    "language": "eng",
    "lines": [
-    "\"Why? Blimey, Harry, everyone'd be wantin' magic solutions to their problems. Nah, we're best left alone.\""
+    "\"Why?"
    ]
   },
   {
-   "begin": "373.440",
+   "begin": "364.240",
    "children": [],
-   "end": "380.880",
-   "id": "f000055",
+   "end": "369.160",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "At this moment the boat bumped gently into the harbor wall. Hagrid folded up his newspaper, and they clambered up the stone steps onto the street."
+    "Blimey, Harry, everyone'd be wantin' magic solutions to their problems."
+   ]
+  },
+  {
+   "begin": "369.160",
+   "children": [],
+   "end": "373.400",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Nah, we're best left alone.\""
+   ]
+  },
+  {
+   "begin": "373.400",
+   "children": [],
+   "end": "376.120",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "At this moment the boat bumped gently into the harbor wall."
+   ]
+  },
+  {
+   "begin": "376.120",
+   "children": [],
+   "end": "380.880",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Hagrid folded up his newspaper, and they clambered up the stone steps onto the street."
    ]
   },
   {
    "begin": "380.880",
    "children": [],
-   "end": "400.080",
-   "id": "f000056",
+   "end": "385.760",
+   "id": "f000113",
    "language": "eng",
    "lines": [
-    "Passersby stared a lot at Hagrid as they walked through the little town to the station. Harry couldn't blame them. Not only was Hagrid twice as tall as anyone else, he kept pointing at perfectly ordinary things like parking meters and saying loudly, \"See that, Harry? Things these Muggles dream up, eh?\""
+    "Passersby stared a lot at Hagrid as they walked through the little town to the station."
+   ]
+  },
+  {
+   "begin": "385.760",
+   "children": [],
+   "end": "387.400",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Harry couldn't blame them."
+   ]
+  },
+  {
+   "begin": "387.400",
+   "children": [],
+   "end": "397.960",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Not only was Hagrid twice as tall as anyone else, he kept pointing at perfectly ordinary things like parking meters and saying loudly, \"See that, Harry?"
+   ]
+  },
+  {
+   "begin": "397.960",
+   "children": [],
+   "end": "400.080",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "Things these Muggles dream up, eh?\""
    ]
   },
   {
    "begin": "400.080",
    "children": [],
    "end": "407.400",
-   "id": "f000057",
+   "id": "f000117",
    "language": "eng",
    "lines": [
     "\"Hagrid,\" said Harry, panting a bit as he ran to keep up, \"did you say there are dragons at Gringotts?\""
@@ -573,18 +1173,28 @@
   {
    "begin": "407.400",
    "children": [],
-   "end": "413.160",
-   "id": "f000058",
+   "end": "410.440",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "\"Well, so they say,\" said Hagrid. \"Crikey, I'd like a dragon.\""
+    "\"Well, so they say,\" said Hagrid."
+   ]
+  },
+  {
+   "begin": "410.440",
+   "children": [],
+   "end": "413.160",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "\"Crikey, I'd like a dragon.\""
    ]
   },
   {
    "begin": "413.160",
    "children": [],
    "end": "414.920",
-   "id": "f000059",
+   "id": "f000120",
    "language": "eng",
    "lines": [
     "\"You'd like one?\""
@@ -593,48 +1203,88 @@
   {
    "begin": "414.920",
    "children": [],
-   "end": "420.120",
-   "id": "f000060",
+   "end": "419.000",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "\"Wanted one ever since I was a kid - here we go.\""
    ]
   },
   {
-   "begin": "420.120",
+   "begin": "419.000",
    "children": [],
-   "end": "430.880",
-   "id": "f000061",
+   "end": "421.320",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "They had reached the station. There was a train to London in five minutes' time. Hagrid, who didn't understand \"Muggle money,\" as he called it, gave the bills to Harry so he could buy their tickets."
+    "They had reached the station."
+   ]
+  },
+  {
+   "begin": "421.320",
+   "children": [],
+   "end": "424.480",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "There was a train to London in five minutes' time."
+   ]
+  },
+  {
+   "begin": "424.480",
+   "children": [],
+   "end": "430.880",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Hagrid, who didn't understand \"Muggle money,\" as he called it, gave the bills to Harry so he could buy their tickets."
    ]
   },
   {
    "begin": "430.880",
    "children": [],
-   "end": "439.640",
-   "id": "f000062",
+   "end": "434.120",
+   "id": "f000125",
    "language": "eng",
    "lines": [
-    "People stared more than ever on the train. Hagrid took up two seats and sat knitting what looked like a canary-yellow circus tent."
+    "People stared more than ever on the train."
+   ]
+  },
+  {
+   "begin": "434.120",
+   "children": [],
+   "end": "439.640",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "Hagrid took up two seats and sat knitting what looked like a canary-yellow circus tent."
    ]
   },
   {
    "begin": "439.640",
    "children": [],
-   "end": "444.800",
-   "id": "f000063",
+   "end": "442.480",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "\"Still got yer letter, Harry?\" he asked as he counted stitches."
+    "\"Still got yer letter, Harry?\""
+   ]
+  },
+  {
+   "begin": "442.480",
+   "children": [],
+   "end": "444.800",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "he asked as he counted stitches."
    ]
   },
   {
    "begin": "444.800",
    "children": [],
    "end": "447.960",
-   "id": "f000064",
+   "id": "f000129",
    "language": "eng",
    "lines": [
     "Harry took the parchment envelope out of his pocket."
@@ -643,18 +1293,28 @@
   {
    "begin": "447.960",
    "children": [],
-   "end": "454.040",
-   "id": "f000065",
+   "end": "449.960",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "\"Good,\" said Hagrid. \"There's a list there of everything yeh need.\""
+    "\"Good,\" said Hagrid."
    ]
   },
   {
-   "begin": "454.040",
+   "begin": "449.960",
+   "children": [],
+   "end": "452.720",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "\"There's a list there of everything yeh need.\""
+   ]
+  },
+  {
+   "begin": "452.720",
    "children": [],
    "end": "458.240",
-   "id": "f000066",
+   "id": "f000132",
    "language": "eng",
    "lines": [
     "Harry unfolded a second piece of paper he hadn't noticed the night before, and read:"
@@ -663,38 +1323,38 @@
   {
    "begin": "458.240",
    "children": [],
-   "end": "460.160",
-   "id": "f000067",
+   "end": "460.080",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "HOGWARTS SCHOOL"
    ]
   },
   {
-   "begin": "460.160",
+   "begin": "460.080",
    "children": [],
-   "end": "462.400",
-   "id": "f000068",
+   "end": "461.840",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "of WITCHCRAFT and WIZARDRY"
    ]
   },
   {
-   "begin": "462.400",
+   "begin": "461.840",
    "children": [],
-   "end": "463.680",
-   "id": "f000069",
+   "end": "463.200",
+   "id": "f000135",
    "language": "eng",
    "lines": [
     "UNIFORM"
    ]
   },
   {
-   "begin": "463.680",
+   "begin": "463.200",
    "children": [],
    "end": "465.480",
-   "id": "f000070",
+   "id": "f000136",
    "language": "eng",
    "lines": [
     "First-year students will require:"
@@ -703,48 +1363,88 @@
   {
    "begin": "465.480",
    "children": [],
-   "end": "468.760",
-   "id": "f000071",
+   "end": "465.840",
+   "id": "f000137",
    "language": "eng",
    "lines": [
-    "1. Three sets of plain work robes (black)"
+    "1."
+   ]
+  },
+  {
+   "begin": "465.840",
+   "children": [],
+   "end": "468.760",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Three sets of plain work robes (black)"
    ]
   },
   {
    "begin": "468.760",
    "children": [],
-   "end": "473.240",
-   "id": "f000072",
+   "end": "469.560",
+   "id": "f000139",
    "language": "eng",
    "lines": [
-    "2. One plain pointed hat (black) for day wear"
+    "2."
    ]
   },
   {
-   "begin": "473.240",
+   "begin": "469.560",
    "children": [],
-   "end": "477.520",
-   "id": "f000073",
+   "end": "472.840",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "3. One pair of protective gloves (dragon hide or similar)"
+    "One plain pointed hat (black) for day wear"
+   ]
+  },
+  {
+   "begin": "472.840",
+   "children": [],
+   "end": "473.920",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "3."
+   ]
+  },
+  {
+   "begin": "473.920",
+   "children": [],
+   "end": "477.520",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "One pair of protective gloves (dragon hide or similar)"
    ]
   },
   {
    "begin": "477.520",
    "children": [],
-   "end": "481.400",
-   "id": "f000074",
+   "end": "478.400",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "4. One winter cloak (black, silver fastenings)"
+    "4."
+   ]
+  },
+  {
+   "begin": "478.400",
+   "children": [],
+   "end": "481.400",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "One winter cloak (black, silver fastenings)"
    ]
   },
   {
    "begin": "481.400",
    "children": [],
    "end": "485.320",
-   "id": "f000075",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "Please note that all pupils' clothes should carry name tags"
@@ -753,18 +1453,18 @@
   {
    "begin": "485.320",
    "children": [],
-   "end": "487.440",
-   "id": "f000076",
+   "end": "487.040",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "COURSE BOOKS"
    ]
   },
   {
-   "begin": "487.440",
+   "begin": "487.040",
    "children": [],
    "end": "489.960",
-   "id": "f000077",
+   "id": "f000147",
    "language": "eng",
    "lines": [
     "All students should have a copy of each of the following:"
@@ -773,78 +1473,78 @@
   {
    "begin": "489.960",
    "children": [],
-   "end": "494.400",
-   "id": "f000078",
+   "end": "493.760",
+   "id": "f000148",
    "language": "eng",
    "lines": [
     "The Standard Book of Spells (Grade 1) by Miranda Goshawk"
    ]
   },
   {
-   "begin": "494.400",
+   "begin": "493.760",
    "children": [],
-   "end": "497.400",
-   "id": "f000079",
+   "end": "496.720",
+   "id": "f000149",
    "language": "eng",
    "lines": [
     "A History of Magic by Bathilda Bagshot"
    ]
   },
   {
-   "begin": "497.400",
+   "begin": "496.720",
    "children": [],
-   "end": "500.320",
-   "id": "f000080",
+   "end": "499.720",
+   "id": "f000150",
    "language": "eng",
    "lines": [
     "Magical Theory by Adalbert Waffling"
    ]
   },
   {
-   "begin": "500.320",
+   "begin": "499.720",
    "children": [],
-   "end": "504.000",
-   "id": "f000081",
+   "end": "503.400",
+   "id": "f000151",
    "language": "eng",
    "lines": [
     "A Beginners' Guide to Transfiguration by Emeric Switch"
    ]
   },
   {
-   "begin": "504.000",
+   "begin": "503.400",
    "children": [],
-   "end": "508.160",
-   "id": "f000082",
+   "end": "507.640",
+   "id": "f000152",
    "language": "eng",
    "lines": [
     "One Thousand Magical Herbs and Fungi by Phyllida Spore"
    ]
   },
   {
-   "begin": "508.160",
+   "begin": "507.640",
    "children": [],
-   "end": "511.600",
-   "id": "f000083",
+   "end": "511.120",
+   "id": "f000153",
    "language": "eng",
    "lines": [
     "Magical Draughts and Potions by Arsenius Jigger"
    ]
   },
   {
-   "begin": "511.600",
+   "begin": "511.120",
    "children": [],
-   "end": "516.320",
-   "id": "f000084",
+   "end": "515.760",
+   "id": "f000154",
    "language": "eng",
    "lines": [
     "Fantastic Beasts and Where to Find Them by Newt Scamander"
    ]
   },
   {
-   "begin": "516.320",
+   "begin": "515.760",
    "children": [],
    "end": "520.320",
-   "id": "f000085",
+   "id": "f000155",
    "language": "eng",
    "lines": [
     "The Dark Forces: A Guide to Self-Protection by Quentin Trimble"
@@ -853,38 +1553,38 @@
   {
    "begin": "520.320",
    "children": [],
-   "end": "522.160",
-   "id": "f000086",
+   "end": "522.080",
+   "id": "f000156",
    "language": "eng",
    "lines": [
     "OTHER EQUIPMENT"
    ]
   },
   {
-   "begin": "522.160",
+   "begin": "522.080",
    "children": [],
-   "end": "523.160",
-   "id": "f000087",
+   "end": "523.080",
+   "id": "f000157",
    "language": "eng",
    "lines": [
     "1 wand"
    ]
   },
   {
-   "begin": "523.160",
+   "begin": "523.080",
    "children": [],
-   "end": "525.920",
-   "id": "f000088",
+   "end": "525.880",
+   "id": "f000158",
    "language": "eng",
    "lines": [
     "1 cauldron (pewter, standard size 2)"
    ]
   },
   {
-   "begin": "525.920",
+   "begin": "525.880",
    "children": [],
    "end": "528.400",
-   "id": "f000089",
+   "id": "f000159",
    "language": "eng",
    "lines": [
     "1 set glass or crystal phials"
@@ -893,28 +1593,28 @@
   {
    "begin": "528.400",
    "children": [],
-   "end": "529.280",
-   "id": "f000090",
+   "end": "529.520",
+   "id": "f000160",
    "language": "eng",
    "lines": [
     "1 telescope"
    ]
   },
   {
-   "begin": "529.280",
+   "begin": "529.520",
    "children": [],
-   "end": "532.000",
-   "id": "f000091",
+   "end": "531.520",
+   "id": "f000161",
    "language": "eng",
    "lines": [
     "1 set brass scales"
    ]
   },
   {
-   "begin": "532.000",
+   "begin": "531.520",
    "children": [],
    "end": "536.400",
-   "id": "f000092",
+   "id": "f000162",
    "language": "eng",
    "lines": [
     "Students may also bring an owl OR a cat OR a toad"
@@ -924,7 +1624,7 @@
    "begin": "536.400",
    "children": [],
    "end": "541.640",
-   "id": "f000093",
+   "id": "f000163",
    "language": "eng",
    "lines": [
     "PARENTS ARE REMINDED THAT FIRST YEARS ARE NOT ALLOWED THEIR OWN BROOMSTICKS"
@@ -933,88 +1633,288 @@
   {
    "begin": "541.640",
    "children": [],
-   "end": "546.240",
-   "id": "f000094",
+   "end": "545.040",
+   "id": "f000164",
    "language": "eng",
    "lines": [
-    "\"Can we buy all this in London?\" Harry wondered aloud."
+    "\"Can we buy all this in London?\""
+   ]
+  },
+  {
+   "begin": "545.040",
+   "children": [],
+   "end": "546.240",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Harry wondered aloud."
    ]
   },
   {
    "begin": "546.240",
    "children": [],
-   "end": "549.440",
-   "id": "f000095",
+   "end": "549.520",
+   "id": "f000166",
    "language": "eng",
    "lines": [
     "\"If yeh know where to go,\" said Hagrid."
    ]
   },
   {
-   "begin": "549.440",
+   "begin": "549.520",
    "children": [],
-   "end": "567.480",
-   "id": "f000096",
+   "end": "554.320",
+   "id": "f000167",
    "language": "eng",
    "lines": [
-    "Harry had never been to London before. Although Hagrid seemed to know where he was going, he was obviously not used to getting there in an ordinary way. He got stuck in the ticket barrier on the Underground, and complained loudly that the seats were too small and the trains too slow."
+    "Harry had never been to London before."
+   ]
+  },
+  {
+   "begin": "554.320",
+   "children": [],
+   "end": "560.320",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Although Hagrid seemed to know where he was going, he was obviously not used to getting there in an ordinary way."
+   ]
+  },
+  {
+   "begin": "560.320",
+   "children": [],
+   "end": "567.480",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "He got stuck in the ticket barrier on the Underground, and complained loudly that the seats were too small and the trains too slow."
    ]
   },
   {
    "begin": "567.480",
    "children": [],
-   "end": "578.000",
-   "id": "f000097",
+   "end": "577.600",
+   "id": "f000170",
    "language": "eng",
    "lines": [
     "\"I don't know how the Muggles manage without magic,\" he said as they climbed a broken-down escalator that led up to a bustling road lined with shops."
    ]
   },
   {
-   "begin": "578.000",
+   "begin": "577.600",
    "children": [],
-   "end": "620.760",
-   "id": "f000098",
+   "end": "584.160",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "Hagrid was so huge that he parted the crowd easily; all Harry had to do was keep close behind him. They passed book shops and music stores, hamburger restaurants and cinemas, but nowhere that looked as if it could sell you a magic wand. This was just an ordinary street full of ordinary people. Could there really be piles of wizard gold buried miles beneath them? Were there really shops that sold spell books and broomsticks? Might this not all be some huge joke that the Dursleys had cooked up? If Harry hadn't known that the Dursleys had no sense of humor, he might have thought so; yet somehow, even though everything Hagrid had told him so far was unbelievable, Harry couldn't help trusting him."
+    "Hagrid was so huge that he parted the crowd easily; all Harry had to do was keep close behind him."
+   ]
+  },
+  {
+   "begin": "584.160",
+   "children": [],
+   "end": "592.680",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "They passed book shops and music stores, hamburger restaurants and cinemas, but nowhere that looked as if it could sell you a magic wand."
+   ]
+  },
+  {
+   "begin": "592.680",
+   "children": [],
+   "end": "596.200",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "This was just an ordinary street full of ordinary people."
+   ]
+  },
+  {
+   "begin": "596.200",
+   "children": [],
+   "end": "600.960",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "Could there really be piles of wizard gold buried miles beneath them?"
+   ]
+  },
+  {
+   "begin": "600.960",
+   "children": [],
+   "end": "604.480",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "Were there really shops that sold spell books and broomsticks?"
+   ]
+  },
+  {
+   "begin": "604.480",
+   "children": [],
+   "end": "608.600",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Might this not all be some huge joke that the Dursleys had cooked up?"
+   ]
+  },
+  {
+   "begin": "608.600",
+   "children": [],
+   "end": "620.760",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "If Harry hadn't known that the Dursleys had no sense of humor, he might have thought so; yet somehow, even though everything Hagrid had told him so far was unbelievable, Harry couldn't help trusting him."
    ]
   },
   {
    "begin": "620.760",
    "children": [],
-   "end": "627.720",
-   "id": "f000099",
+   "end": "626.040",
+   "id": "f000178",
    "language": "eng",
    "lines": [
-    "\"This is it,\" said Hagrid, coming to a halt, \"the Leaky Cauldron. It's a famous place.\""
+    "\"This is it,\" said Hagrid, coming to a halt, \"the Leaky Cauldron."
+   ]
+  },
+  {
+   "begin": "626.040",
+   "children": [],
+   "end": "627.720",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "It's a famous place.\""
    ]
   },
   {
    "begin": "627.720",
    "children": [],
-   "end": "653.680",
-   "id": "f000100",
+   "end": "631.360",
+   "id": "f000180",
    "language": "eng",
    "lines": [
-    "It was a tiny, grubby-looking pub. If Hagrid hadn't pointed it out, Harry wouldn't have noticed it was there. The people hurrying by didn't glance at it. Their eyes slid from the big book shop on one side to the record shop on the other as if they couldn't see the Leaky Cauldron at all. In fact, Harry had the most peculiar feeling that only he and Hagrid could see it. Before he could mention this, Hagrid had steered him inside."
+    "It was a tiny, grubby-looking pub."
+   ]
+  },
+  {
+   "begin": "631.360",
+   "children": [],
+   "end": "635.400",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "If Hagrid hadn't pointed it out, Harry wouldn't have noticed it was there."
+   ]
+  },
+  {
+   "begin": "635.400",
+   "children": [],
+   "end": "638.160",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "The people hurrying by didn't glance at it."
+   ]
+  },
+  {
+   "begin": "638.160",
+   "children": [],
+   "end": "645.360",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "Their eyes slid from the big book shop on one side to the record shop on the other as if they couldn't see the Leaky Cauldron at all."
+   ]
+  },
+  {
+   "begin": "645.360",
+   "children": [],
+   "end": "650.080",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "In fact, Harry had the most peculiar feeling that only he and Hagrid could see it."
+   ]
+  },
+  {
+   "begin": "650.080",
+   "children": [],
+   "end": "653.680",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "Before he could mention this, Hagrid had steered him inside."
    ]
   },
   {
    "begin": "653.680",
    "children": [],
-   "end": "682.440",
-   "id": "f000101",
+   "end": "657.840",
+   "id": "f000186",
    "language": "eng",
    "lines": [
-    "For a famous place, it was very dark and shabby. A few old women were sitting in a corner, drinking tiny glasses of sherry. One of them was smoking a long pipe. A little man in a top hat was talking to the old bartender, who was quite bald and looked like a toothless walnut. The low buzz of chatter stopped when they walked in. Everyone seemed to know Hagrid; they waved and smiled at him, and the bartender reached for a glass, saying, \"The usual, Hagrid?\""
+    "For a famous place, it was very dark and shabby."
+   ]
+  },
+  {
+   "begin": "657.840",
+   "children": [],
+   "end": "662.080",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "A few old women were sitting in a corner, drinking tiny glasses of sherry."
+   ]
+  },
+  {
+   "begin": "662.080",
+   "children": [],
+   "end": "664.320",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "One of them was smoking a long pipe."
+   ]
+  },
+  {
+   "begin": "664.320",
+   "children": [],
+   "end": "670.960",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "A little man in a top hat was talking to the old bartender, who was quite bald and looked like a toothless walnut."
+   ]
+  },
+  {
+   "begin": "670.960",
+   "children": [],
+   "end": "674.120",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "The low buzz of chatter stopped when they walked in."
+   ]
+  },
+  {
+   "begin": "674.120",
+   "children": [],
+   "end": "682.440",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Everyone seemed to know Hagrid; they waved and smiled at him, and the bartender reached for a glass, saying, \"The usual, Hagrid?\""
    ]
   },
   {
    "begin": "682.440",
    "children": [],
    "end": "691.000",
-   "id": "f000102",
+   "id": "f000192",
    "language": "eng",
    "lines": [
     "\"Can't, Tom, I'm on Hogwarts business,\" said Hagrid, clapping his great hand on Harry's shoulder and making Harry's knees buckle."
@@ -1024,7 +1924,7 @@
    "begin": "691.000",
    "children": [],
    "end": "698.440",
-   "id": "f000103",
+   "id": "f000193",
    "language": "eng",
    "lines": [
     "\"Good Lord,\" said the bartender, peering at Harry, \"is this - can this be - ?\""
@@ -1033,28 +1933,58 @@
   {
    "begin": "698.440",
    "children": [],
-   "end": "702.440",
-   "id": "f000104",
+   "end": "702.760",
+   "id": "f000194",
    "language": "eng",
    "lines": [
     "The Leaky Cauldron had suddenly gone completely still and silent."
    ]
   },
   {
-   "begin": "702.440",
+   "begin": "702.760",
    "children": [],
-   "end": "711.800",
-   "id": "f000105",
+   "end": "709.160",
+   "id": "f000195",
    "language": "eng",
    "lines": [
-    "\"Bless my soul,\" whispered the old bartender, \"Harry Potter . . . what an honor.\""
+    "\"Bless my soul,\" whispered the old bartender, \"Harry Potter ."
+   ]
+  },
+  {
+   "begin": "709.160",
+   "children": [],
+   "end": "709.200",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "709.200",
+   "children": [],
+   "end": "709.200",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "709.200",
+   "children": [],
+   "end": "711.800",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "what an honor.\""
    ]
   },
   {
    "begin": "711.800",
    "children": [],
    "end": "718.200",
-   "id": "f000106",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "He hurried out from behind the bar, rushed toward Harry and seized his hand, tears in his eyes."
@@ -1063,28 +1993,58 @@
   {
    "begin": "718.200",
    "children": [],
-   "end": "723.720",
-   "id": "f000107",
+   "end": "722.640",
+   "id": "f000200",
    "language": "eng",
    "lines": [
     "\"Welcome back, Mr. Potter, welcome back.\""
    ]
   },
   {
-   "begin": "723.720",
+   "begin": "722.640",
    "children": [],
-   "end": "733.280",
-   "id": "f000108",
+   "end": "725.120",
+   "id": "f000201",
    "language": "eng",
    "lines": [
-    "Harry didn't know what to say. Everyone was looking at him. The old woman with the pipe was puffing on it without realizing it had gone out. Hagrid was beaming."
+    "Harry didn't know what to say."
+   ]
+  },
+  {
+   "begin": "725.120",
+   "children": [],
+   "end": "726.840",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "Everyone was looking at him."
+   ]
+  },
+  {
+   "begin": "726.840",
+   "children": [],
+   "end": "731.480",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "The old woman with the pipe was puffing on it without realizing it had gone out."
+   ]
+  },
+  {
+   "begin": "731.480",
+   "children": [],
+   "end": "733.280",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Hagrid was beaming."
    ]
   },
   {
    "begin": "733.280",
    "children": [],
    "end": "740.960",
-   "id": "f000109",
+   "id": "f000205",
    "language": "eng",
    "lines": [
     "Then there was a great scraping of chairs and the next moment, Harry found himself shaking hands with everyone in the Leaky Cauldron."
@@ -1094,7 +2054,7 @@
    "begin": "740.960",
    "children": [],
    "end": "744.800",
-   "id": "f000110",
+   "id": "f000206",
    "language": "eng",
    "lines": [
     "\"Doris Crockford, Mr. Potter, can't believe I'm meeting you at last.\""
@@ -1104,7 +2064,7 @@
    "begin": "744.800",
    "children": [],
    "end": "748.360",
-   "id": "f000111",
+   "id": "f000207",
    "language": "eng",
    "lines": [
     "\"So proud, Mr. Potter, I'm just so proud.\""
@@ -1114,7 +2074,7 @@
    "begin": "748.360",
    "children": [],
    "end": "751.960",
-   "id": "f000112",
+   "id": "f000208",
    "language": "eng",
    "lines": [
     "\"Always wanted to shake your hand - I'm all of a flutter.\""
@@ -1124,7 +2084,7 @@
    "begin": "751.960",
    "children": [],
    "end": "759.400",
-   "id": "f000113",
+   "id": "f000209",
    "language": "eng",
    "lines": [
     "\"Delighted, Mr. Potter, just can't tell you, Diggle's the name, Dedalus Diggle.\""
@@ -1133,28 +2093,78 @@
   {
    "begin": "759.400",
    "children": [],
-   "end": "767.600",
-   "id": "f000114",
+   "end": "761.600",
+   "id": "f000210",
    "language": "eng",
    "lines": [
-    "\"I've seen you before!\" said Harry, as Dedalus Diggle's top hat fell off in his excitement. \"You bowed to me once in a shop.\""
+    "\"I've seen you before!\""
+   ]
+  },
+  {
+   "begin": "761.600",
+   "children": [],
+   "end": "765.800",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "said Harry, as Dedalus Diggle's top hat fell off in his excitement."
+   ]
+  },
+  {
+   "begin": "765.800",
+   "children": [],
+   "end": "767.600",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "\"You bowed to me once in a shop.\""
    ]
   },
   {
    "begin": "767.600",
    "children": [],
-   "end": "775.880",
-   "id": "f000115",
+   "end": "769.880",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "\"He remembers!\" cried Dedalus Diggle, looking around at everyone. \"Did you hear that? He remembers me!\""
+    "\"He remembers!\""
+   ]
+  },
+  {
+   "begin": "769.880",
+   "children": [],
+   "end": "772.600",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "cried Dedalus Diggle, looking around at everyone."
+   ]
+  },
+  {
+   "begin": "772.600",
+   "children": [],
+   "end": "774.000",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "\"Did you hear that?"
+   ]
+  },
+  {
+   "begin": "774.000",
+   "children": [],
+   "end": "775.880",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "He remembers me!\""
    ]
   },
   {
    "begin": "775.880",
    "children": [],
    "end": "781.440",
-   "id": "f000116",
+   "id": "f000217",
    "language": "eng",
    "lines": [
     "Harry shook hands again and again - Doris Crockford kept coming back for more."
@@ -1163,28 +2173,58 @@
   {
    "begin": "781.440",
    "children": [],
-   "end": "787.960",
-   "id": "f000117",
+   "end": "786.000",
+   "id": "f000218",
    "language": "eng",
    "lines": [
-    "A pale young man made his way forward, very nervously. One of his eyes was twitching."
+    "A pale young man made his way forward, very nervously."
+   ]
+  },
+  {
+   "begin": "786.000",
+   "children": [],
+   "end": "787.960",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "One of his eyes was twitching."
    ]
   },
   {
    "begin": "787.960",
    "children": [],
-   "end": "795.680",
-   "id": "f000118",
+   "end": "790.080",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "\"Professor Quirrell!\" said Hagrid. \"Harry, Professor Quirrell will be one of your teachers at Hogwarts.\""
+    "\"Professor Quirrell!\""
+   ]
+  },
+  {
+   "begin": "790.080",
+   "children": [],
+   "end": "790.960",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "said Hagrid."
+   ]
+  },
+  {
+   "begin": "790.960",
+   "children": [],
+   "end": "795.680",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "\"Harry, Professor Quirrell will be one of your teachers at Hogwarts.\""
    ]
   },
   {
    "begin": "795.680",
    "children": [],
    "end": "805.480",
-   "id": "f000119",
+   "id": "f000223",
    "language": "eng",
    "lines": [
     "\"P-P-Potter,\" stammered Professor Quirrell, grasping Harry's hand, \"c-can't ttell you how p-pleased I am to meet you.\""
@@ -1194,7 +2234,7 @@
    "begin": "805.480",
    "children": [],
    "end": "809.640",
-   "id": "f000120",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "\"What sort of magic do you teach, Professor Quirrell?\""
@@ -1203,38 +2243,118 @@
   {
    "begin": "809.640",
    "children": [],
-   "end": "836.080",
-   "id": "f000121",
+   "end": "817.760",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "\"D-Defense Against the D-D-Dark Arts,\" muttered Professor Quirrell, as though he'd rather not think about it. \"N-not that you n-need it, eh, P-P-Potter?\" He laughed nervously. \"You'll be g-getting all your equipment, I suppose? I've g-got to p-pick up a new b-book on vampires, m-myself.\" He looked terrified at the very thought."
+    "\"D-Defense Against the D-D-Dark Arts,\" muttered Professor Quirrell, as though he'd rather not think about it."
+   ]
+  },
+  {
+   "begin": "817.760",
+   "children": [],
+   "end": "822.000",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "\"N-not that you n-need it, eh, P-P-Potter?\""
+   ]
+  },
+  {
+   "begin": "822.000",
+   "children": [],
+   "end": "823.800",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "He laughed nervously."
+   ]
+  },
+  {
+   "begin": "823.800",
+   "children": [],
+   "end": "827.280",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "\"You'll be g-getting all your equipment, I suppose?"
+   ]
+  },
+  {
+   "begin": "827.280",
+   "children": [],
+   "end": "833.480",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "I've g-got to p-pick up a new b-book on vampires, m-myself.\""
+   ]
+  },
+  {
+   "begin": "833.480",
+   "children": [],
+   "end": "836.080",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "He looked terrified at the very thought."
    ]
   },
   {
    "begin": "836.080",
    "children": [],
-   "end": "846.880",
-   "id": "f000122",
+   "end": "840.240",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "But the others wouldn't let Professor Quirrell keep Harry to himself. It took almost ten minutes to get away from them all. At last, Hagrid managed to make himself heard over the babble."
+    "But the others wouldn't let Professor Quirrell keep Harry to himself."
+   ]
+  },
+  {
+   "begin": "840.240",
+   "children": [],
+   "end": "843.200",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "It took almost ten minutes to get away from them all."
+   ]
+  },
+  {
+   "begin": "843.200",
+   "children": [],
+   "end": "846.880",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "At last, Hagrid managed to make himself heard over the babble."
    ]
   },
   {
    "begin": "846.880",
    "children": [],
-   "end": "850.760",
-   "id": "f000123",
+   "end": "849.680",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "\"Must get on - lots ter buy. Come on, Harry.\""
+    "\"Must get on - lots ter buy."
+   ]
+  },
+  {
+   "begin": "849.680",
+   "children": [],
+   "end": "850.760",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "Come on, Harry.\""
    ]
   },
   {
    "begin": "850.760",
    "children": [],
    "end": "861.600",
-   "id": "f000124",
+   "id": "f000236",
    "language": "eng",
    "lines": [
     "Doris Crockford shook Harry's hand one last time, and Hagrid led them through the bar and out into a small, walled courtyard, where there was nothing but a trash can and a few weeds."
@@ -1244,7 +2364,7 @@
    "begin": "861.600",
    "children": [],
    "end": "863.560",
-   "id": "f000125",
+   "id": "f000237",
    "language": "eng",
    "lines": [
     "Hagrid grinned at Harry."
@@ -1253,18 +2373,38 @@
   {
    "begin": "863.560",
    "children": [],
-   "end": "873.880",
-   "id": "f000126",
+   "end": "865.400",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "\"Told yeh, didn't I? Told yeh you was famous. Even Professor Quirrell was tremblin' ter meet yeh - mind you, he's usually tremblin'.\""
+    "\"Told yeh, didn't I?"
+   ]
+  },
+  {
+   "begin": "865.400",
+   "children": [],
+   "end": "867.440",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "Told yeh you was famous."
+   ]
+  },
+  {
+   "begin": "867.440",
+   "children": [],
+   "end": "873.880",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "Even Professor Quirrell was tremblin' ter meet yeh - mind you, he's usually tremblin'.\""
    ]
   },
   {
    "begin": "873.880",
    "children": [],
    "end": "876.360",
-   "id": "f000127",
+   "id": "f000241",
    "language": "eng",
    "lines": [
     "\"Is he always that nervous?\""
@@ -1273,38 +2413,218 @@
   {
    "begin": "876.360",
    "children": [],
-   "end": "902.000",
-   "id": "f000128",
+   "end": "877.760",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "\"Oh, yeah. Poor bloke. Brilliant mind. He was fine while he was studyin' outta books but then he took a year off ter get some first-hand experience. . . . They say he met vampires in the Black Forest, and there was a nasty bit o' trouble with a hag - never been the same since. Scared of the students, scared of his own subject - now, where's me umbrella?\""
+    "\"Oh, yeah."
+   ]
+  },
+  {
+   "begin": "877.760",
+   "children": [],
+   "end": "878.920",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "Poor bloke."
+   ]
+  },
+  {
+   "begin": "878.920",
+   "children": [],
+   "end": "880.160",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "Brilliant mind."
+   ]
+  },
+  {
+   "begin": "880.160",
+   "children": [],
+   "end": "887.040",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "He was fine while he was studyin' outta books but then he took a year off ter get some first-hand experience."
+   ]
+  },
+  {
+   "begin": "887.040",
+   "children": [],
+   "end": "887.040",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "887.040",
+   "children": [],
+   "end": "887.040",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "887.040",
+   "children": [],
+   "end": "887.040",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "887.040",
+   "children": [],
+   "end": "895.920",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "They say he met vampires in the Black Forest, and there was a nasty bit o' trouble with a hag - never been the same since."
+   ]
+  },
+  {
+   "begin": "895.920",
+   "children": [],
+   "end": "902.000",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Scared of the students, scared of his own subject - now, where's me umbrella?\""
    ]
   },
   {
    "begin": "902.000",
    "children": [],
-   "end": "910.320",
-   "id": "f000129",
+   "end": "903.760",
+   "id": "f000251",
    "language": "eng",
    "lines": [
-    "Vampires? Hags? Harry's head was swimming. Hagrid, meanwhile, was counting bricks in the wall above the trash can."
+    "Vampires?"
+   ]
+  },
+  {
+   "begin": "903.760",
+   "children": [],
+   "end": "904.720",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "Hags?"
+   ]
+  },
+  {
+   "begin": "904.720",
+   "children": [],
+   "end": "906.360",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "Harry's head was swimming."
+   ]
+  },
+  {
+   "begin": "906.360",
+   "children": [],
+   "end": "910.320",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "Hagrid, meanwhile, was counting bricks in the wall above the trash can."
    ]
   },
   {
    "begin": "910.320",
    "children": [],
-   "end": "915.560",
-   "id": "f000130",
+   "end": "911.400",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "\"Three up . . . two across . . .\" he muttered. \"Right, stand back, Harry.\""
+    "\"Three up ."
+   ]
+  },
+  {
+   "begin": "911.400",
+   "children": [],
+   "end": "911.400",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "911.400",
+   "children": [],
+   "end": "911.400",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "911.400",
+   "children": [],
+   "end": "913.000",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "two across ."
+   ]
+  },
+  {
+   "begin": "913.000",
+   "children": [],
+   "end": "913.000",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "913.000",
+   "children": [],
+   "end": "913.000",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "913.000",
+   "children": [],
+   "end": "913.800",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "he muttered."
+   ]
+  },
+  {
+   "begin": "913.800",
+   "children": [],
+   "end": "915.560",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "\"Right, stand back, Harry.\""
    ]
   },
   {
    "begin": "915.560",
    "children": [],
    "end": "919.280",
-   "id": "f000131",
+   "id": "f000263",
    "language": "eng",
    "lines": [
     "He tapped the wall three times with the point of his umbrella."
@@ -1314,7 +2634,7 @@
    "begin": "919.280",
    "children": [],
    "end": "935.200",
-   "id": "f000132",
+   "id": "f000264",
    "language": "eng",
    "lines": [
     "The brick he had touched quivered - it wriggled - in the middle, a small hole appeared - it grew wider and wider - a second later they were facing an archway large enough even for Hagrid, an archway onto a cobbled street that twisted and turned out of sight."
@@ -1324,7 +2644,7 @@
    "begin": "935.200",
    "children": [],
    "end": "939.560",
-   "id": "f000133",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "\"Welcome,\" said Hagrid, \"to Diagon Alley.\""
@@ -1333,28 +2653,58 @@
   {
    "begin": "939.560",
    "children": [],
-   "end": "950.720",
-   "id": "f000134",
+   "end": "942.400",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "He grinned at Harry's amazement. They stepped through the archway. Harry looked quickly over his shoulder and saw the archway shrink instantly back into solid wall."
+    "He grinned at Harry's amazement."
+   ]
+  },
+  {
+   "begin": "942.400",
+   "children": [],
+   "end": "944.360",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "They stepped through the archway."
+   ]
+  },
+  {
+   "begin": "944.360",
+   "children": [],
+   "end": "950.720",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Harry looked quickly over his shoulder and saw the archway shrink instantly back into solid wall."
    ]
   },
   {
    "begin": "950.720",
    "children": [],
-   "end": "963.440",
-   "id": "f000135",
+   "end": "955.600",
+   "id": "f000269",
    "language": "eng",
    "lines": [
-    "The sun shone brightly on a stack of cauldrons outside the nearest shop. Cauldrons - All Sizes - Copper, Brass, Pewter, Silver - Self-Stirring - Collapsible, said a sign hanging over them."
+    "The sun shone brightly on a stack of cauldrons outside the nearest shop."
+   ]
+  },
+  {
+   "begin": "955.600",
+   "children": [],
+   "end": "963.440",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "Cauldrons - All Sizes - Copper, Brass, Pewter, Silver - Self-Stirring - Collapsible, said a sign hanging over them."
    ]
   },
   {
    "begin": "963.440",
    "children": [],
    "end": "969.120",
-   "id": "f000136",
+   "id": "f000271",
    "language": "eng",
    "lines": [
     "\"Yeah, you'll be needin' one,\" said Hagrid, \"but we gotta get yer money first.\""
@@ -1363,28 +2713,128 @@
   {
    "begin": "969.120",
    "children": [],
-   "end": "993.600",
-   "id": "f000137",
+   "end": "972.600",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "Harry wished he had about eight more eyes. He turned his head in every direction as they walked up the street, trying to look at everything at once: the shops, the things outside them, the people doing their shopping. A plump woman outside an Apothecary was shaking her head as they passed, saying, \"Dragon liver, sixteen Sickles an ounce, they're mad. . . .\""
+    "Harry wished he had about eight more eyes."
    ]
   },
   {
-   "begin": "993.600",
+   "begin": "972.600",
    "children": [],
-   "end": "1033.960",
-   "id": "f000138",
+   "end": "981.560",
+   "id": "f000273",
    "language": "eng",
    "lines": [
-    "A low, soft hooting came from a dark shop with a sign saying Eeylops Owl Emporium - Tawny, Screech, Barn, Brown, and Snowy. Several boys of about Harry's age had their noses pressed against a window with broomsticks in it. \"Look,\" Harry heard one of them say, \"the new Nimbus Two Thousand - fastest ever - \" There were shops selling robes, shops selling telescopes and strange silver instruments Harry had never seen before, windows stacked with barrels of bat spleens and eels' eyes, tottering piles of spell books, quills, and rolls of parchment, potion bottles, globes of the moon. . . ."
+    "He turned his head in every direction as they walked up the street, trying to look at everything at once: the shops, the things outside them, the people doing their shopping."
+   ]
+  },
+  {
+   "begin": "981.560",
+   "children": [],
+   "end": "992.680",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "A plump woman outside an Apothecary was shaking her head as they passed, saying, \"Dragon liver, sixteen Sickles an ounce, they're mad."
+   ]
+  },
+  {
+   "begin": "992.680",
+   "children": [],
+   "end": "992.680",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "992.680",
+   "children": [],
+   "end": "992.680",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "992.680",
+   "children": [],
+   "end": "992.680",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "992.680",
+   "children": [],
+   "end": "1003.480",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "A low, soft hooting came from a dark shop with a sign saying Eeylops Owl Emporium - Tawny, Screech, Barn, Brown, and Snowy."
+   ]
+  },
+  {
+   "begin": "1003.480",
+   "children": [],
+   "end": "1009.440",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "Several boys of about Harry's age had their noses pressed against a window with broomsticks in it."
+   ]
+  },
+  {
+   "begin": "1009.440",
+   "children": [],
+   "end": "1033.960",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "\"Look,\" Harry heard one of them say, \"the new Nimbus Two Thousand - fastest ever - \" There were shops selling robes, shops selling telescopes and strange silver instruments Harry had never seen before, windows stacked with barrels of bat spleens and eels' eyes, tottering piles of spell books, quills, and rolls of parchment, potion bottles, globes of the moon."
+   ]
+  },
+  {
+   "begin": "1033.960",
+   "children": [],
+   "end": "1033.960",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1033.960",
+   "children": [],
+   "end": "1033.960",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1033.960",
+   "children": [],
+   "end": "1033.960",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "."
    ]
   },
   {
    "begin": "1033.960",
    "children": [],
    "end": "1037.040",
-   "id": "f000139",
+   "id": "f000284",
    "language": "eng",
    "lines": [
     "\"Gringotts,\" said Hagrid."
@@ -1393,58 +2843,108 @@
   {
    "begin": "1037.040",
    "children": [],
-   "end": "1047.600",
-   "id": "f000140",
+   "end": "1041.800",
+   "id": "f000285",
    "language": "eng",
    "lines": [
-    "They had reached a snowy white building that towered over the other little shops. Standing beside its burnished bronze doors, wearing a uniform of scarlet and gold, was -"
+    "They had reached a snowy white building that towered over the other little shops."
+   ]
+  },
+  {
+   "begin": "1041.800",
+   "children": [],
+   "end": "1047.600",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "Standing beside its burnished bronze doors, wearing a uniform of scarlet and gold, was -"
    ]
   },
   {
    "begin": "1047.600",
    "children": [],
-   "end": "1066.440",
-   "id": "f000141",
+   "end": "1056.320",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "\"Yeah, that's a goblin,\" said Hagrid quietly as they walked up the white stone steps toward him. The goblin was about a head shorter than Harry. He had a swarthy, clever face, a pointed beard and, Harry noticed, very long fingers and feet. He"
+    "\"Yeah, that's a goblin,\" said Hagrid quietly as they walked up the white stone steps toward him."
+   ]
+  },
+  {
+   "begin": "1056.320",
+   "children": [],
+   "end": "1059.320",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "The goblin was about a head shorter than Harry."
+   ]
+  },
+  {
+   "begin": "1059.320",
+   "children": [],
+   "end": "1066.000",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "He had a swarthy, clever face, a pointed beard and, Harry noticed, very long fingers and feet."
+   ]
+  },
+  {
+   "begin": "1066.000",
+   "children": [],
+   "end": "1066.440",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "He"
    ]
   },
   {
    "begin": "1066.440",
    "children": [],
-   "end": "1074.400",
-   "id": "f000142",
+   "end": "1068.040",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "bowed as they walked inside. Now they were facing a second pair of doors, silver this time, with words engraved upon them:"
+    "bowed as they walked inside."
+   ]
+  },
+  {
+   "begin": "1068.040",
+   "children": [],
+   "end": "1074.400",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Now they were facing a second pair of doors, silver this time, with words engraved upon them:"
    ]
   },
   {
    "begin": "1074.400",
    "children": [],
-   "end": "1078.000",
-   "id": "f000143",
+   "end": "1077.840",
+   "id": "f000293",
    "language": "eng",
    "lines": [
     "Enter, stranger, but take heed"
    ]
   },
   {
-   "begin": "1078.000",
+   "begin": "1077.840",
    "children": [],
-   "end": "1080.360",
-   "id": "f000144",
+   "end": "1080.320",
+   "id": "f000294",
    "language": "eng",
    "lines": [
     "Of what awaits the sin of greed,"
    ]
   },
   {
-   "begin": "1080.360",
+   "begin": "1080.320",
    "children": [],
    "end": "1083.120",
-   "id": "f000145",
+   "id": "f000295",
    "language": "eng",
    "lines": [
     "For those who take, but do not earn,"
@@ -1453,18 +2953,18 @@
   {
    "begin": "1083.120",
    "children": [],
-   "end": "1086.040",
-   "id": "f000146",
+   "end": "1086.000",
+   "id": "f000296",
    "language": "eng",
    "lines": [
     "Must pay most dearly in their turn."
    ]
   },
   {
-   "begin": "1086.040",
+   "begin": "1086.000",
    "children": [],
    "end": "1089.160",
-   "id": "f000147",
+   "id": "f000297",
    "language": "eng",
    "lines": [
     "So if you seek beneath our floors"
@@ -1474,7 +2974,7 @@
    "begin": "1089.160",
    "children": [],
    "end": "1091.520",
-   "id": "f000148",
+   "id": "f000298",
    "language": "eng",
    "lines": [
     "A treasure that was never yours,"
@@ -1484,7 +2984,7 @@
    "begin": "1091.520",
    "children": [],
    "end": "1095.080",
-   "id": "f000149",
+   "id": "f000299",
    "language": "eng",
    "lines": [
     "Thief, you have been warned, beware"
@@ -1493,48 +2993,88 @@
   {
    "begin": "1095.080",
    "children": [],
-   "end": "1097.800",
-   "id": "f000150",
+   "end": "1097.760",
+   "id": "f000300",
    "language": "eng",
    "lines": [
     "Of finding more than treasure there."
    ]
   },
   {
-   "begin": "1097.800",
+   "begin": "1097.760",
    "children": [],
-   "end": "1105.280",
-   "id": "f000151",
+   "end": "1103.800",
+   "id": "f000301",
    "language": "eng",
    "lines": [
     "\"Like I said, yeh'd be mad ter try an' rob it,\" said Hagrid."
    ]
   },
   {
-   "begin": "1105.280",
+   "begin": "1103.800",
    "children": [],
-   "end": "1129.560",
-   "id": "f000152",
+   "end": "1110.160",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "A pair of goblins bowed them through the silver doors and they were in a vast marble hall. About a hundred more goblins were sitting on high stools behind a long counter, scribbling in large ledgers, weighing coins in brass scales, examining precious stones through eyeglasses. There were too many doors to count leading off the hall, and yet more goblins were showing people in and out of these. Hagrid and Harry made for the counter."
+    "A pair of goblins bowed them through the silver doors and they were in a vast marble hall."
+   ]
+  },
+  {
+   "begin": "1110.160",
+   "children": [],
+   "end": "1121.240",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "About a hundred more goblins were sitting on high stools behind a long counter, scribbling in large ledgers, weighing coins in brass scales, examining precious stones through eyeglasses."
+   ]
+  },
+  {
+   "begin": "1121.240",
+   "children": [],
+   "end": "1127.280",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "There were too many doors to count leading off the hall, and yet more goblins were showing people in and out of these."
+   ]
+  },
+  {
+   "begin": "1127.280",
+   "children": [],
+   "end": "1129.560",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "Hagrid and Harry made for the counter."
    ]
   },
   {
    "begin": "1129.560",
    "children": [],
-   "end": "1137.400",
-   "id": "f000153",
+   "end": "1133.400",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "\"Morning,\" said Hagrid to a free goblin. \"We've come ter take some money outta Mr. Harry Potter's safe.\""
+    "\"Morning,\" said Hagrid to a free goblin."
+   ]
+  },
+  {
+   "begin": "1133.400",
+   "children": [],
+   "end": "1137.400",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "\"We've come ter take some money outta Mr. Harry Potter's safe.\""
    ]
   },
   {
    "begin": "1137.400",
    "children": [],
    "end": "1140.240",
-   "id": "f000154",
+   "id": "f000308",
    "language": "eng",
    "lines": [
     "\"You have his key, sir?\""
@@ -1543,18 +3083,38 @@
   {
    "begin": "1140.240",
    "children": [],
-   "end": "1158.200",
-   "id": "f000155",
+   "end": "1151.040",
+   "id": "f000309",
    "language": "eng",
    "lines": [
-    "\"Got it here somewhere,\" said Hagrid, and he started emptying his pockets onto the counter, scattering a handful of moldy dog biscuits over the goblin's book of numbers. The goblin wrinkled his nose. Harry watched the goblin on their right weighing a pile of rubies as big as glowing coals."
+    "\"Got it here somewhere,\" said Hagrid, and he started emptying his pockets onto the counter, scattering a handful of moldy dog biscuits over the goblin's book of numbers."
+   ]
+  },
+  {
+   "begin": "1151.040",
+   "children": [],
+   "end": "1152.920",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "The goblin wrinkled his nose."
+   ]
+  },
+  {
+   "begin": "1152.920",
+   "children": [],
+   "end": "1158.200",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "Harry watched the goblin on their right weighing a pile of rubies as big as glowing coals."
    ]
   },
   {
    "begin": "1158.200",
    "children": [],
    "end": "1162.720",
-   "id": "f000156",
+   "id": "f000312",
    "language": "eng",
    "lines": [
     "\"Got it,\" said Hagrid at last, holding up a tiny golden key."
@@ -1564,7 +3124,7 @@
    "begin": "1162.720",
    "children": [],
    "end": "1164.840",
-   "id": "f000157",
+   "id": "f000313",
    "language": "eng",
    "lines": [
     "The goblin looked at it closely."
@@ -1574,7 +3134,7 @@
    "begin": "1164.840",
    "children": [],
    "end": "1167.440",
-   "id": "f000158",
+   "id": "f000314",
    "language": "eng",
    "lines": [
     "\"That seems to be in order.\""
@@ -1583,18 +3143,28 @@
   {
    "begin": "1167.440",
    "children": [],
-   "end": "1177.880",
-   "id": "f000159",
+   "end": "1174.440",
+   "id": "f000315",
    "language": "eng",
    "lines": [
-    "\"An' I've also got a letter here from Professor Dumbledore,\" said Hagrid importantly, throwing out his chest. \"It's about the You-Know-What in vault seven"
+    "\"An' I've also got a letter here from Professor Dumbledore,\" said Hagrid importantly, throwing out his chest."
    ]
   },
   {
-   "begin": "1177.880",
+   "begin": "1174.440",
+   "children": [],
+   "end": "1178.240",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "\"It's about the You-Know-What in vault seven"
+   ]
+  },
+  {
+   "begin": "1178.240",
    "children": [],
    "end": "1179.200",
-   "id": "f000160",
+   "id": "f000317",
    "language": "eng",
    "lines": [
     "hundred and thirteen.\""
@@ -1604,7 +3174,7 @@
    "begin": "1179.200",
    "children": [],
    "end": "1181.880",
-   "id": "f000161",
+   "id": "f000318",
    "language": "eng",
    "lines": [
     "The goblin read the letter carefully."
@@ -1613,78 +3183,228 @@
   {
    "begin": "1181.880",
    "children": [],
-   "end": "1189.480",
-   "id": "f000162",
+   "end": "1188.880",
+   "id": "f000319",
    "language": "eng",
    "lines": [
-    "\"Very well,\" he said, handing it back to Hagrid, \"I will have someone take you down to both vaults. Griphook!\""
+    "\"Very well,\" he said, handing it back to Hagrid, \"I will have someone take you down to both vaults."
    ]
   },
   {
-   "begin": "1189.480",
+   "begin": "1188.880",
    "children": [],
-   "end": "1200.480",
-   "id": "f000163",
+   "end": "1189.960",
+   "id": "f000320",
    "language": "eng",
    "lines": [
-    "Griphook was yet another goblin. Once Hagrid had crammed all the dog biscuits back inside his pockets, he and Harry followed Griphook toward one of the doors leading off the hall."
+    "Griphook!\""
+   ]
+  },
+  {
+   "begin": "1189.960",
+   "children": [],
+   "end": "1192.960",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "Griphook was yet another goblin."
+   ]
+  },
+  {
+   "begin": "1192.960",
+   "children": [],
+   "end": "1200.480",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "Once Hagrid had crammed all the dog biscuits back inside his pockets, he and Harry followed Griphook toward one of the doors leading off the hall."
    ]
   },
   {
    "begin": "1200.480",
    "children": [],
-   "end": "1206.120",
-   "id": "f000164",
+   "end": "1205.480",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "\"What's the You-Know-What in vault seven hundred and thirteen?\" Harry asked."
+    "\"What's the You-Know-What in vault seven hundred and thirteen?\""
+   ]
+  },
+  {
+   "begin": "1205.480",
+   "children": [],
+   "end": "1206.120",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "Harry asked."
    ]
   },
   {
    "begin": "1206.120",
    "children": [],
-   "end": "1216.920",
-   "id": "f000165",
+   "end": "1209.320",
+   "id": "f000325",
    "language": "eng",
    "lines": [
-    "\"Can't tell yeh that,\" said Hagrid mysteriously. \"Very secret. Hogwarts business. Dumbledore's trusted me. More'n my job's worth ter tell yeh that.\""
+    "\"Can't tell yeh that,\" said Hagrid mysteriously."
+   ]
+  },
+  {
+   "begin": "1209.320",
+   "children": [],
+   "end": "1211.000",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "\"Very secret."
+   ]
+  },
+  {
+   "begin": "1211.000",
+   "children": [],
+   "end": "1212.400",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "Hogwarts business."
+   ]
+  },
+  {
+   "begin": "1212.400",
+   "children": [],
+   "end": "1214.360",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Dumbledore's trusted me."
+   ]
+  },
+  {
+   "begin": "1214.360",
+   "children": [],
+   "end": "1216.920",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "More'n my job's worth ter tell yeh that.\""
    ]
   },
   {
    "begin": "1216.920",
    "children": [],
-   "end": "1241.040",
-   "id": "f000166",
+   "end": "1220.000",
+   "id": "f000330",
    "language": "eng",
    "lines": [
-    "Griphook held the door open for them. Harry, who had expected more marble, was surprised. They were in a narrow stone passageway lit with flaming torches. It sloped steeply downward and there were little railway tracks on the floor. Griphook whistled and a small cart came hurtling up the tracks toward them. They climbed in - Hagrid with some difficulty - and were off."
+    "Griphook held the door open for them."
+   ]
+  },
+  {
+   "begin": "1220.000",
+   "children": [],
+   "end": "1223.240",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "Harry, who had expected more marble, was surprised."
+   ]
+  },
+  {
+   "begin": "1223.240",
+   "children": [],
+   "end": "1227.360",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "They were in a narrow stone passageway lit with flaming torches."
+   ]
+  },
+  {
+   "begin": "1227.360",
+   "children": [],
+   "end": "1232.360",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "It sloped steeply downward and there were little railway tracks on the floor."
+   ]
+  },
+  {
+   "begin": "1232.360",
+   "children": [],
+   "end": "1237.480",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "Griphook whistled and a small cart came hurtling up the tracks toward them."
+   ]
+  },
+  {
+   "begin": "1237.480",
+   "children": [],
+   "end": "1241.040",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "They climbed in - Hagrid with some difficulty - and were off."
    ]
   },
   {
    "begin": "1241.040",
    "children": [],
-   "end": "1255.320",
-   "id": "f000167",
+   "end": "1245.680",
+   "id": "f000336",
    "language": "eng",
    "lines": [
-    "At first they just hurtled through a maze of twisting passages. Harry tried to remember, left, right, right, left, middle fork, right, left, but it was impossible. The rattling cart seemed to know its own way, because Griphook wasn't steering."
+    "At first they just hurtled through a maze of twisting passages."
+   ]
+  },
+  {
+   "begin": "1245.680",
+   "children": [],
+   "end": "1251.320",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "Harry tried to remember, left, right, right, left, middle fork, right, left, but it was impossible."
+   ]
+  },
+  {
+   "begin": "1251.320",
+   "children": [],
+   "end": "1255.320",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "The rattling cart seemed to know its own way, because Griphook wasn't steering."
    ]
   },
   {
    "begin": "1255.320",
    "children": [],
-   "end": "1275.520",
-   "id": "f000168",
+   "end": "1260.440",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "Harry's eyes stung as the cold air rushed past them, but he kept them wide open. Once, he thought he saw a burst of fire at the end of a passage and twisted around to see if it was a dragon, but too late - they plunged even deeper, passing an underground lake where huge stalactites and stalagmites grew from the ceiling and floor."
+    "Harry's eyes stung as the cold air rushed past them, but he kept them wide open."
+   ]
+  },
+  {
+   "begin": "1260.440",
+   "children": [],
+   "end": "1275.520",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "Once, he thought he saw a burst of fire at the end of a passage and twisted around to see if it was a dragon, but too late - they plunged even deeper, passing an underground lake where huge stalactites and stalagmites grew from the ceiling and floor."
    ]
   },
   {
    "begin": "1275.520",
    "children": [],
    "end": "1285.040",
-   "id": "f000169",
+   "id": "f000341",
    "language": "eng",
    "lines": [
     "\"I never know,\" Harry called to Hagrid over the noise of the cart, \"what's the difference between a stalagmite and a stalactite?\""
@@ -1693,18 +3413,28 @@
   {
    "begin": "1285.040",
    "children": [],
-   "end": "1294.680",
-   "id": "f000170",
+   "end": "1289.400",
+   "id": "f000342",
    "language": "eng",
    "lines": [
-    "\"Stalagmite's got an 'm' in it,\" said Hagrid. \"An' don' ask me questions just now, I think I'm gonna be sick.\""
+    "\"Stalagmite's got an 'm' in it,\" said Hagrid."
+   ]
+  },
+  {
+   "begin": "1289.400",
+   "children": [],
+   "end": "1294.680",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "\"An' don' ask me questions just now, I think I'm gonna be sick.\""
    ]
   },
   {
    "begin": "1294.680",
    "children": [],
    "end": "1304.120",
-   "id": "f000171",
+   "id": "f000344",
    "language": "eng",
    "lines": [
     "He did look very green, and when the cart stopped at last beside a small door in the passage wall, Hagrid got out and had to lean against the wall to stop his knees from trembling."
@@ -1713,48 +3443,118 @@
   {
    "begin": "1304.120",
    "children": [],
-   "end": "1310.000",
-   "id": "f000172",
+   "end": "1306.280",
+   "id": "f000345",
    "language": "eng",
    "lines": [
-    "Griphook unlocked the door. A lot of green smoke came billowing out, and as it"
+    "Griphook unlocked the door."
+   ]
+  },
+  {
+   "begin": "1306.280",
+   "children": [],
+   "end": "1310.000",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "A lot of green smoke came billowing out, and as it"
    ]
   },
   {
    "begin": "1310.000",
    "children": [],
-   "end": "1319.480",
-   "id": "f000173",
+   "end": "1312.160",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "cleared, Harry gasped. Inside were mounds of gold coins. Columns of silver. Heaps of little bronze Knuts."
+    "cleared, Harry gasped."
+   ]
+  },
+  {
+   "begin": "1312.160",
+   "children": [],
+   "end": "1315.560",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "Inside were mounds of gold coins."
+   ]
+  },
+  {
+   "begin": "1315.560",
+   "children": [],
+   "end": "1317.280",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Columns of silver."
+   ]
+  },
+  {
+   "begin": "1317.280",
+   "children": [],
+   "end": "1319.480",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "Heaps of little bronze Knuts."
    ]
   },
   {
    "begin": "1319.480",
    "children": [],
-   "end": "1323.960",
-   "id": "f000174",
+   "end": "1322.720",
+   "id": "f000351",
    "language": "eng",
    "lines": [
     "\"All yours,\" smiled Hagrid."
    ]
   },
   {
-   "begin": "1323.960",
+   "begin": "1322.720",
    "children": [],
-   "end": "1341.400",
-   "id": "f000175",
+   "end": "1326.680",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "All Harry's - it was incredible. The Dursleys couldn't have known about this or they'd have had it from him faster than blinking. How often had they complained how much Harry cost them to keep? And all the time there had been a small fortune belonging to him, buried deep under London."
+    "All Harry's - it was incredible."
+   ]
+  },
+  {
+   "begin": "1326.680",
+   "children": [],
+   "end": "1331.760",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "The Dursleys couldn't have known about this or they'd have had it from him faster than blinking."
+   ]
+  },
+  {
+   "begin": "1331.760",
+   "children": [],
+   "end": "1335.360",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "How often had they complained how much Harry cost them to keep?"
+   ]
+  },
+  {
+   "begin": "1335.360",
+   "children": [],
+   "end": "1341.400",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "And all the time there had been a small fortune belonging to him, buried deep under London."
    ]
   },
   {
    "begin": "1341.400",
    "children": [],
    "end": "1344.760",
-   "id": "f000176",
+   "id": "f000356",
    "language": "eng",
    "lines": [
     "Hagrid helped Harry pile some of it into a bag."
@@ -1763,18 +3563,58 @@
   {
    "begin": "1344.760",
    "children": [],
-   "end": "1368.520",
-   "id": "f000177",
+   "end": "1348.480",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "\"The gold ones are Galleons,\" he explained. \"Seventeen silver Sickles to a Galleon and twenty-nine Knuts to a Sickle, it's easy enough. Right, that should be enough fer a couple o' terms, we'll keep the rest safe for yeh.\" He turned to Griphook. \"Vault seven hundred and thirteen now, please, and can we go more slowly?\""
+    "\"The gold ones are Galleons,\" he explained."
+   ]
+  },
+  {
+   "begin": "1348.480",
+   "children": [],
+   "end": "1356.120",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "\"Seventeen silver Sickles to a Galleon and twenty-nine Knuts to a Sickle, it's easy enough."
+   ]
+  },
+  {
+   "begin": "1356.120",
+   "children": [],
+   "end": "1361.320",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "Right, that should be enough fer a couple o' terms, we'll keep the rest safe for yeh.\""
+   ]
+  },
+  {
+   "begin": "1361.320",
+   "children": [],
+   "end": "1363.040",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "He turned to Griphook."
+   ]
+  },
+  {
+   "begin": "1363.040",
+   "children": [],
+   "end": "1368.520",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "\"Vault seven hundred and thirteen now, please, and can we go more slowly?\""
    ]
   },
   {
    "begin": "1368.520",
    "children": [],
    "end": "1371.760",
-   "id": "f000178",
+   "id": "f000362",
    "language": "eng",
    "lines": [
     "\"One speed only,\" said Griphook."
@@ -1783,18 +3623,38 @@
   {
    "begin": "1371.760",
    "children": [],
-   "end": "1389.800",
-   "id": "f000179",
+   "end": "1376.000",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "They were going even deeper now and gathering speed. The air became colder and colder as they hurtled round tight corners. They went rattling over an underground ravine, and Harry leaned over the side to try to see what was down at the dark bottom, but Hagrid groaned and pulled him back by the scruff of his neck."
+    "They were going even deeper now and gathering speed."
    ]
   },
   {
-   "begin": "1389.800",
+   "begin": "1376.000",
+   "children": [],
+   "end": "1380.040",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "The air became colder and colder as they hurtled round tight corners."
+   ]
+  },
+  {
+   "begin": "1380.040",
+   "children": [],
+   "end": "1389.640",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "They went rattling over an underground ravine, and Harry leaned over the side to try to see what was down at the dark bottom, but Hagrid groaned and pulled him back by the scruff of his neck."
+   ]
+  },
+  {
+   "begin": "1389.640",
    "children": [],
    "end": "1394.520",
-   "id": "f000180",
+   "id": "f000366",
    "language": "eng",
    "lines": [
     "Vault seven hundred and thirteen had no keyhole."
@@ -1803,18 +3663,28 @@
   {
    "begin": "1394.520",
    "children": [],
-   "end": "1404.000",
-   "id": "f000181",
+   "end": "1398.480",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "\"Stand back,\" said Griphook importantly. He stroked the door gently with one of his long fingers and it simply melted away."
+    "\"Stand back,\" said Griphook importantly."
+   ]
+  },
+  {
+   "begin": "1398.480",
+   "children": [],
+   "end": "1404.000",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "He stroked the door gently with one of his long fingers and it simply melted away."
    ]
   },
   {
    "begin": "1404.000",
    "children": [],
    "end": "1412.520",
-   "id": "f000182",
+   "id": "f000369",
    "language": "eng",
    "lines": [
     "\"If anyone but a Gringotts goblin tried that, they'd be sucked through the door and trapped in there,\" said Griphook."
@@ -1823,18 +3693,28 @@
   {
    "begin": "1412.520",
    "children": [],
-   "end": "1417.000",
-   "id": "f000183",
+   "end": "1416.320",
+   "id": "f000370",
    "language": "eng",
    "lines": [
-    "\"How often do you check to see if anyone's inside?\" Harry asked."
+    "\"How often do you check to see if anyone's inside?\""
+   ]
+  },
+  {
+   "begin": "1416.320",
+   "children": [],
+   "end": "1417.000",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "Harry asked."
    ]
   },
   {
    "begin": "1417.000",
    "children": [],
    "end": "1423.200",
-   "id": "f000184",
+   "id": "f000372",
    "language": "eng",
    "lines": [
     "\"About once every ten years,\" said Griphook with a rather nasty grin."
@@ -1843,48 +3723,128 @@
   {
    "begin": "1423.200",
    "children": [],
-   "end": "1450.080",
-   "id": "f000185",
+   "end": "1436.880",
+   "id": "f000373",
    "language": "eng",
    "lines": [
-    "Something really extraordinary had to be inside this top security vault, Harry was sure, and he leaned forward eagerly, expecting to see fabulous jewels at the very least - but at first he thought it was empty. Then he noticed a grubby little package wrapped up in brown paper lying on the floor. Hagrid picked it up and tucked it deep inside his coat. Harry longed to know what it was, but knew better than to ask."
+    "Something really extraordinary had to be inside this top security vault, Harry was sure, and he leaned forward eagerly, expecting to see fabulous jewels at the very least - but at first he thought it was empty."
+   ]
+  },
+  {
+   "begin": "1436.880",
+   "children": [],
+   "end": "1442.120",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "Then he noticed a grubby little package wrapped up in brown paper lying on the floor."
+   ]
+  },
+  {
+   "begin": "1442.120",
+   "children": [],
+   "end": "1445.640",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "Hagrid picked it up and tucked it deep inside his coat."
+   ]
+  },
+  {
+   "begin": "1445.640",
+   "children": [],
+   "end": "1450.080",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "Harry longed to know what it was, but knew better than to ask."
    ]
   },
   {
    "begin": "1450.080",
    "children": [],
-   "end": "1459.440",
-   "id": "f000186",
+   "end": "1459.360",
+   "id": "f000377",
    "language": "eng",
    "lines": [
     "\"Come on, back in this infernal cart, and don't talk to me on the way back, it's best if I keep me mouth shut,\" said Hagrid."
    ]
   },
   {
-   "begin": "1459.440",
+   "begin": "1459.360",
    "children": [],
-   "end": "1480.480",
-   "id": "f000187",
+   "end": "1465.880",
+   "id": "f000378",
    "language": "eng",
    "lines": [
-    "One wild cart ride later they stood blinking in the sunlight outside Gringotts. Harry didn't know where to run first now that he had a bag full of money. He didn't have to know how many Galleons there were to a pound to know that he was holding more money than he'd had in his whole life - more money than even Dudley had ever had."
+    "One wild cart ride later they stood blinking in the sunlight outside Gringotts."
    ]
   },
   {
-   "begin": "1480.480",
+   "begin": "1465.880",
    "children": [],
-   "end": "1501.840",
-   "id": "f000188",
+   "end": "1469.560",
+   "id": "f000379",
    "language": "eng",
    "lines": [
-    "\"Might as well get yer uniform,\" said Hagrid, nodding toward Madam Malkin's Robes for All Occasions. \"Listen, Harry, would yeh mind if I slipped off fer a pick-me-up in the Leaky Cauldron? I hate them Gringotts carts.\" He did still look a bit sick, so Harry entered Madam Malkin's shop alone, feeling nervous."
+    "Harry didn't know where to run first now that he had a bag full of money."
+   ]
+  },
+  {
+   "begin": "1469.560",
+   "children": [],
+   "end": "1480.600",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "He didn't have to know how many Galleons there were to a pound to know that he was holding more money than he'd had in his whole life - more money than even Dudley had ever had."
+   ]
+  },
+  {
+   "begin": "1480.600",
+   "children": [],
+   "end": "1488.400",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "\"Might as well get yer uniform,\" said Hagrid, nodding toward Madam Malkin's Robes for All Occasions."
+   ]
+  },
+  {
+   "begin": "1488.400",
+   "children": [],
+   "end": "1493.240",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "\"Listen, Harry, would yeh mind if I slipped off fer a pick-me-up in the Leaky Cauldron?"
+   ]
+  },
+  {
+   "begin": "1493.240",
+   "children": [],
+   "end": "1495.320",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "I hate them Gringotts carts.\""
+   ]
+  },
+  {
+   "begin": "1495.320",
+   "children": [],
+   "end": "1501.840",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "He did still look a bit sick, so Harry entered Madam Malkin's shop alone, feeling nervous."
    ]
   },
   {
    "begin": "1501.840",
    "children": [],
    "end": "1507.680",
-   "id": "f000189",
+   "id": "f000385",
    "language": "eng",
    "lines": [
     "Madam Malkin was a squat, smiling witch dressed all in mauve."
@@ -1893,28 +3853,58 @@
   {
    "begin": "1507.680",
    "children": [],
-   "end": "1516.120",
-   "id": "f000190",
+   "end": "1509.800",
+   "id": "f000386",
    "language": "eng",
    "lines": [
-    "\"Hogwarts, dear?\" she said, when Harry started to speak. \"Got the lot here another young man being fitted up just now, in fact.\""
+    "\"Hogwarts, dear?\""
+   ]
+  },
+  {
+   "begin": "1509.800",
+   "children": [],
+   "end": "1511.760",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "she said, when Harry started to speak."
+   ]
+  },
+  {
+   "begin": "1511.760",
+   "children": [],
+   "end": "1516.120",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "\"Got the lot here another young man being fitted up just now, in fact.\""
    ]
   },
   {
    "begin": "1516.120",
    "children": [],
-   "end": "1532.200",
-   "id": "f000191",
+   "end": "1525.000",
+   "id": "f000389",
    "language": "eng",
    "lines": [
-    "In the back of the shop, a boy with a pale, pointed face was standing on a footstool while a second witch pinned up his long black robes. Madam Malkin stood Harry on a stool next to him, slipped a long robe over his head, and began to pin it to the right length."
+    "In the back of the shop, a boy with a pale, pointed face was standing on a footstool while a second witch pinned up his long black robes."
+   ]
+  },
+  {
+   "begin": "1525.000",
+   "children": [],
+   "end": "1532.200",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "Madam Malkin stood Harry on a stool next to him, slipped a long robe over his head, and began to pin it to the right length."
    ]
   },
   {
    "begin": "1532.200",
    "children": [],
    "end": "1537.000",
-   "id": "f000192",
+   "id": "f000391",
    "language": "eng",
    "lines": [
     "\"Hello,\" said the boy, \"Hogwarts, too?\""
@@ -1924,7 +3914,7 @@
    "begin": "1537.000",
    "children": [],
    "end": "1538.600",
-   "id": "f000193",
+   "id": "f000392",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry."
@@ -1933,18 +3923,58 @@
   {
    "begin": "1538.600",
    "children": [],
-   "end": "1559.480",
-   "id": "f000194",
+   "end": "1544.840",
+   "id": "f000393",
    "language": "eng",
    "lines": [
-    "\"My father's next door buying my books and Mother's up the street looking at wands,\" said the boy. He had a bored, drawling voice. \"Then I'm going to drag them off to look at racing brooms. I don't see why first years can't have their own. I think I'll bully Father into getting me one and I'll smuggle it in somehow.\""
+    "\"My father's next door buying my books and Mother's up the street looking at wands,\" said the boy."
+   ]
+  },
+  {
+   "begin": "1544.840",
+   "children": [],
+   "end": "1547.360",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "He had a bored, drawling voice."
+   ]
+  },
+  {
+   "begin": "1547.360",
+   "children": [],
+   "end": "1550.840",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "\"Then I'm going to drag them off to look at racing brooms."
+   ]
+  },
+  {
+   "begin": "1550.840",
+   "children": [],
+   "end": "1554.240",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "I don't see why first years can't have their own."
+   ]
+  },
+  {
+   "begin": "1554.240",
+   "children": [],
+   "end": "1559.480",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "I think I'll bully Father into getting me one and I'll smuggle it in somehow.\""
    ]
   },
   {
    "begin": "1559.480",
    "children": [],
    "end": "1562.680",
-   "id": "f000195",
+   "id": "f000398",
    "language": "eng",
    "lines": [
     "Harry was strongly reminded of Dudley."
@@ -1953,18 +3983,28 @@
   {
    "begin": "1562.680",
    "children": [],
-   "end": "1566.600",
-   "id": "f000196",
+   "end": "1565.680",
+   "id": "f000399",
    "language": "eng",
    "lines": [
-    "\"Have you got your own broom?\" the boy went on."
+    "\"Have you got your own broom?\""
+   ]
+  },
+  {
+   "begin": "1565.680",
+   "children": [],
+   "end": "1566.600",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "the boy went on."
    ]
   },
   {
    "begin": "1566.600",
    "children": [],
    "end": "1568.000",
-   "id": "f000197",
+   "id": "f000401",
    "language": "eng",
    "lines": [
     "\"No,\" said Harry."
@@ -1974,7 +4014,7 @@
    "begin": "1568.000",
    "children": [],
    "end": "1570.200",
-   "id": "f000198",
+   "id": "f000402",
    "language": "eng",
    "lines": [
     "\"Play Quidditch at all?\""
@@ -1984,7 +4024,7 @@
    "begin": "1570.200",
    "children": [],
    "end": "1574.760",
-   "id": "f000199",
+   "id": "f000403",
    "language": "eng",
    "lines": [
     "\"No,\" Harry said again, wondering what on earth Quidditch could be."
@@ -1993,18 +4033,28 @@
   {
    "begin": "1574.760",
    "children": [],
-   "end": "1584.200",
-   "id": "f000200",
+   "end": "1581.880",
+   "id": "f000404",
    "language": "eng",
    "lines": [
-    "\"I do - Father says it's a crime if I'm not picked to play for my House, and I must say, I agree. Know what House you'll be in yet?\""
+    "\"I do - Father says it's a crime if I'm not picked to play for my House, and I must say, I agree."
+   ]
+  },
+  {
+   "begin": "1581.880",
+   "children": [],
+   "end": "1584.200",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Know what House you'll be in yet?\""
    ]
   },
   {
    "begin": "1584.200",
    "children": [],
    "end": "1588.560",
-   "id": "f000201",
+   "id": "f000406",
    "language": "eng",
    "lines": [
     "\"No,\" said Harry, feeling more stupid by the minute."
@@ -2014,7 +4064,7 @@
    "begin": "1588.560",
    "children": [],
    "end": "1602.520",
-   "id": "f000202",
+   "id": "f000407",
    "language": "eng",
    "lines": [
     "\"Well, no one really knows until they get there, do they, but I know I'll be in Slytherin, all our family have been - imagine being in Hufflepuff, I think I'd leave, wouldn't you?\""
@@ -2024,7 +4074,7 @@
    "begin": "1602.520",
    "children": [],
    "end": "1607.080",
-   "id": "f000203",
+   "id": "f000408",
    "language": "eng",
    "lines": [
     "\"Mmm,\" said Harry, wishing he could say something a bit more interesting."
@@ -2033,58 +4083,118 @@
   {
    "begin": "1607.080",
    "children": [],
-   "end": "1618.760",
-   "id": "f000204",
+   "end": "1609.760",
+   "id": "f000409",
    "language": "eng",
    "lines": [
-    "\"I say, look at that man!\" said the boy suddenly, nodding toward the front window. Hagrid was standing there, grinning at Harry and pointing at two large ice creams to show he couldn't come in."
+    "\"I say, look at that man!\""
+   ]
+  },
+  {
+   "begin": "1609.760",
+   "children": [],
+   "end": "1612.280",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "said the boy suddenly, nodding toward the front window."
+   ]
+  },
+  {
+   "begin": "1612.280",
+   "children": [],
+   "end": "1618.760",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "Hagrid was standing there, grinning at Harry and pointing at two large ice creams to show he couldn't come in."
    ]
   },
   {
    "begin": "1618.760",
    "children": [],
-   "end": "1625.040",
-   "id": "f000205",
+   "end": "1623.160",
+   "id": "f000412",
    "language": "eng",
    "lines": [
-    "\"That's Hagrid,\" said Harry, pleased to know something the boy didn't. \"He works at Hogwarts.\""
+    "\"That's Hagrid,\" said Harry, pleased to know something the boy didn't."
+   ]
+  },
+  {
+   "begin": "1623.160",
+   "children": [],
+   "end": "1625.040",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "\"He works at Hogwarts.\""
    ]
   },
   {
    "begin": "1625.040",
    "children": [],
-   "end": "1630.520",
-   "id": "f000206",
+   "end": "1628.320",
+   "id": "f000414",
    "language": "eng",
    "lines": [
-    "\"Oh,\" said the boy, \"I've heard of him. He's a sort of servant, isn't he?\""
+    "\"Oh,\" said the boy, \"I've heard of him."
+   ]
+  },
+  {
+   "begin": "1628.320",
+   "children": [],
+   "end": "1630.520",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "He's a sort of servant, isn't he?\""
    ]
   },
   {
    "begin": "1630.520",
    "children": [],
-   "end": "1635.880",
-   "id": "f000207",
+   "end": "1632.960",
+   "id": "f000416",
    "language": "eng",
    "lines": [
-    "\"He's the gamekeeper,\" said Harry. He was liking the boy less and less every second."
+    "\"He's the gamekeeper,\" said Harry."
    ]
   },
   {
-   "begin": "1635.880",
+   "begin": "1632.960",
    "children": [],
-   "end": "1649.440",
-   "id": "f000208",
+   "end": "1636.240",
+   "id": "f000417",
    "language": "eng",
    "lines": [
-    "\"Yes, exactly. I heard he's a sort of savage - lives in a hut on the school grounds and every now and then he gets drunk, tries to do magic, and ends up setting fire to his bed.\""
+    "He was liking the boy less and less every second."
+   ]
+  },
+  {
+   "begin": "1636.240",
+   "children": [],
+   "end": "1638.280",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "\"Yes, exactly."
+   ]
+  },
+  {
+   "begin": "1638.280",
+   "children": [],
+   "end": "1649.440",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "I heard he's a sort of savage - lives in a hut on the school grounds and every now and then he gets drunk, tries to do magic, and ends up setting fire to his bed.\""
    ]
   },
   {
    "begin": "1649.440",
    "children": [],
    "end": "1652.600",
-   "id": "f000209",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "\"I think he's brilliant,\" said Harry coldly."
@@ -2093,38 +4203,88 @@
   {
    "begin": "1652.600",
    "children": [],
-   "end": "1659.560",
-   "id": "f000210",
+   "end": "1654.280",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "\"Do you?\" said the boy, with a slight sneer. \"Why is he with you? Where are your parents?\""
+    "\"Do you?\""
+   ]
+  },
+  {
+   "begin": "1654.280",
+   "children": [],
+   "end": "1656.120",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "said the boy, with a slight sneer."
+   ]
+  },
+  {
+   "begin": "1656.120",
+   "children": [],
+   "end": "1657.880",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "\"Why is he with you?"
+   ]
+  },
+  {
+   "begin": "1657.880",
+   "children": [],
+   "end": "1659.560",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "Where are your parents?\""
    ]
   },
   {
    "begin": "1659.560",
    "children": [],
-   "end": "1665.480",
-   "id": "f000211",
+   "end": "1662.240",
+   "id": "f000425",
    "language": "eng",
    "lines": [
-    "\"They're dead,\" said Harry shortly. He didn't feel much like going into the matter with this boy."
+    "\"They're dead,\" said Harry shortly."
+   ]
+  },
+  {
+   "begin": "1662.240",
+   "children": [],
+   "end": "1665.480",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "He didn't feel much like going into the matter with this boy."
    ]
   },
   {
    "begin": "1665.480",
    "children": [],
-   "end": "1671.960",
-   "id": "f000212",
+   "end": "1669.080",
+   "id": "f000427",
    "language": "eng",
    "lines": [
-    "\"Oh, sorry,\" said the other, not sounding sorry at all. \"But they were our kind, weren't they?\""
+    "\"Oh, sorry,\" said the other, not sounding sorry at all."
+   ]
+  },
+  {
+   "begin": "1669.080",
+   "children": [],
+   "end": "1671.960",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "\"But they were our kind, weren't they?\""
    ]
   },
   {
    "begin": "1671.960",
    "children": [],
    "end": "1674.960",
-   "id": "f000213",
+   "id": "f000429",
    "language": "eng",
    "lines": [
     "\"They were a witch and wizard, if that's what you mean.\""
@@ -2133,18 +4293,58 @@
   {
    "begin": "1674.960",
    "children": [],
-   "end": "1694.280",
-   "id": "f000214",
+   "end": "1678.960",
+   "id": "f000430",
    "language": "eng",
    "lines": [
-    "\"I really don't think they should let the other sort in, do you? They're just not the same, they've never been brought up to know our ways. Some of them have never even heard of Hogwarts until they get the letter, imagine. I think they should keep it in the old wizarding families. What's your surname, anyway?\""
+    "\"I really don't think they should let the other sort in, do you?"
+   ]
+  },
+  {
+   "begin": "1678.960",
+   "children": [],
+   "end": "1683.560",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "They're just not the same, they've never been brought up to know our ways."
+   ]
+  },
+  {
+   "begin": "1683.560",
+   "children": [],
+   "end": "1688.640",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    "Some of them have never even heard of Hogwarts until they get the letter, imagine."
+   ]
+  },
+  {
+   "begin": "1688.640",
+   "children": [],
+   "end": "1691.800",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "I think they should keep it in the old wizarding families."
+   ]
+  },
+  {
+   "begin": "1691.800",
+   "children": [],
+   "end": "1694.280",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "What's your surname, anyway?\""
    ]
   },
   {
    "begin": "1694.280",
    "children": [],
    "end": "1705.920",
-   "id": "f000215",
+   "id": "f000435",
    "language": "eng",
    "lines": [
     "But before Harry could answer, Madam Malkin said, \"That's you done, my dear,\" and Harry, not sorry for an excuse to stop talking to the boy, hopped down from the footstool."
@@ -2154,7 +4354,7 @@
    "begin": "1705.920",
    "children": [],
    "end": "1712.000",
-   "id": "f000216",
+   "id": "f000436",
    "language": "eng",
    "lines": [
     "\"Well, I'll see you at Hogwarts, I suppose,\" said the drawling boy."
@@ -2164,7 +4364,7 @@
    "begin": "1712.000",
    "children": [],
    "end": "1719.560",
-   "id": "f000217",
+   "id": "f000437",
    "language": "eng",
    "lines": [
     "Harry was rather quiet as he ate the ice cream Hagrid had bought him (chocolate and raspberry with chopped nuts)."
@@ -2173,28 +4373,68 @@
   {
    "begin": "1719.560",
    "children": [],
-   "end": "1722.080",
-   "id": "f000218",
+   "end": "1721.120",
+   "id": "f000438",
    "language": "eng",
    "lines": [
-    "\"What's up?\" said Hagrid."
+    "\"What's up?\""
+   ]
+  },
+  {
+   "begin": "1721.120",
+   "children": [],
+   "end": "1722.080",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "said Hagrid."
    ]
   },
   {
    "begin": "1722.080",
    "children": [],
-   "end": "1737.320",
-   "id": "f000219",
+   "end": "1724.800",
+   "id": "f000440",
    "language": "eng",
    "lines": [
-    "\"Nothing,\" Harry lied. They stopped to buy parchment and quills. Harry cheered up a bit when he found a bottle of ink that changed color as you wrote. When they had left the shop, he said, \"Hagrid, what's Quidditch?\""
+    "\"Nothing,\" Harry lied."
+   ]
+  },
+  {
+   "begin": "1724.800",
+   "children": [],
+   "end": "1728.160",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "They stopped to buy parchment and quills."
+   ]
+  },
+  {
+   "begin": "1728.160",
+   "children": [],
+   "end": "1732.400",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "Harry cheered up a bit when he found a bottle of ink that changed color as you wrote."
+   ]
+  },
+  {
+   "begin": "1732.400",
+   "children": [],
+   "end": "1737.320",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "When they had left the shop, he said, \"Hagrid, what's Quidditch?\""
    ]
   },
   {
    "begin": "1737.320",
    "children": [],
    "end": "1743.000",
-   "id": "f000220",
+   "id": "f000444",
    "language": "eng",
    "lines": [
     "\"Blimey, Harry, I keep forgettin' how little yeh know - not knowin' about Quidditch!\""
@@ -2203,18 +4443,28 @@
   {
    "begin": "1743.000",
    "children": [],
-   "end": "1749.760",
-   "id": "f000221",
+   "end": "1746.040",
+   "id": "f000445",
    "language": "eng",
    "lines": [
-    "\"Don't make me feel worse,\" said Harry. He told Hagrid about the pale boy in Madam Malkin's."
+    "\"Don't make me feel worse,\" said Harry."
+   ]
+  },
+  {
+   "begin": "1746.040",
+   "children": [],
+   "end": "1749.760",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "He told Hagrid about the pale boy in Madam Malkin's."
    ]
   },
   {
    "begin": "1749.760",
    "children": [],
    "end": "1754.720",
-   "id": "f000222",
+   "id": "f000447",
    "language": "eng",
    "lines": [
     "\" - and he said people from Muggle families shouldn't even be allowed in - \""
@@ -2223,18 +4473,58 @@
   {
    "begin": "1754.720",
    "children": [],
-   "end": "1777.640",
-   "id": "f000223",
+   "end": "1757.000",
+   "id": "f000448",
    "language": "eng",
    "lines": [
-    "\"Yer not from a Muggle family. If he'd known who yeh were - he's grown up knowin' yer name if his parents are wizardin' folk. You saw what everyone in the Leaky Cauldron was like when they saw yeh. Anyway, what does he know about it, some o' the best I ever saw were the only ones with magic in 'em in a long line o' Muggles - look at yer mum! Look what she had fer a sister!\""
+    "\"Yer not from a Muggle family."
+   ]
+  },
+  {
+   "begin": "1757.000",
+   "children": [],
+   "end": "1762.800",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "If he'd known who yeh were - he's grown up knowin' yer name if his parents are wizardin' folk."
+   ]
+  },
+  {
+   "begin": "1762.800",
+   "children": [],
+   "end": "1766.360",
+   "id": "f000450",
+   "language": "eng",
+   "lines": [
+    "You saw what everyone in the Leaky Cauldron was like when they saw yeh."
+   ]
+  },
+  {
+   "begin": "1766.360",
+   "children": [],
+   "end": "1775.600",
+   "id": "f000451",
+   "language": "eng",
+   "lines": [
+    "Anyway, what does he know about it, some o' the best I ever saw were the only ones with magic in 'em in a long line o' Muggles - look at yer mum!"
+   ]
+  },
+  {
+   "begin": "1775.600",
+   "children": [],
+   "end": "1777.640",
+   "id": "f000452",
+   "language": "eng",
+   "lines": [
+    "Look what she had fer a sister!\""
    ]
   },
   {
    "begin": "1777.640",
    "children": [],
    "end": "1780.600",
-   "id": "f000224",
+   "id": "f000453",
    "language": "eng",
    "lines": [
     "\"So what is Quidditch?\""
@@ -2243,18 +4533,38 @@
   {
    "begin": "1780.600",
    "children": [],
-   "end": "1796.600",
-   "id": "f000225",
+   "end": "1782.920",
+   "id": "f000454",
    "language": "eng",
    "lines": [
-    "\"It's our sport. Wizard sport. It's like - like soccer in the Muggle world everyone follows Quidditch - played up in the air on broomsticks and there's four balls - sorta hard ter explain the rules.\""
+    "\"It's our sport."
+   ]
+  },
+  {
+   "begin": "1782.920",
+   "children": [],
+   "end": "1784.440",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "Wizard sport."
+   ]
+  },
+  {
+   "begin": "1784.440",
+   "children": [],
+   "end": "1796.600",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "It's like - like soccer in the Muggle world everyone follows Quidditch - played up in the air on broomsticks and there's four balls - sorta hard ter explain the rules.\""
    ]
   },
   {
    "begin": "1796.600",
    "children": [],
    "end": "1800.080",
-   "id": "f000226",
+   "id": "f000457",
    "language": "eng",
    "lines": [
     "\"And what are Slytherin and Hufflepuff?\""
@@ -2263,18 +4573,38 @@
   {
    "begin": "1800.080",
    "children": [],
-   "end": "1806.520",
-   "id": "f000227",
+   "end": "1801.640",
+   "id": "f000458",
    "language": "eng",
    "lines": [
-    "\"School Houses. There's four. Everyone says Hufflepuff are a lot o' duffers, but - \""
+    "\"School Houses."
    ]
   },
   {
-   "begin": "1806.520",
+   "begin": "1801.640",
+   "children": [],
+   "end": "1802.560",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "There's four."
+   ]
+  },
+  {
+   "begin": "1802.560",
+   "children": [],
+   "end": "1805.880",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "Everyone says Hufflepuff are a lot o' duffers, but - \""
+   ]
+  },
+  {
+   "begin": "1805.880",
    "children": [],
    "end": "1809.400",
-   "id": "f000228",
+   "id": "f000461",
    "language": "eng",
    "lines": [
     "\"I bet I'm in Hufflepuff,\" said Harry gloomily."
@@ -2283,18 +4613,38 @@
   {
    "begin": "1809.400",
    "children": [],
-   "end": "1821.320",
-   "id": "f000229",
+   "end": "1813.640",
+   "id": "f000462",
    "language": "eng",
    "lines": [
-    "\"Better Hufflepuff than Slytherin,\" said Hagrid darkly. \"There's not a single witch or wizard who went bad who wasn't in Slytherin. You-Know-Who was one.\""
+    "\"Better Hufflepuff than Slytherin,\" said Hagrid darkly."
+   ]
+  },
+  {
+   "begin": "1813.640",
+   "children": [],
+   "end": "1818.680",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "\"There's not a single witch or wizard who went bad who wasn't in Slytherin."
+   ]
+  },
+  {
+   "begin": "1818.680",
+   "children": [],
+   "end": "1821.320",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "You-Know-Who was one.\""
    ]
   },
   {
    "begin": "1821.320",
    "children": [],
    "end": "1825.840",
-   "id": "f000230",
+   "id": "f000465",
    "language": "eng",
    "lines": [
     "\"Vol-, sorry - You-Know-Who was at Hogwarts?\""
@@ -2304,7 +4654,7 @@
    "begin": "1825.840",
    "children": [],
    "end": "1828.400",
-   "id": "f000231",
+   "id": "f000466",
    "language": "eng",
    "lines": [
     "\"Years an' years ago,\" said Hagrid."
@@ -2313,18 +4663,38 @@
   {
    "begin": "1828.400",
    "children": [],
-   "end": "1868.200",
-   "id": "f000232",
+   "end": "1846.640",
+   "id": "f000467",
    "language": "eng",
    "lines": [
-    "They bought Harry's school books in a shop called Flourish and Blotts where the shelves were stacked to the ceiling with books as large as paving stones bound in leather; books the size of postage stamps in covers of silk; books full of peculiar symbols and a few books with nothing in them at all. Even Dudley, who never read anything, would have been wild to get his hands on some of these. Hagrid almost had to drag Harry away from Curses and Counter-curses (Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and Much, Much More) by Professor Vindictus Viridian."
+    "They bought Harry's school books in a shop called Flourish and Blotts where the shelves were stacked to the ceiling with books as large as paving stones bound in leather; books the size of postage stamps in covers of silk; books full of peculiar symbols and a few books with nothing in them at all."
    ]
   },
   {
-   "begin": "1868.200",
+   "begin": "1846.640",
+   "children": [],
+   "end": "1852.040",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "Even Dudley, who never read anything, would have been wild to get his hands on some of these."
+   ]
+  },
+  {
+   "begin": "1852.040",
+   "children": [],
+   "end": "1868.080",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "Hagrid almost had to drag Harry away from Curses and Counter-curses (Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and Much, Much More) by Professor Vindictus Viridian."
+   ]
+  },
+  {
+   "begin": "1868.080",
    "children": [],
    "end": "1871.640",
-   "id": "f000233",
+   "id": "f000470",
    "language": "eng",
    "lines": [
     "\"I was trying to find out how to curse Dudley.\""
@@ -2333,28 +4703,68 @@
   {
    "begin": "1871.640",
    "children": [],
-   "end": "1888.000",
-   "id": "f000234",
+   "end": "1881.400",
+   "id": "f000471",
    "language": "eng",
    "lines": [
-    "\"I'm not sayin' that's not a good idea, but yer not ter use magic in the Muggle world except in very special circumstances,\" said Hagrid. \"An' anyway, yeh couldn' work any of them curses yet, yeh'll need a lot more study before yeh get ter that level.\""
+    "\"I'm not sayin' that's not a good idea, but yer not ter use magic in the Muggle world except in very special circumstances,\" said Hagrid."
+   ]
+  },
+  {
+   "begin": "1881.400",
+   "children": [],
+   "end": "1888.000",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "\"An' anyway, yeh couldn' work any of them curses yet, yeh'll need a lot more study before yeh get ter that level.\""
    ]
   },
   {
    "begin": "1888.000",
    "children": [],
-   "end": "1937.800",
-   "id": "f000235",
+   "end": "1900.880",
+   "id": "f000473",
    "language": "eng",
    "lines": [
-    "Hagrid wouldn't let Harry buy a solid gold cauldron, either (\"It says pewter on yer list\"), but they got a nice set of scales for weighing potion ingredients and a collapsible brass telescope. Then they visited the Apothecary, which was fascinating enough to make up for its horrible smell, a mixture of bad eggs and rotted cabbages. Barrels of slimy stuff stood on the floor; jars of herbs, dried roots, and bright powders lined the walls; bundles of feathers, strings of fangs, and snarled claws hung from the ceiling. While Hagrid asked the man behind the counter for a supply of some basic potion ingredients for Harry, Harry himself examined silver unicorn horns at twenty-one Galleons each and minuscule, glitteryblack beetle eyes (five Knuts a scoop)."
+    "Hagrid wouldn't let Harry buy a solid gold cauldron, either (\"It says pewter on yer list\"), but they got a nice set of scales for weighing potion ingredients and a collapsible brass telescope."
+   ]
+  },
+  {
+   "begin": "1900.880",
+   "children": [],
+   "end": "1910.400",
+   "id": "f000474",
+   "language": "eng",
+   "lines": [
+    "Then they visited the Apothecary, which was fascinating enough to make up for its horrible smell, a mixture of bad eggs and rotted cabbages."
+   ]
+  },
+  {
+   "begin": "1910.400",
+   "children": [],
+   "end": "1922.320",
+   "id": "f000475",
+   "language": "eng",
+   "lines": [
+    "Barrels of slimy stuff stood on the floor; jars of herbs, dried roots, and bright powders lined the walls; bundles of feathers, strings of fangs, and snarled claws hung from the ceiling."
+   ]
+  },
+  {
+   "begin": "1922.320",
+   "children": [],
+   "end": "1937.800",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "While Hagrid asked the man behind the counter for a supply of some basic potion ingredients for Harry, Harry himself examined silver unicorn horns at twenty-one Galleons each and minuscule, glitteryblack beetle eyes (five Knuts a scoop)."
    ]
   },
   {
    "begin": "1937.800",
    "children": [],
    "end": "1942.520",
-   "id": "f000236",
+   "id": "f000477",
    "language": "eng",
    "lines": [
     "Outside the Apothecary, Hagrid checked Harry's list again."
@@ -2364,7 +4774,7 @@
    "begin": "1942.520",
    "children": [],
    "end": "1948.560",
-   "id": "f000237",
+   "id": "f000478",
    "language": "eng",
    "lines": [
     "\"Just yer wand left - oh yeah, an' I still haven't got yeh a birthday present.\""
@@ -2374,7 +4784,7 @@
    "begin": "1948.560",
    "children": [],
    "end": "1950.760",
-   "id": "f000238",
+   "id": "f000479",
    "language": "eng",
    "lines": [
     "Harry felt himself go red."
@@ -2384,7 +4794,7 @@
    "begin": "1950.760",
    "children": [],
    "end": "1951.800",
-   "id": "f000239",
+   "id": "f000480",
    "language": "eng",
    "lines": [
     "\"You don't have to - \""
@@ -2393,88 +4803,278 @@
   {
    "begin": "1951.800",
    "children": [],
-   "end": "1970.720",
-   "id": "f000240",
+   "end": "1953.320",
+   "id": "f000481",
    "language": "eng",
    "lines": [
-    "\"I know I don't have to. Tell yeh what, I'll get yer animal. Not a toad, toads went outta fashion years ago, yeh'd be laughed at - an' I don' like cats, they make me sneeze. I'll get yer an owl. All the kids want owls, they're dead useful, carry yer mail an' everythin'.\""
+    "\"I know I don't have to."
+   ]
+  },
+  {
+   "begin": "1953.320",
+   "children": [],
+   "end": "1955.640",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "Tell yeh what, I'll get yer animal."
+   ]
+  },
+  {
+   "begin": "1955.640",
+   "children": [],
+   "end": "1963.200",
+   "id": "f000483",
+   "language": "eng",
+   "lines": [
+    "Not a toad, toads went outta fashion years ago, yeh'd be laughed at - an' I don' like cats, they make me sneeze."
+   ]
+  },
+  {
+   "begin": "1963.200",
+   "children": [],
+   "end": "1965.800",
+   "id": "f000484",
+   "language": "eng",
+   "lines": [
+    "I'll get yer an owl."
+   ]
+  },
+  {
+   "begin": "1965.800",
+   "children": [],
+   "end": "1970.720",
+   "id": "f000485",
+   "language": "eng",
+   "lines": [
+    "All the kids want owls, they're dead useful, carry yer mail an' everythin'.\""
    ]
   },
   {
    "begin": "1970.720",
    "children": [],
-   "end": "1983.160",
-   "id": "f000241",
+   "end": "1980.560",
+   "id": "f000486",
    "language": "eng",
    "lines": [
-    "Twenty minutes later, they left Eeylops Owl Emporium, which had been dark and full of rustling and flickering, jewel-bright eyes. Harry now carried a large cage"
+    "Twenty minutes later, they left Eeylops Owl Emporium, which had been dark and full of rustling and flickering, jewel-bright eyes."
+   ]
+  },
+  {
+   "begin": "1980.560",
+   "children": [],
+   "end": "1983.160",
+   "id": "f000487",
+   "language": "eng",
+   "lines": [
+    "Harry now carried a large cage"
    ]
   },
   {
    "begin": "1983.160",
    "children": [],
-   "end": "1992.360",
-   "id": "f000242",
+   "end": "1987.880",
+   "id": "f000488",
    "language": "eng",
    "lines": [
-    "that held a beautiful snowy owl, fast asleep with her head under her wing. He couldn't stop stammering his thanks, sounding just like Professor Quirrell."
+    "that held a beautiful snowy owl, fast asleep with her head under her wing."
+   ]
+  },
+  {
+   "begin": "1987.880",
+   "children": [],
+   "end": "1992.360",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "He couldn't stop stammering his thanks, sounding just like Professor Quirrell."
    ]
   },
   {
    "begin": "1992.360",
    "children": [],
-   "end": "2006.480",
-   "id": "f000243",
+   "end": "1996.000",
+   "id": "f000490",
    "language": "eng",
    "lines": [
-    "\"Don' mention it,\" said Hagrid gruffly. \"Don' expect you've had a lotta presents from them Dursleys. Just Ollivanders left now - only place fer wands, Ollivanders, and yeh gotta have the best wand.\""
+    "\"Don' mention it,\" said Hagrid gruffly."
+   ]
+  },
+  {
+   "begin": "1996.000",
+   "children": [],
+   "end": "1999.080",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "\"Don' expect you've had a lotta presents from them Dursleys."
+   ]
+  },
+  {
+   "begin": "1999.080",
+   "children": [],
+   "end": "2006.480",
+   "id": "f000492",
+   "language": "eng",
+   "lines": [
+    "Just Ollivanders left now - only place fer wands, Ollivanders, and yeh gotta have the best wand.\""
    ]
   },
   {
    "begin": "2006.480",
    "children": [],
-   "end": "2012.400",
-   "id": "f000244",
+   "end": "2008.920",
+   "id": "f000493",
    "language": "eng",
    "lines": [
-    "A magic wand . . . this was what Harry had been really looking forward to."
+    "A magic wand ."
    ]
   },
   {
-   "begin": "2012.400",
+   "begin": "2008.920",
    "children": [],
-   "end": "2027.840",
-   "id": "f000245",
+   "end": "2008.920",
+   "id": "f000494",
    "language": "eng",
    "lines": [
-    "The last shop was narrow and shabby. Peeling gold letters over the door read Ollivanders: Makers of Fine Wands since 382 B.C. A single wand lay on a faded purple cushion in the dusty window."
+    "."
+   ]
+  },
+  {
+   "begin": "2008.920",
+   "children": [],
+   "end": "2008.920",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2008.920",
+   "children": [],
+   "end": "2012.360",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "this was what Harry had been really looking forward to."
+   ]
+  },
+  {
+   "begin": "2012.360",
+   "children": [],
+   "end": "2016.560",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "The last shop was narrow and shabby."
+   ]
+  },
+  {
+   "begin": "2016.560",
+   "children": [],
+   "end": "2023.480",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "Peeling gold letters over the door read Ollivanders: Makers of Fine Wands since 382 B.C."
+   ]
+  },
+  {
+   "begin": "2023.480",
+   "children": [],
+   "end": "2027.840",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "A single wand lay on a faded purple cushion in the dusty window."
    ]
   },
   {
    "begin": "2027.840",
    "children": [],
-   "end": "2060.480",
-   "id": "f000246",
+   "end": "2032.600",
+   "id": "f000500",
    "language": "eng",
    "lines": [
-    "A tinkling bell rang somewhere in the depths of the shop as they stepped inside. It was a tiny place, empty except for a single, spindly chair that Hagrid sat on to wait. Harry felt strangely as though he had entered a very strict library; he swallowed a lot of new questions that had just occurred to him and looked instead at the thousands of narrow boxes piled neatly right up to the ceiling. For some reason, the back of his neck prickled. The very dust and silence in here seemed to tingle with some secret magic."
+    "A tinkling bell rang somewhere in the depths of the shop as they stepped inside."
    ]
   },
   {
-   "begin": "2060.480",
+   "begin": "2032.600",
    "children": [],
-   "end": "2072.440",
-   "id": "f000247",
+   "end": "2038.800",
+   "id": "f000501",
    "language": "eng",
    "lines": [
-    "\"Good afternoon,\" said a soft voice. Harry jumped. Hagrid must have jumped, too, because there was a loud crunching noise and he got quickly off the spindly chair."
+    "It was a tiny place, empty except for a single, spindly chair that Hagrid sat on to wait."
+   ]
+  },
+  {
+   "begin": "2038.800",
+   "children": [],
+   "end": "2051.680",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "Harry felt strangely as though he had entered a very strict library; he swallowed a lot of new questions that had just occurred to him and looked instead at the thousands of narrow boxes piled neatly right up to the ceiling."
+   ]
+  },
+  {
+   "begin": "2051.680",
+   "children": [],
+   "end": "2054.600",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "For some reason, the back of his neck prickled."
+   ]
+  },
+  {
+   "begin": "2054.600",
+   "children": [],
+   "end": "2060.320",
+   "id": "f000504",
+   "language": "eng",
+   "lines": [
+    "The very dust and silence in here seemed to tingle with some secret magic."
+   ]
+  },
+  {
+   "begin": "2060.320",
+   "children": [],
+   "end": "2064.320",
+   "id": "f000505",
+   "language": "eng",
+   "lines": [
+    "\"Good afternoon,\" said a soft voice."
+   ]
+  },
+  {
+   "begin": "2064.320",
+   "children": [],
+   "end": "2065.920",
+   "id": "f000506",
+   "language": "eng",
+   "lines": [
+    "Harry jumped."
+   ]
+  },
+  {
+   "begin": "2065.920",
+   "children": [],
+   "end": "2072.440",
+   "id": "f000507",
+   "language": "eng",
+   "lines": [
+    "Hagrid must have jumped, too, because there was a loud crunching noise and he got quickly off the spindly chair."
    ]
   },
   {
    "begin": "2072.440",
    "children": [],
    "end": "2079.400",
-   "id": "f000248",
+   "id": "f000508",
    "language": "eng",
    "lines": [
     "An old man was standing before them, his wide, pale eyes shining like moons through the gloom of the shop."
@@ -2483,68 +5083,238 @@
   {
    "begin": "2079.400",
    "children": [],
-   "end": "2083.080",
-   "id": "f000249",
+   "end": "2083.040",
+   "id": "f000509",
    "language": "eng",
    "lines": [
     "\"Hello,\" said Harry awkwardly."
    ]
   },
   {
-   "begin": "2083.080",
+   "begin": "2083.040",
    "children": [],
-   "end": "2107.760",
-   "id": "f000250",
+   "end": "2086.240",
+   "id": "f000510",
    "language": "eng",
    "lines": [
-    "\"Ah yes,\" said the man. \"Yes, yes. I thought I'd be seeing you soon. Harry Potter.\" It wasn't a question. \"You have your mother's eyes. It seems only yesterday she was in here herself, buying her first wand. Ten and a quarter inches long, swishy, made of willow. Nice wand for charm work.\""
+    "\"Ah yes,\" said the man."
+   ]
+  },
+  {
+   "begin": "2086.240",
+   "children": [],
+   "end": "2087.480",
+   "id": "f000511",
+   "language": "eng",
+   "lines": [
+    "\"Yes, yes."
+   ]
+  },
+  {
+   "begin": "2087.480",
+   "children": [],
+   "end": "2089.800",
+   "id": "f000512",
+   "language": "eng",
+   "lines": [
+    "I thought I'd be seeing you soon."
+   ]
+  },
+  {
+   "begin": "2089.800",
+   "children": [],
+   "end": "2091.200",
+   "id": "f000513",
+   "language": "eng",
+   "lines": [
+    "Harry Potter.\""
+   ]
+  },
+  {
+   "begin": "2091.200",
+   "children": [],
+   "end": "2092.680",
+   "id": "f000514",
+   "language": "eng",
+   "lines": [
+    "It wasn't a question."
+   ]
+  },
+  {
+   "begin": "2092.680",
+   "children": [],
+   "end": "2094.720",
+   "id": "f000515",
+   "language": "eng",
+   "lines": [
+    "\"You have your mother's eyes."
+   ]
+  },
+  {
+   "begin": "2094.720",
+   "children": [],
+   "end": "2100.680",
+   "id": "f000516",
+   "language": "eng",
+   "lines": [
+    "It seems only yesterday she was in here herself, buying her first wand."
+   ]
+  },
+  {
+   "begin": "2100.680",
+   "children": [],
+   "end": "2105.400",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "Ten and a quarter inches long, swishy, made of willow."
+   ]
+  },
+  {
+   "begin": "2105.400",
+   "children": [],
+   "end": "2107.760",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "Nice wand for charm work.\""
    ]
   },
   {
    "begin": "2107.760",
    "children": [],
-   "end": "2115.280",
-   "id": "f000251",
+   "end": "2110.840",
+   "id": "f000519",
    "language": "eng",
    "lines": [
-    "Mr. Ollivander moved closer to Harry. Harry wished he would blink. Those silvery eyes were a bit creepy."
+    "Mr. Ollivander moved closer to Harry."
    ]
   },
   {
-   "begin": "2115.280",
+   "begin": "2110.840",
    "children": [],
-   "end": "2134.160",
-   "id": "f000252",
+   "end": "2112.840",
+   "id": "f000520",
    "language": "eng",
    "lines": [
-    "\"Your father, on the other hand, favored a mahogany wand. Eleven inches. Pliable. A little more power and excellent for transfiguration. Well, I say your father favored it - it's really the wand that chooses the wizard, of course.\""
+    "Harry wished he would blink."
+   ]
+  },
+  {
+   "begin": "2112.840",
+   "children": [],
+   "end": "2115.520",
+   "id": "f000521",
+   "language": "eng",
+   "lines": [
+    "Those silvery eyes were a bit creepy."
+   ]
+  },
+  {
+   "begin": "2115.520",
+   "children": [],
+   "end": "2120.640",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "\"Your father, on the other hand, favored a mahogany wand."
+   ]
+  },
+  {
+   "begin": "2120.640",
+   "children": [],
+   "end": "2122.120",
+   "id": "f000523",
+   "language": "eng",
+   "lines": [
+    "Eleven inches."
+   ]
+  },
+  {
+   "begin": "2122.120",
+   "children": [],
+   "end": "2122.880",
+   "id": "f000524",
+   "language": "eng",
+   "lines": [
+    "Pliable."
+   ]
+  },
+  {
+   "begin": "2122.880",
+   "children": [],
+   "end": "2126.960",
+   "id": "f000525",
+   "language": "eng",
+   "lines": [
+    "A little more power and excellent for transfiguration."
+   ]
+  },
+  {
+   "begin": "2126.960",
+   "children": [],
+   "end": "2134.160",
+   "id": "f000526",
+   "language": "eng",
+   "lines": [
+    "Well, I say your father favored it - it's really the wand that chooses the wizard, of course.\""
    ]
   },
   {
    "begin": "2134.160",
    "children": [],
-   "end": "2143.080",
-   "id": "f000253",
+   "end": "2139.520",
+   "id": "f000527",
    "language": "eng",
    "lines": [
-    "Mr. Ollivander had come so close that he and Harry were almost nose to nose. Harry could see himself reflected in those misty eyes."
+    "Mr. Ollivander had come so close that he and Harry were almost nose to nose."
+   ]
+  },
+  {
+   "begin": "2139.520",
+   "children": [],
+   "end": "2143.080",
+   "id": "f000528",
+   "language": "eng",
+   "lines": [
+    "Harry could see himself reflected in those misty eyes."
    ]
   },
   {
    "begin": "2143.080",
    "children": [],
    "end": "2145.320",
-   "id": "f000254",
+   "id": "f000529",
    "language": "eng",
    "lines": [
-    "\"And that's where . . .\""
+    "\"And that's where ."
+   ]
+  },
+  {
+   "begin": "2145.320",
+   "children": [],
+   "end": "2145.320",
+   "id": "f000530",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2145.320",
+   "children": [],
+   "end": "2145.320",
+   "id": "f000531",
+   "language": "eng",
+   "lines": [
+    ".\""
    ]
   },
   {
    "begin": "2145.320",
    "children": [],
    "end": "2151.000",
-   "id": "f000255",
+   "id": "f000532",
    "language": "eng",
    "lines": [
     "Mr. Ollivander touched the lightning scar on Harry's forehead with a long, white finger."
@@ -2553,18 +5323,108 @@
   {
    "begin": "2151.000",
    "children": [],
-   "end": "2170.520",
-   "id": "f000256",
+   "end": "2157.120",
+   "id": "f000533",
    "language": "eng",
    "lines": [
-    "\"I'm sorry to say I sold the wand that did it,\" he said softly. \"Thirteen-and-a-half inches. Yew. Powerful wand, very powerful, and in the wrong hands . . . well, if I'd known what that wand was going out into the world to do. . . .\""
+    "\"I'm sorry to say I sold the wand that did it,\" he said softly."
+   ]
+  },
+  {
+   "begin": "2157.120",
+   "children": [],
+   "end": "2159.680",
+   "id": "f000534",
+   "language": "eng",
+   "lines": [
+    "\"Thirteen-and-a-half inches."
+   ]
+  },
+  {
+   "begin": "2159.680",
+   "children": [],
+   "end": "2160.440",
+   "id": "f000535",
+   "language": "eng",
+   "lines": [
+    "Yew."
+   ]
+  },
+  {
+   "begin": "2160.440",
+   "children": [],
+   "end": "2165.320",
+   "id": "f000536",
+   "language": "eng",
+   "lines": [
+    "Powerful wand, very powerful, and in the wrong hands ."
+   ]
+  },
+  {
+   "begin": "2165.320",
+   "children": [],
+   "end": "2165.320",
+   "id": "f000537",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2165.320",
+   "children": [],
+   "end": "2165.320",
+   "id": "f000538",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2165.320",
+   "children": [],
+   "end": "2170.360",
+   "id": "f000539",
+   "language": "eng",
+   "lines": [
+    "well, if I'd known what that wand was going out into the world to do."
+   ]
+  },
+  {
+   "begin": "2170.360",
+   "children": [],
+   "end": "2170.360",
+   "id": "f000540",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2170.360",
+   "children": [],
+   "end": "2170.360",
+   "id": "f000541",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2170.360",
+   "children": [],
+   "end": "2170.520",
+   "id": "f000542",
+   "language": "eng",
+   "lines": [
+    ".\""
    ]
   },
   {
    "begin": "2170.520",
    "children": [],
    "end": "2175.040",
-   "id": "f000257",
+   "id": "f000543",
    "language": "eng",
    "lines": [
     "He shook his head and then, to Harry's relief, spotted Hagrid."
@@ -2573,18 +5433,78 @@
   {
    "begin": "2175.040",
    "children": [],
-   "end": "2183.560",
-   "id": "f000258",
+   "end": "2176.160",
+   "id": "f000544",
    "language": "eng",
    "lines": [
-    "\"Rubeus! Rubeus Hagrid! How nice to see you again. . . . Oak, sixteen inches, rather bendy, wasn't it?\""
+    "\"Rubeus!"
+   ]
+  },
+  {
+   "begin": "2176.160",
+   "children": [],
+   "end": "2177.480",
+   "id": "f000545",
+   "language": "eng",
+   "lines": [
+    "Rubeus Hagrid!"
+   ]
+  },
+  {
+   "begin": "2177.480",
+   "children": [],
+   "end": "2179.520",
+   "id": "f000546",
+   "language": "eng",
+   "lines": [
+    "How nice to see you again."
+   ]
+  },
+  {
+   "begin": "2179.520",
+   "children": [],
+   "end": "2179.520",
+   "id": "f000547",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2179.520",
+   "children": [],
+   "end": "2179.520",
+   "id": "f000548",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2179.520",
+   "children": [],
+   "end": "2179.520",
+   "id": "f000549",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2179.520",
+   "children": [],
+   "end": "2183.560",
+   "id": "f000550",
+   "language": "eng",
+   "lines": [
+    "Oak, sixteen inches, rather bendy, wasn't it?\""
    ]
   },
   {
    "begin": "2183.560",
    "children": [],
    "end": "2187.000",
-   "id": "f000259",
+   "id": "f000551",
    "language": "eng",
    "lines": [
     "\"It was, sir, yes,\" said Hagrid."
@@ -2593,58 +5513,148 @@
   {
    "begin": "2187.000",
    "children": [],
-   "end": "2195.360",
-   "id": "f000260",
+   "end": "2188.720",
+   "id": "f000552",
    "language": "eng",
    "lines": [
-    "\"Good wand, that one. But I suppose they snapped it in half when you got expelled?\" said Mr. Ollivander, suddenly stern."
+    "\"Good wand, that one."
+   ]
+  },
+  {
+   "begin": "2188.720",
+   "children": [],
+   "end": "2192.840",
+   "id": "f000553",
+   "language": "eng",
+   "lines": [
+    "But I suppose they snapped it in half when you got expelled?\""
+   ]
+  },
+  {
+   "begin": "2192.840",
+   "children": [],
+   "end": "2195.360",
+   "id": "f000554",
+   "language": "eng",
+   "lines": [
+    "said Mr. Ollivander, suddenly stern."
    ]
   },
   {
    "begin": "2195.360",
    "children": [],
-   "end": "2203.360",
-   "id": "f000261",
+   "end": "2200.160",
+   "id": "f000555",
    "language": "eng",
    "lines": [
-    "\"Er - yes, they did, yes,\" said Hagrid, shuffling his feet. \"I've still got the pieces, though,\" he added brightly."
+    "\"Er - yes, they did, yes,\" said Hagrid, shuffling his feet."
+   ]
+  },
+  {
+   "begin": "2200.160",
+   "children": [],
+   "end": "2203.360",
+   "id": "f000556",
+   "language": "eng",
+   "lines": [
+    "\"I've still got the pieces, though,\" he added brightly."
    ]
   },
   {
    "begin": "2203.360",
    "children": [],
-   "end": "2207.600",
-   "id": "f000262",
+   "end": "2205.880",
+   "id": "f000557",
    "language": "eng",
    "lines": [
-    "\"But you don't use them?\" said Mr. Ollivander sharply."
+    "\"But you don't use them?\""
    ]
   },
   {
-   "begin": "2207.600",
+   "begin": "2205.880",
    "children": [],
-   "end": "2214.520",
-   "id": "f000263",
+   "end": "2207.520",
+   "id": "f000558",
    "language": "eng",
    "lines": [
-    "\"Oh, no, sir,\" said Hagrid quickly. Harry noticed he gripped his pink umbrella very tightly as he spoke."
+    "said Mr. Ollivander sharply."
+   ]
+  },
+  {
+   "begin": "2207.520",
+   "children": [],
+   "end": "2210.440",
+   "id": "f000559",
+   "language": "eng",
+   "lines": [
+    "\"Oh, no, sir,\" said Hagrid quickly."
+   ]
+  },
+  {
+   "begin": "2210.440",
+   "children": [],
+   "end": "2214.520",
+   "id": "f000560",
+   "language": "eng",
+   "lines": [
+    "Harry noticed he gripped his pink umbrella very tightly as he spoke."
    ]
   },
   {
    "begin": "2214.520",
    "children": [],
-   "end": "2228.080",
-   "id": "f000264",
+   "end": "2218.760",
+   "id": "f000561",
    "language": "eng",
    "lines": [
-    "\"Hmmm,\" said Mr. Ollivander, giving Hagrid a piercing look. \"Well, now - Mr. Potter. Let me see.\" He pulled a long tape measure with silver markings out of his pocket. \"Which is your wand arm?\""
+    "\"Hmmm,\" said Mr. Ollivander, giving Hagrid a piercing look."
+   ]
+  },
+  {
+   "begin": "2218.760",
+   "children": [],
+   "end": "2221.320",
+   "id": "f000562",
+   "language": "eng",
+   "lines": [
+    "\"Well, now - Mr. Potter."
+   ]
+  },
+  {
+   "begin": "2221.320",
+   "children": [],
+   "end": "2222.640",
+   "id": "f000563",
+   "language": "eng",
+   "lines": [
+    "Let me see.\""
+   ]
+  },
+  {
+   "begin": "2222.640",
+   "children": [],
+   "end": "2226.280",
+   "id": "f000564",
+   "language": "eng",
+   "lines": [
+    "He pulled a long tape measure with silver markings out of his pocket."
+   ]
+  },
+  {
+   "begin": "2226.280",
+   "children": [],
+   "end": "2228.080",
+   "id": "f000565",
+   "language": "eng",
+   "lines": [
+    "\"Which is your wand arm?\""
    ]
   },
   {
    "begin": "2228.080",
    "children": [],
    "end": "2233.120",
-   "id": "f000265",
+   "id": "f000566",
    "language": "eng",
    "lines": [
     "\"Er - well, I'm right-handed,\" said Harry."
@@ -2653,38 +5663,168 @@
   {
    "begin": "2233.120",
    "children": [],
-   "end": "2270.480",
-   "id": "f000266",
+   "end": "2235.000",
+   "id": "f000567",
    "language": "eng",
    "lines": [
-    "\"Hold out your arm. That's it.\" He measured Harry from shoulder to finger, then wrist to elbow, shoulder to floor, knee to armpit and round his head. As he measured, he said, \"Every Ollivander wand has a core of a powerful magical substance, Mr. Potter. We use unicorn hairs, phoenix tail feathers, and the heartstrings of dragons. No two Ollivander wands are the same, just as no two unicorns, dragons, or phoenixes are quite the same. And of course, you will never get such good results with another wizard's wand.\""
+    "\"Hold out your arm."
+   ]
+  },
+  {
+   "begin": "2235.000",
+   "children": [],
+   "end": "2235.520",
+   "id": "f000568",
+   "language": "eng",
+   "lines": [
+    "That's it.\""
+   ]
+  },
+  {
+   "begin": "2235.520",
+   "children": [],
+   "end": "2243.240",
+   "id": "f000569",
+   "language": "eng",
+   "lines": [
+    "He measured Harry from shoulder to finger, then wrist to elbow, shoulder to floor, knee to armpit and round his head."
+   ]
+  },
+  {
+   "begin": "2243.240",
+   "children": [],
+   "end": "2250.120",
+   "id": "f000570",
+   "language": "eng",
+   "lines": [
+    "As he measured, he said, \"Every Ollivander wand has a core of a powerful magical substance, Mr. Potter."
+   ]
+  },
+  {
+   "begin": "2250.120",
+   "children": [],
+   "end": "2256.280",
+   "id": "f000571",
+   "language": "eng",
+   "lines": [
+    "We use unicorn hairs, phoenix tail feathers, and the heartstrings of dragons."
+   ]
+  },
+  {
+   "begin": "2256.280",
+   "children": [],
+   "end": "2264.640",
+   "id": "f000572",
+   "language": "eng",
+   "lines": [
+    "No two Ollivander wands are the same, just as no two unicorns, dragons, or phoenixes are quite the same."
+   ]
+  },
+  {
+   "begin": "2264.640",
+   "children": [],
+   "end": "2270.480",
+   "id": "f000573",
+   "language": "eng",
+   "lines": [
+    "And of course, you will never get such good results with another wizard's wand.\""
    ]
   },
   {
    "begin": "2270.480",
    "children": [],
-   "end": "2282.280",
-   "id": "f000267",
+   "end": "2277.920",
+   "id": "f000574",
    "language": "eng",
    "lines": [
-    "Harry suddenly realized that the tape measure, which was measuring between his nostrils, was doing this on its own. Mr. Ollivander was flitting around the shelves, taking down boxes."
+    "Harry suddenly realized that the tape measure, which was measuring between his nostrils, was doing this on its own."
+   ]
+  },
+  {
+   "begin": "2277.920",
+   "children": [],
+   "end": "2282.280",
+   "id": "f000575",
+   "language": "eng",
+   "lines": [
+    "Mr. Ollivander was flitting around the shelves, taking down boxes."
    ]
   },
   {
    "begin": "2282.280",
    "children": [],
-   "end": "2299.640",
-   "id": "f000268",
+   "end": "2287.960",
+   "id": "f000576",
    "language": "eng",
    "lines": [
-    "\"That will do,\" he said, and the tape measure crumpled into a heap on the floor. \"Right then, Mr. Potter. Try this one. Beechwood and dragon heartstring. Nine inches. Nice and flexible. Just take it and give it a wave.\""
+    "\"That will do,\" he said, and the tape measure crumpled into a heap on the floor."
+   ]
+  },
+  {
+   "begin": "2287.960",
+   "children": [],
+   "end": "2290.200",
+   "id": "f000577",
+   "language": "eng",
+   "lines": [
+    "\"Right then, Mr. Potter."
+   ]
+  },
+  {
+   "begin": "2290.200",
+   "children": [],
+   "end": "2291.480",
+   "id": "f000578",
+   "language": "eng",
+   "lines": [
+    "Try this one."
+   ]
+  },
+  {
+   "begin": "2291.480",
+   "children": [],
+   "end": "2294.320",
+   "id": "f000579",
+   "language": "eng",
+   "lines": [
+    "Beechwood and dragon heartstring."
+   ]
+  },
+  {
+   "begin": "2294.320",
+   "children": [],
+   "end": "2295.560",
+   "id": "f000580",
+   "language": "eng",
+   "lines": [
+    "Nine inches."
+   ]
+  },
+  {
+   "begin": "2295.560",
+   "children": [],
+   "end": "2297.200",
+   "id": "f000581",
+   "language": "eng",
+   "lines": [
+    "Nice and flexible."
+   ]
+  },
+  {
+   "begin": "2297.200",
+   "children": [],
+   "end": "2299.640",
+   "id": "f000582",
+   "language": "eng",
+   "lines": [
+    "Just take it and give it a wave.\""
    ]
   },
   {
    "begin": "2299.640",
    "children": [],
    "end": "2308.160",
-   "id": "f000269",
+   "id": "f000583",
    "language": "eng",
    "lines": [
     "Harry took the wand and (feeling foolish) waved it around a bit, but Mr. Ollivander snatched it out of his hand almost at once."
@@ -2693,18 +5833,48 @@
   {
    "begin": "2308.160",
    "children": [],
-   "end": "2313.520",
-   "id": "f000270",
+   "end": "2310.440",
+   "id": "f000584",
    "language": "eng",
    "lines": [
-    "\"Maple and phoenix feather. Seven inches. Quite whippy. Try - \""
+    "\"Maple and phoenix feather."
+   ]
+  },
+  {
+   "begin": "2310.440",
+   "children": [],
+   "end": "2311.800",
+   "id": "f000585",
+   "language": "eng",
+   "lines": [
+    "Seven inches."
+   ]
+  },
+  {
+   "begin": "2311.800",
+   "children": [],
+   "end": "2312.520",
+   "id": "f000586",
+   "language": "eng",
+   "lines": [
+    "Quite whippy."
+   ]
+  },
+  {
+   "begin": "2312.520",
+   "children": [],
+   "end": "2313.520",
+   "id": "f000587",
+   "language": "eng",
+   "lines": [
+    "Try - \""
    ]
   },
   {
    "begin": "2313.520",
    "children": [],
    "end": "2319.680",
-   "id": "f000271",
+   "id": "f000588",
    "language": "eng",
    "lines": [
     "Harry tried - but he had hardly raised the wand when it, too, was snatched back by Mr. Ollivander."
@@ -2713,58 +5883,288 @@
   {
    "begin": "2319.680",
    "children": [],
-   "end": "2327.160",
-   "id": "f000272",
+   "end": "2325.280",
+   "id": "f000589",
    "language": "eng",
    "lines": [
-    "\"No, no - here, ebony and unicorn hair, eight and a half inches, springy. Go on, go on, try it out.\""
+    "\"No, no - here, ebony and unicorn hair, eight and a half inches, springy."
+   ]
+  },
+  {
+   "begin": "2325.280",
+   "children": [],
+   "end": "2327.160",
+   "id": "f000590",
+   "language": "eng",
+   "lines": [
+    "Go on, go on, try it out.\""
    ]
   },
   {
    "begin": "2327.160",
    "children": [],
-   "end": "2343.120",
-   "id": "f000273",
+   "end": "2329.000",
+   "id": "f000591",
    "language": "eng",
    "lines": [
-    "Harry tried. And tried. He had no idea what Mr. Ollivander was waiting for. The pile of tried wands was mounting higher and higher on the spindly chair, but the more wands Mr. Ollivander pulled from the shelves, the happier he seemed to become."
+    "Harry tried."
    ]
   },
   {
-   "begin": "2343.120",
+   "begin": "2329.000",
    "children": [],
-   "end": "2362.240",
-   "id": "f000274",
+   "end": "2330.120",
+   "id": "f000592",
    "language": "eng",
    "lines": [
-    "\"Tricky customer, eh? Not to worry, we'll find the perfect match here somewhere - I wonder, now - yes, why not - unusual combination - holly and phoenix feather, eleven inches, nice and supple.\""
+    "And tried."
+   ]
+  },
+  {
+   "begin": "2330.120",
+   "children": [],
+   "end": "2333.320",
+   "id": "f000593",
+   "language": "eng",
+   "lines": [
+    "He had no idea what Mr. Ollivander was waiting for."
+   ]
+  },
+  {
+   "begin": "2333.320",
+   "children": [],
+   "end": "2343.040",
+   "id": "f000594",
+   "language": "eng",
+   "lines": [
+    "The pile of tried wands was mounting higher and higher on the spindly chair, but the more wands Mr. Ollivander pulled from the shelves, the happier he seemed to become."
+   ]
+  },
+  {
+   "begin": "2343.040",
+   "children": [],
+   "end": "2345.800",
+   "id": "f000595",
+   "language": "eng",
+   "lines": [
+    "\"Tricky customer, eh?"
+   ]
+  },
+  {
+   "begin": "2345.800",
+   "children": [],
+   "end": "2362.240",
+   "id": "f000596",
+   "language": "eng",
+   "lines": [
+    "Not to worry, we'll find the perfect match here somewhere - I wonder, now - yes, why not - unusual combination - holly and phoenix feather, eleven inches, nice and supple.\""
    ]
   },
   {
    "begin": "2362.240",
    "children": [],
-   "end": "2393.840",
-   "id": "f000275",
+   "end": "2364.920",
+   "id": "f000597",
    "language": "eng",
    "lines": [
-    "Harry took the wand. He felt a sudden warmth in his fingers. He raised the wand above his head, brought it swishing down through the dusty air and a stream of red and gold sparks shot from the end like a firework, throwing dancing spots of light on to the walls. Hagrid whooped and clapped and Mr. Ollivander cried, \"Oh, bravo! Yes, indeed, oh, very good. Well, well, well . . . how curious . . . how very curious . . .\""
+    "Harry took the wand."
+   ]
+  },
+  {
+   "begin": "2364.920",
+   "children": [],
+   "end": "2367.600",
+   "id": "f000598",
+   "language": "eng",
+   "lines": [
+    "He felt a sudden warmth in his fingers."
+   ]
+  },
+  {
+   "begin": "2367.600",
+   "children": [],
+   "end": "2379.240",
+   "id": "f000599",
+   "language": "eng",
+   "lines": [
+    "He raised the wand above his head, brought it swishing down through the dusty air and a stream of red and gold sparks shot from the end like a firework, throwing dancing spots of light on to the walls."
+   ]
+  },
+  {
+   "begin": "2379.240",
+   "children": [],
+   "end": "2383.880",
+   "id": "f000600",
+   "language": "eng",
+   "lines": [
+    "Hagrid whooped and clapped and Mr. Ollivander cried, \"Oh, bravo!"
+   ]
+  },
+  {
+   "begin": "2383.880",
+   "children": [],
+   "end": "2386.120",
+   "id": "f000601",
+   "language": "eng",
+   "lines": [
+    "Yes, indeed, oh, very good."
+   ]
+  },
+  {
+   "begin": "2386.120",
+   "children": [],
+   "end": "2389.280",
+   "id": "f000602",
+   "language": "eng",
+   "lines": [
+    "Well, well, well ."
+   ]
+  },
+  {
+   "begin": "2389.280",
+   "children": [],
+   "end": "2389.320",
+   "id": "f000603",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2389.320",
+   "children": [],
+   "end": "2389.320",
+   "id": "f000604",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2389.320",
+   "children": [],
+   "end": "2391.360",
+   "id": "f000605",
+   "language": "eng",
+   "lines": [
+    "how curious ."
+   ]
+  },
+  {
+   "begin": "2391.360",
+   "children": [],
+   "end": "2391.360",
+   "id": "f000606",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2391.360",
+   "children": [],
+   "end": "2391.400",
+   "id": "f000607",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2391.400",
+   "children": [],
+   "end": "2393.840",
+   "id": "f000608",
+   "language": "eng",
+   "lines": [
+    "how very curious ."
    ]
   },
   {
    "begin": "2393.840",
    "children": [],
-   "end": "2402.400",
-   "id": "f000276",
+   "end": "2393.840",
+   "id": "f000609",
    "language": "eng",
    "lines": [
-    "He put Harry's wand back into its box and wrapped it in brown paper, still muttering, \"Curious . . . curious . . .\""
+    "."
    ]
   },
   {
-   "begin": "2402.400",
+   "begin": "2393.840",
+   "children": [],
+   "end": "2393.840",
+   "id": "f000610",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "2393.840",
+   "children": [],
+   "end": "2401.040",
+   "id": "f000611",
+   "language": "eng",
+   "lines": [
+    "He put Harry's wand back into its box and wrapped it in brown paper, still muttering, \"Curious ."
+   ]
+  },
+  {
+   "begin": "2401.040",
+   "children": [],
+   "end": "2401.040",
+   "id": "f000612",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2401.040",
+   "children": [],
+   "end": "2401.040",
+   "id": "f000613",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2401.040",
+   "children": [],
+   "end": "2401.920",
+   "id": "f000614",
+   "language": "eng",
+   "lines": [
+    "curious ."
+   ]
+  },
+  {
+   "begin": "2401.920",
+   "children": [],
+   "end": "2402.000",
+   "id": "f000615",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2402.000",
+   "children": [],
+   "end": "2402.320",
+   "id": "f000616",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "2402.320",
    "children": [],
    "end": "2406.640",
-   "id": "f000277",
+   "id": "f000617",
    "language": "eng",
    "lines": [
     "\"Sorry,\" said Harry, \"but what's curious?\""
@@ -2773,138 +6173,498 @@
   {
    "begin": "2406.640",
    "children": [],
-   "end": "2410.120",
-   "id": "f000278",
+   "end": "2410.080",
+   "id": "f000618",
    "language": "eng",
    "lines": [
     "Mr. Ollivander fixed Harry with his pale stare."
    ]
   },
   {
-   "begin": "2410.120",
+   "begin": "2410.080",
    "children": [],
-   "end": "2436.840",
-   "id": "f000279",
+   "end": "2414.800",
+   "id": "f000619",
    "language": "eng",
    "lines": [
-    "\"I remember every wand I've ever sold, Mr. Potter. Every single wand. It so happens that the phoenix whose tail feather is in your wand, gave another feather just one other. It is very curious indeed that you should be destined for this wand when its brother - why, its brother gave you that scar.\""
+    "\"I remember every wand I've ever sold, Mr. Potter."
+   ]
+  },
+  {
+   "begin": "2414.800",
+   "children": [],
+   "end": "2416.720",
+   "id": "f000620",
+   "language": "eng",
+   "lines": [
+    "Every single wand."
+   ]
+  },
+  {
+   "begin": "2416.720",
+   "children": [],
+   "end": "2425.800",
+   "id": "f000621",
+   "language": "eng",
+   "lines": [
+    "It so happens that the phoenix whose tail feather is in your wand, gave another feather just one other."
+   ]
+  },
+  {
+   "begin": "2425.800",
+   "children": [],
+   "end": "2436.840",
+   "id": "f000622",
+   "language": "eng",
+   "lines": [
+    "It is very curious indeed that you should be destined for this wand when its brother - why, its brother gave you that scar.\""
    ]
   },
   {
    "begin": "2436.840",
    "children": [],
-   "end": "2438.680",
-   "id": "f000280",
+   "end": "2438.640",
+   "id": "f000623",
    "language": "eng",
    "lines": [
     "Harry swallowed."
    ]
   },
   {
-   "begin": "2438.680",
+   "begin": "2438.640",
    "children": [],
-   "end": "2464.200",
-   "id": "f000281",
+   "end": "2441.640",
+   "id": "f000624",
    "language": "eng",
    "lines": [
-    "\"Yes, thirteen-and-a-half inches. Yew. Curious indeed how these things happen. The wand chooses the wizard, remember. . . . I think we must expect great things from you, Mr. Potter. . . . After all, He-Who-Must-Not-Be-Named did great things terrible, yes, but great.\""
+    "\"Yes, thirteen-and-a-half inches."
+   ]
+  },
+  {
+   "begin": "2441.640",
+   "children": [],
+   "end": "2442.160",
+   "id": "f000625",
+   "language": "eng",
+   "lines": [
+    "Yew."
+   ]
+  },
+  {
+   "begin": "2442.160",
+   "children": [],
+   "end": "2445.720",
+   "id": "f000626",
+   "language": "eng",
+   "lines": [
+    "Curious indeed how these things happen."
+   ]
+  },
+  {
+   "begin": "2445.720",
+   "children": [],
+   "end": "2449.600",
+   "id": "f000627",
+   "language": "eng",
+   "lines": [
+    "The wand chooses the wizard, remember."
+   ]
+  },
+  {
+   "begin": "2449.600",
+   "children": [],
+   "end": "2449.600",
+   "id": "f000628",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2449.600",
+   "children": [],
+   "end": "2449.600",
+   "id": "f000629",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2449.600",
+   "children": [],
+   "end": "2449.600",
+   "id": "f000630",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2449.600",
+   "children": [],
+   "end": "2454.960",
+   "id": "f000631",
+   "language": "eng",
+   "lines": [
+    "I think we must expect great things from you, Mr. Potter."
+   ]
+  },
+  {
+   "begin": "2454.960",
+   "children": [],
+   "end": "2454.960",
+   "id": "f000632",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2454.960",
+   "children": [],
+   "end": "2454.960",
+   "id": "f000633",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2454.960",
+   "children": [],
+   "end": "2454.960",
+   "id": "f000634",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2454.960",
+   "children": [],
+   "end": "2464.200",
+   "id": "f000635",
+   "language": "eng",
+   "lines": [
+    "After all, He-Who-Must-Not-Be-Named did great things terrible, yes, but great.\""
    ]
   },
   {
    "begin": "2464.200",
    "children": [],
-   "end": "2477.800",
-   "id": "f000282",
+   "end": "2466.640",
+   "id": "f000636",
    "language": "eng",
    "lines": [
-    "Harry shivered. He wasn't sure he liked Mr. Ollivander too much. He paid seven gold Galleons for his wand, and Mr. Ollivander bowed them from his shop."
+    "Harry shivered."
+   ]
+  },
+  {
+   "begin": "2466.640",
+   "children": [],
+   "end": "2470.120",
+   "id": "f000637",
+   "language": "eng",
+   "lines": [
+    "He wasn't sure he liked Mr. Ollivander too much."
+   ]
+  },
+  {
+   "begin": "2470.120",
+   "children": [],
+   "end": "2477.800",
+   "id": "f000638",
+   "language": "eng",
+   "lines": [
+    "He paid seven gold Galleons for his wand, and Mr. Ollivander bowed them from his shop."
    ]
   },
   {
    "begin": "2477.800",
    "children": [],
-   "end": "2511.960",
-   "id": "f000283",
+   "end": "2489.440",
+   "id": "f000639",
    "language": "eng",
    "lines": [
-    "The late afternoon sun hung low in the sky as Harry and Hagrid made their way back down Diagon Alley, back through the wall, back through the Leaky Cauldron, now empty. Harry didn't speak at all as they walked down the road; he didn't even notice how much people were gawking at them on the Underground, laden as they were with all their funny-shaped packages, with the snowy owl asleep in its cage on Harry's lap. Up another escalator, out into Paddington station; Harry only realized where they were when Hagrid tapped him on the shoulder."
+    "The late afternoon sun hung low in the sky as Harry and Hagrid made their way back down Diagon Alley, back through the wall, back through the Leaky Cauldron, now empty."
    ]
   },
   {
-   "begin": "2511.960",
+   "begin": "2489.440",
    "children": [],
-   "end": "2517.080",
-   "id": "f000284",
+   "end": "2503.320",
+   "id": "f000640",
+   "language": "eng",
+   "lines": [
+    "Harry didn't speak at all as they walked down the road; he didn't even notice how much people were gawking at them on the Underground, laden as they were with all their funny-shaped packages, with the snowy owl asleep in its cage on Harry's lap."
+   ]
+  },
+  {
+   "begin": "2503.320",
+   "children": [],
+   "end": "2511.920",
+   "id": "f000641",
+   "language": "eng",
+   "lines": [
+    "Up another escalator, out into Paddington station; Harry only realized where they were when Hagrid tapped him on the shoulder."
+   ]
+  },
+  {
+   "begin": "2511.920",
+   "children": [],
+   "end": "2517.000",
+   "id": "f000642",
    "language": "eng",
    "lines": [
     "\"Got time fer a bite to eat before yer train leaves,\" he said."
    ]
   },
   {
-   "begin": "2517.080",
+   "begin": "2517.000",
    "children": [],
-   "end": "2526.160",
-   "id": "f000285",
+   "end": "2521.240",
+   "id": "f000643",
    "language": "eng",
    "lines": [
-    "He bought Harry a hamburger and they sat down on plastic seats to eat them. Harry kept looking around. Everything looked so strange, somehow."
+    "He bought Harry a hamburger and they sat down on plastic seats to eat them."
    ]
   },
   {
-   "begin": "2526.160",
+   "begin": "2521.240",
    "children": [],
-   "end": "2530.920",
-   "id": "f000286",
+   "end": "2523.400",
+   "id": "f000644",
    "language": "eng",
    "lines": [
-    "\"You all right, Harry? Yer very quiet,\" said Hagrid."
+    "Harry kept looking around."
+   ]
+  },
+  {
+   "begin": "2523.400",
+   "children": [],
+   "end": "2526.120",
+   "id": "f000645",
+   "language": "eng",
+   "lines": [
+    "Everything looked so strange, somehow."
+   ]
+  },
+  {
+   "begin": "2526.120",
+   "children": [],
+   "end": "2528.200",
+   "id": "f000646",
+   "language": "eng",
+   "lines": [
+    "\"You all right, Harry?"
+   ]
+  },
+  {
+   "begin": "2528.200",
+   "children": [],
+   "end": "2530.920",
+   "id": "f000647",
+   "language": "eng",
+   "lines": [
+    "Yer very quiet,\" said Hagrid."
    ]
   },
   {
    "begin": "2530.920",
    "children": [],
-   "end": "2540.720",
-   "id": "f000287",
+   "end": "2533.800",
+   "id": "f000648",
    "language": "eng",
    "lines": [
-    "Harry wasn't sure he could explain. He'd just had the best birthday of his life - and yet - he chewed his hamburger, trying to find the words."
+    "Harry wasn't sure he could explain."
+   ]
+  },
+  {
+   "begin": "2533.800",
+   "children": [],
+   "end": "2540.720",
+   "id": "f000649",
+   "language": "eng",
+   "lines": [
+    "He'd just had the best birthday of his life - and yet - he chewed his hamburger, trying to find the words."
    ]
   },
   {
    "begin": "2540.720",
    "children": [],
-   "end": "2565.200",
-   "id": "f000288",
+   "end": "2544.280",
+   "id": "f000650",
    "language": "eng",
    "lines": [
-    "\"Everyone thinks I'm special,\" he said at last. \"All those people in the Leaky Cauldron, Professor Quirrell, Mr. Ollivander . . . but I don't know anything about magic at all. How can they expect great things? I'm famous and I can't even remember what I'm famous for. I don't know what happened when Vol-, sorry - I mean, the night my parents died.\""
+    "\"Everyone thinks I'm special,\" he said at last."
+   ]
+  },
+  {
+   "begin": "2544.280",
+   "children": [],
+   "end": "2549.200",
+   "id": "f000651",
+   "language": "eng",
+   "lines": [
+    "\"All those people in the Leaky Cauldron, Professor Quirrell, Mr. Ollivander ."
+   ]
+  },
+  {
+   "begin": "2549.200",
+   "children": [],
+   "end": "2549.200",
+   "id": "f000652",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2549.200",
+   "children": [],
+   "end": "2549.240",
+   "id": "f000653",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2549.240",
+   "children": [],
+   "end": "2551.880",
+   "id": "f000654",
+   "language": "eng",
+   "lines": [
+    "but I don't know anything about magic at all."
+   ]
+  },
+  {
+   "begin": "2551.880",
+   "children": [],
+   "end": "2554.800",
+   "id": "f000655",
+   "language": "eng",
+   "lines": [
+    "How can they expect great things?"
+   ]
+  },
+  {
+   "begin": "2554.800",
+   "children": [],
+   "end": "2559.240",
+   "id": "f000656",
+   "language": "eng",
+   "lines": [
+    "I'm famous and I can't even remember what I'm famous for."
+   ]
+  },
+  {
+   "begin": "2559.240",
+   "children": [],
+   "end": "2565.200",
+   "id": "f000657",
+   "language": "eng",
+   "lines": [
+    "I don't know what happened when Vol-, sorry - I mean, the night my parents died.\""
    ]
   },
   {
    "begin": "2565.200",
    "children": [],
-   "end": "2572.040",
-   "id": "f000289",
+   "end": "2567.800",
+   "id": "f000658",
    "language": "eng",
    "lines": [
-    "Hagrid leaned across the table. Behind the wild beard and eyebrows he wore a very kind smile."
+    "Hagrid leaned across the table."
    ]
   },
   {
-   "begin": "2572.040",
+   "begin": "2567.800",
    "children": [],
-   "end": "2592.960",
-   "id": "f000290",
+   "end": "2571.960",
+   "id": "f000659",
    "language": "eng",
    "lines": [
-    "\"Don' you worry, Harry. You'll learn fast enough. Everyone starts at the beginning at Hogwarts, you'll be just fine. Just be yerself. I know it's hard. Yeh've been singled out, an' that's always hard. But yeh'll have a great time at Hogwarts - I did - still do, 'smatter of fact.\""
+    "Behind the wild beard and eyebrows he wore a very kind smile."
+   ]
+  },
+  {
+   "begin": "2571.960",
+   "children": [],
+   "end": "2574.240",
+   "id": "f000660",
+   "language": "eng",
+   "lines": [
+    "\"Don' you worry, Harry."
+   ]
+  },
+  {
+   "begin": "2574.240",
+   "children": [],
+   "end": "2576.160",
+   "id": "f000661",
+   "language": "eng",
+   "lines": [
+    "You'll learn fast enough."
+   ]
+  },
+  {
+   "begin": "2576.160",
+   "children": [],
+   "end": "2580.680",
+   "id": "f000662",
+   "language": "eng",
+   "lines": [
+    "Everyone starts at the beginning at Hogwarts, you'll be just fine."
+   ]
+  },
+  {
+   "begin": "2580.680",
+   "children": [],
+   "end": "2582.560",
+   "id": "f000663",
+   "language": "eng",
+   "lines": [
+    "Just be yerself."
+   ]
+  },
+  {
+   "begin": "2582.560",
+   "children": [],
+   "end": "2583.960",
+   "id": "f000664",
+   "language": "eng",
+   "lines": [
+    "I know it's hard."
+   ]
+  },
+  {
+   "begin": "2583.960",
+   "children": [],
+   "end": "2587.440",
+   "id": "f000665",
+   "language": "eng",
+   "lines": [
+    "Yeh've been singled out, an' that's always hard."
+   ]
+  },
+  {
+   "begin": "2587.440",
+   "children": [],
+   "end": "2592.960",
+   "id": "f000666",
+   "language": "eng",
+   "lines": [
+    "But yeh'll have a great time at Hogwarts - I did - still do, 'smatter of fact.\""
    ]
   },
   {
    "begin": "2592.960",
    "children": [],
    "end": "2600.120",
-   "id": "f000291",
+   "id": "f000667",
    "language": "eng",
    "lines": [
     "Hagrid helped Harry on to the train that would take him back to the Dursleys, then handed him an envelope."
@@ -2913,31 +6673,101 @@
   {
    "begin": "2600.120",
    "children": [],
-   "end": "2607.680",
-   "id": "f000292",
+   "end": "2604.000",
+   "id": "f000668",
    "language": "eng",
    "lines": [
-    "\"Yer ticket fer Hogwarts,\" he said. \"First o' September - King's Cross - it's"
+    "\"Yer ticket fer Hogwarts,\" he said."
    ]
   },
   {
-   "begin": "2607.680",
+   "begin": "2604.000",
    "children": [],
-   "end": "2617.880",
-   "id": "f000293",
+   "end": "2607.520",
+   "id": "f000669",
    "language": "eng",
    "lines": [
-    "all on yer ticket. Any problems with the Dursleys, send me a letter with yer owl, she'll know where to find me. . . . See yeh soon, Harry.\""
+    "\"First o' September - King's Cross - it's"
+   ]
+  },
+  {
+   "begin": "2607.520",
+   "children": [],
+   "end": "2608.720",
+   "id": "f000670",
+   "language": "eng",
+   "lines": [
+    "all on yer ticket."
+   ]
+  },
+  {
+   "begin": "2608.720",
+   "children": [],
+   "end": "2615.200",
+   "id": "f000671",
+   "language": "eng",
+   "lines": [
+    "Any problems with the Dursleys, send me a letter with yer owl, she'll know where to find me."
+   ]
+  },
+  {
+   "begin": "2615.200",
+   "children": [],
+   "end": "2615.200",
+   "id": "f000672",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2615.200",
+   "children": [],
+   "end": "2615.200",
+   "id": "f000673",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2615.200",
+   "children": [],
+   "end": "2615.240",
+   "id": "f000674",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2615.240",
+   "children": [],
+   "end": "2617.880",
+   "id": "f000675",
+   "language": "eng",
+   "lines": [
+    "See yeh soon, Harry.\""
    ]
   },
   {
    "begin": "2617.880",
    "children": [],
-   "end": "2635.000",
-   "id": "f000294",
+   "end": "2621.600",
+   "id": "f000676",
    "language": "eng",
    "lines": [
-    "The train pulled out of the station. Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his nose against the window, but he blinked and Hagrid had gone."
+    "The train pulled out of the station."
+   ]
+  },
+  {
+   "begin": "2621.600",
+   "children": [],
+   "end": "2635.000",
+   "id": "f000677",
+   "language": "eng",
+   "lines": [
+    "Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his nose against the window, but he blinked and Hagrid had gone."
    ]
   }
  ]
